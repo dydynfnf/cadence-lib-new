@@ -15,7 +15,7 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources" ".\mylibrary.olb")
-      (Select "Design Resources" ".\mylibrary.olb"))
+      (Select "Design Resources" ".\mylibrary.olb" "CAT4238"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -32,5 +32,27 @@
         (Scroll "1361 635")
         (Zoom "504"))
       (Path "E:\CADENCE LIB\MYLIBRARY.OLB")
-      (Package "Inductor")))
+      (Package "Inductor"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 848 100 513")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2604 1252")
+        (Zoom "840"))
+      (Path "E:\CADENCE LIB\MYLIBRARY.OLB")
+      (Package "Cap"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 873 125 538")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2604 1252")
+        (Zoom "840"))
+      (Path "E:\CADENCE LIB\MYLIBRARY.OLB")
+      (Package "Cap+")))
   (MPSSessionName "psai"))
