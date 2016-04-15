@@ -1,0 +1,9 @@
+(Device File: RT8509-DFN10)
+
+PACKAGE RT8509-DFN10
+CLASS IC
+PINCOUNT 11
+PINORDER RT8509-DFN10 '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' 
+FUNCTION g1 RT8509-DFN10 '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' 
+
+END

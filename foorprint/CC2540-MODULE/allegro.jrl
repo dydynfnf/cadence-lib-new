@@ -1,0 +1,22 @@
+\t (00:00:00) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:00)     Journal start - Tue Dec 29 14:27:54 2015
+\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=13064 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: E:/candence lib/foorprint/CC2540-MODULE/cc2540-module.dra
+\i (00:00:00) trapsize 2951
+\i (00:00:00) trapsize 2898
+\i (00:00:00) trapsize 2960
+\i (00:00:01) trapsize 2960
+\i (00:00:01) generaledit 
+\i (00:00:02) open 
+\i (00:00:18) fillin "E:\material\glass\pcb\3.test-stm32f429\pcb\f429.brd"
+\i (00:00:18) cd "E:\material\glass\pcb\3.test-stm32f429\pcb"
+\t (00:00:18) Opening existing design...
+\i (00:00:19) trapsize 1678
+\i (00:00:19) trapsize 1643
+\i (00:00:19) trapsize 1678
+\i (00:00:19) trapsize 1692
+\i (00:00:19) trapsize 1867
+\t (00:00:20)     Journal end - Tue Dec 29 14:28:14 2015

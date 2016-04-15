@@ -1,0 +1,11 @@
+(Device File: ADS1271-SOP16)
+
+PACKAGE ADS1271-SOP16
+CLASS IC
+PINCOUNT 16
+PINORDER ADS1271-SOP16 '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' '12' ,
+'13' '14' '15' '16' 
+FUNCTION g1 ADS1271-SOP16 '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11' ,
+'12' '13' '14' '15' '16' 
+
+END

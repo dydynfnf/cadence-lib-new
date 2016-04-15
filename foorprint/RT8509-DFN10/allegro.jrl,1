@@ -1,0 +1,103 @@
+\t (00:04:10) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:04:10)     Journal start - Sun Oct 04 16:32:09 2015
+\t (00:04:10)         Host=HFP-20120615TNE User=Administrator Pid=7516 CPUs=4
+\t (00:04:10) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:04:10) 
+\d (00:04:10) Design opened: E:/candence lib/foorprint/RT8509-DFN10/rt8509-dfn10.dra
+\i (00:04:10) generaledit 
+\i (00:04:11) zoom out 1 
+\i (00:04:11) setwindow pcb
+\i (00:04:11) zoom out -0.0156 0.2365
+\i (00:04:11) trapsize 720
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in -0.5342 0.4381
+\i (00:04:12) trapsize 360
+\i (00:04:12) zoom in 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom in -0.5342 0.4381
+\i (00:04:12) trapsize 180
+\i (00:04:14) roam start
+\i (00:04:14) roam x -48
+\i (00:04:14) roam x -64
+\i (00:04:14) roam x -80
+\i (00:04:14) roam x -16
+\i (00:04:14) roam x -32
+\i (00:04:14) roam x -32
+\i (00:04:14) roam end
+\i (00:04:15) delete 
+\i (00:04:17) pick grid -1.8415 1.4357
+\t (00:04:17) last pick:  -1.8000 1.4000
+\t (00:04:17) Shape "Package Geometry/Place_Bound_Top"
+\i (00:04:17) pick grid -2.2701 1.6121
+\t (00:04:17) last pick:  -2.3000 1.6000
+\i (00:04:18) prepopup -2.2701 1.6193
+\i (00:04:19) done 
+\i (00:04:19) generaledit 
+\i (00:04:19) shape add rect 
+\i (00:04:21) pick grid -1.4886 1.4933
+\t (00:04:21) last pick:  -1.5000 1.5000
+\i (00:04:23) roam start
+\i (00:04:23) roam x 32
+\i (00:04:23) roam y 16
+\i (00:04:23) roam x 16
+\i (00:04:23) roam x 48
+\i (00:04:23) roam y 48
+\i (00:04:23) roam x 64
+\i (00:04:23) roam y 48
+\i (00:04:23) roam x 64
+\i (00:04:23) roam y 32
+\i (00:04:23) roam x 16
+\i (00:04:23) roam x 16
+\i (00:04:23) roam y 32
+\i (00:04:23) roam x 32
+\i (00:04:23) roam y 32
+\i (00:04:23) roam x 32
+\i (00:04:23) roam y 48
+\i (00:04:23) roam x 32
+\i (00:04:23) roam y 64
+\i (00:04:23) roam x 32
+\i (00:04:23) roam y 48
+\i (00:04:23) roam x 16
+\i (00:04:23) roam y 16
+\i (00:04:23) roam y 32
+\i (00:04:23) roam x 16
+\i (00:04:23) roam y 48
+\i (00:04:23) roam x 48
+\i (00:04:23) roam y 64
+\i (00:04:23) roam x 16
+\i (00:04:23) roam y 32
+\i (00:04:23) roam end
+\i (00:04:24) pick grid 1.5474 -1.5102
+\t (00:04:24) last pick:  1.5000 -1.5000
+\i (00:04:25) prepopup 1.9795 -1.2185
+\i (00:04:25) done 
+\i (00:04:25) generaledit 
+\i (00:04:26) open 
+\e (00:04:26) Do you want to save the changes you made to rt8509-dfn10.dra?
+\i (00:04:28) fillin menu_cancel 
+\i (00:04:28) generaledit 
+\i (00:04:29) save 
+\i (00:04:31) fillin yes 
+\t (00:04:31) Symbol 'rt8509-dfn10.psm' created.
+\i (00:04:31) generaledit 
+\i (00:04:48) open 
+\i (00:05:00) fillin "menu_cancel"
+\i (00:05:00) generaledit 
+\i (00:05:01) zoom out 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom out 0.7839 -1.6506
+\i (00:05:01) trapsize 360
+\i (00:05:01) zoom out 1 
+\i (00:05:01) setwindow pcb
+\i (00:05:01) zoom out 1.6050 -2.1116
+\i (00:05:01) trapsize 720
+\i (00:05:02) roam start
+\i (00:05:02) roam y -32
+\i (00:05:02) roam y -48
+\i (00:05:02) roam y -32
+\i (00:05:02) roam y -32
+\i (00:05:02) roam y -16
+\i (00:05:02) roam end
+\i (00:05:05) exit 
+\t (00:05:06)     Journal end - Sun Oct 04 16:33:05 2015

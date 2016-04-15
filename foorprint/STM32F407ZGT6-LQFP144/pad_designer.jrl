@@ -1,0 +1,41 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Thu Apr 14 21:57:46 2016
+\t (00:00:00)         Host=DAQI-PC User=DaQi Pid=13064 CPUs=4
+\t (00:00:00) 
+\i (00:00:00) setwindow form.padedit
+\i (00:00:00) replay c100m200k200.psr 
+\i (00:00:00) version 16.5 
+\t (00:00:00) Script version: 16.5
+\i (00:00:00) setwindow form.padedit 
+\i (00:00:00) pse_new 
+\i (00:00:00) fillin c100m200k200 
+\i (00:00:01) FORM padedit units Millimeter 
+\i (00:00:01) FORM padedit units Millimeter 
+\i (00:00:01) fillin yes 
+\w (00:00:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:01) FORM padedit decimal_places 4 
+\i (00:00:01) FORM padedit inner_layer_opt YES 
+\e (00:00:01) Form field label not found
+\i (00:00:01) FORM padedit single YES 
+\e (00:00:01) Field is currently invisible or disabled.
+\i (00:00:01) setwindow Form.padedit 
+\i (00:00:01) FORM padedit layers 
+\i (00:00:01) FORM padedit layers  
+\i (00:00:01) FORM padedit grid row begin_layer 
+\i (00:00:01) FORM padedit grid row begin_layer 
+\i (00:00:01) FORM padedit grid change begin_layer,begin_layer TOP 
+\e (00:00:01) Row,Column value is not valid for field.
+\i (00:00:01) FORM padedit geometry Circle 
+\i (00:00:01) FORM padedit geometry Circle 
+\i (00:00:01) FORM padedit width 1 
+\i (00:00:01) FORM padedit width 1 
+\i (00:00:01) FORM padedit grid row SOLDERMASK_TOP 
+\i (00:00:01) FORM padedit grid row soldermask_top 
+\i (00:00:01) FORM padedit geometry Circle 
+\i (00:00:01) FORM padedit geometry Circle 
+\i (00:00:01) FORM padedit width 2 
+\i (00:00:01) FORM padedit width 2 
+\i (00:00:01) pse_check 
+\i (00:00:01) pse_save 
+\i (00:00:01) pse_exit 
+\t (00:00:01)     Journal end - Thu Apr 14 21:57:48 2016

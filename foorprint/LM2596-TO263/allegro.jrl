@@ -1,0 +1,17 @@
+\t (00:10:18) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:10:18)     Journal start - Fri Apr 15 11:14:26 2016
+\t (00:10:18)         Host=PSAI-PC User=psai Pid=7600 CPUs=4
+\t (00:10:18) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:10:18) 
+\d (00:10:18) Design opened: E:/cadence lib/foorprint/LM2596-TO263/lm2596-to263.dra
+\i (00:10:18) generaledit 
+\i (00:10:19) zoom in 1 
+\i (00:10:19) setwindow pcb
+\i (00:10:19) zoom in -0.1460 -2.9684
+\i (00:10:19) trapsize 1217
+\i (00:10:21) open 
+\i (00:10:30) fillin "E:\cadence lib\foorprint\LT3080-TO263\lt3080-to263.dra"
+\i (00:10:30) cd "E:\cadence lib\foorprint\LT3080-TO263"
+\t (00:10:30) Opening existing design...
+\i (00:10:30) trapsize 1243
+\t (00:10:30)     Journal end - Fri Apr 15 11:14:38 2016

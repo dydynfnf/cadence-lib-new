@@ -1,0 +1,42 @@
+\t (00:16:16) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:16:16)     Journal start - Mon Oct 05 20:53:51 2015
+\t (00:16:16)         Host=HFP-20120615TNE User=Administrator Pid=13740 CPUs=4
+\t (00:16:16) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:16:16) 
+\d (00:16:16) Design opened: E:/candence lib/foorprint/MAX8856-TDFN14/max8856-tdfn14.dra
+\i (00:16:16) generaledit 
+\i (00:16:20) roam start
+\i (00:16:20) roam y -32
+\i (00:16:20) roam y -48
+\i (00:16:21) roam y -48
+\i (00:16:21) roam y -32
+\i (00:16:21) roam y 16
+\i (00:16:21) roam y 32
+\i (00:16:21) roam y 32
+\i (00:16:21) roam y 32
+\i (00:16:21) roam y 32
+\i (00:16:21) roam y 16
+\i (00:16:21) roam y 16
+\i (00:16:21) roam end
+\i (00:16:22) prepopup -3.3939 1.8066
+\i (00:16:23) pick grid -4.6616 2.4549
+\t (00:16:23) last pick:  -4.7000 2.5000
+\i (00:16:24) add connect 
+\w (00:16:24) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:16:24) Pick first element.
+\i (00:16:25) pick grid -2.7888 2.0803
+\t (00:16:25) last pick:  -2.8000 2.1000
+\t (00:16:25) last pick:  -2.8000 2.1000
+\i (00:16:26) prepopup -3.5235 1.7202
+\i (00:16:27) cancel 
+\i (00:16:27) generaledit 
+\i (00:16:28) save 
+\i (00:16:29) fillin yes 
+\t (00:16:29) Symbol 'max8856-tdfn14.psm' created.
+\i (00:16:29) generaledit 
+\i (00:16:33) open 
+\i (00:17:02) fillin "E:\candence lib\foorprint\MAX17048-TDFN8\max17048-tdfn8.dra"
+\i (00:17:02) cd "E:\candence lib\foorprint\MAX17048-TDFN8"
+\t (00:17:02) Opening existing design...
+\i (00:17:02) trapsize 360
+\t (00:17:02)     Journal end - Mon Oct 05 20:54:37 2015

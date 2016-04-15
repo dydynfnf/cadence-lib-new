@@ -1,0 +1,9 @@
+(Device File: RT8065-QFN8)
+
+PACKAGE RT8065-QFN8
+CLASS IC
+PINCOUNT 9
+PINORDER RT8065-QFN8 '1' '2' '3' '4' '5' '6' '7' '8' '9' 
+FUNCTION g1 RT8065-QFN8 '1' '2' '3' '4' '5' '6' '7' '8' '9' 
+
+END

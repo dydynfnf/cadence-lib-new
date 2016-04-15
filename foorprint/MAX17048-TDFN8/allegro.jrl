@@ -1,0 +1,83 @@
+\t (00:00:06) allegro 16.6-2015 S064 (v16-6-112FD) Windows 32
+\t (00:00:06)     Journal start - Fri Feb 26 16:29:10 2016
+\t (00:00:06)         Host=HFP-20120615TNE User=Administrator Pid=5208 CPUs=4
+\t (00:00:06) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -sq
+\t (00:00:06) 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Design opened: E:/candence lib/foorprint/MAX17048-TDFN8/max17048-tdfn8.dra
+\i (00:00:09) trapsize 416
+\i (00:00:09) trapsize 404
+\i (00:00:09) trapsize 418
+\i (00:00:09) trapsize 343
+\i (00:00:09) trapsize 343
+\i (00:00:10) generaledit 
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -0.0441 0.0102
+\i (00:00:16) trapsize 172
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -0.0441 0.0137
+\i (00:00:16) trapsize 86
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -0.0441 0.0137
+\i (00:00:16) trapsize 43
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -0.0415 0.0138
+\i (00:00:16) trapsize 21
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out -0.0415 0.0138
+\i (00:00:16) trapsize 43
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out -0.0415 0.0138
+\i (00:00:16) trapsize 86
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 0.4736 0.2885
+\i (00:00:18) trapsize 172
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 0.4735 0.2885
+\i (00:00:18) trapsize 343
+\i (00:00:21) roam start
+\i (00:00:21) roam x 48
+\i (00:00:21) roam x 64
+\i (00:00:21) roam x 48
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x 96
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x 64
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x 32
+\i (00:00:21) roam y -16
+\i (00:00:21) roam x 16
+\i (00:00:21) roam y -16
+\i (00:00:21) roam end
+\i (00:00:22) roam start
+\i (00:00:22) roam y 64
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 32
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:22) roam x -16
+\i (00:00:22) roam y 16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y 16
+\i (00:00:23) roam x -16
+\i (00:00:23) roam y -16
+\i (00:00:23) roam y -16
+\i (00:00:23) roam end
+\i (00:00:47) open 
+\i (00:01:22) fillin "E:\material\glass\pcb\3.test-stm32f429\pcb\f429.brd"
+\i (00:01:22) cd "E:\material\glass\pcb\3.test-stm32f429\pcb"
+\t (00:01:22) Opening existing design...
+\i (00:01:22) trapsize 752
+\i (00:01:22) trapsize 731
+\i (00:01:23) trapsize 752
+\i (00:01:23) trapsize 761
+\i (00:01:23) trapsize 916
+\t (00:01:23)     Journal end - Fri Feb 26 16:30:27 2016

@@ -1,0 +1,15 @@
+\t (00:00:00) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:00)     Journal start - Tue Dec 29 12:18:31 2015
+\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=5500 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: E:/candence lib/foorprint/H-8/h-8.dra
+\i (00:00:02) trapsize 738
+\i (00:00:02) trapsize 725
+\i (00:00:02) trapsize 740
+\i (00:00:03) trapsize 740
+\i (00:00:03) generaledit 
+\i (00:03:27) new 
+\i (00:10:47) newdrawfillin "cc2540-module.dra" "Package Symbol"
+\t (00:10:47)     Journal end - Tue Dec 29 12:29:18 2015

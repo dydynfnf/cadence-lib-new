@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : lt1763-sop8.dra                               )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Thu Apr 14 22:09:14 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/LT1763-SOP8
+    Name      = lt1763-sop8.psm
+    User      = psai
+    Machine   = PSAI-LENOVO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

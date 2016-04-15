@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : lm2596-to263.dra                              )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Thu Apr 14 21:55:49 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/LM2596-TO263
+    Name      = lm2596-to263.psm
+    User      = psai
+    Machine   = PSAI-LENOVO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

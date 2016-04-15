@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : max8856-tdfn14.dra                            )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Mon Oct 05 11:50:20 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/candence lib/foorprint/MAX8856-TDFN14
+    Name      = max8856-tdfn14.psm
+    User      = Administrator
+    Machine   = HFP-20120615TNE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

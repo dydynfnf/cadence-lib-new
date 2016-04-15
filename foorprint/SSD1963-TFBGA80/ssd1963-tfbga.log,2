@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ssd1963-tfbga.dra                             )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Fri Oct 02 09:46:46 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/candence lib/foorprint/SSD1963-TFBGA
+    Name      = ssd1963-tfbga.psm
+    User      = Administrator
+    Machine   = HFP-20120615TNE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

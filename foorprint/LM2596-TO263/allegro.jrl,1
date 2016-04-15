@@ -1,0 +1,29 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Thu Apr 14 21:55:55 2016
+\t (00:00:01)         Host=PSAI-LENOVO User=psai Pid=892 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/cadence lib/foorprint/LM2596-TO263/lm2596-to263.dra
+\i (00:00:04) trapsize 2947
+\i (00:00:04) trapsize 2861
+\i (00:00:04) trapsize 2962
+\i (00:00:04) trapsize 3074
+\i (00:00:04) trapsize 2433
+\i (00:00:04) trapsize 2433
+\i (00:00:04) generaledit 
+\i (00:00:10) color192 
+\i (00:00:11) setwindow cvf.dialog
+\i (00:00:11) cvf layer_mode
+\i (00:00:11) setwindow pcb
+\i (00:00:11) generaledit 
+\i (00:00:12) setwindow cvf.dialog
+\i (00:00:12) cvf layer_tree_item 'Package Geometry'
+\i (00:00:13) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:00:14) cvf okay
+\i (00:00:17) setwindow pcb
+\i (00:00:17) exit 
+\e (00:00:17) Do you want to save the changes you made to lm2596-to263.dra?
+\i (00:00:18) fillin yes 
+\t (00:00:18) Symbol 'lm2596-to263.psm' created.
+\t (00:00:18)     Journal end - Thu Apr 14 21:56:11 2016

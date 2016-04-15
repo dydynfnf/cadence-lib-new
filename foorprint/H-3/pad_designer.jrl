@@ -1,0 +1,40 @@
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Fri Sep 11 11:35:06 2015
+\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=10332 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:04) setwindow form.padedit
+\i (00:00:04) FORM padedit layers  
+\i (00:00:06) FORM padedit grid row begin_layer 
+\i (00:00:09) FORM padedit geometry Rectangle 
+\i (00:00:13) FORM padedit width 10 
+\i (00:00:15) FORM padedit height 80 
+\i (00:00:18) FORM padedit grid rpopup begin_layer Copy 
+\i (00:00:21) FORM padedit single YES 
+\i (00:00:26) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:00:38) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:03:04) FORM padedit parameters  
+\i (00:03:05) FORM padedit layers  
+\i (00:03:06) FORM padedit crossbox YES 
+\i (00:03:06) FORM padedit stackbox YES 
+\i (00:03:07) FORM padedit crossbox YES 
+\i (00:03:14) FORM padedit parameters  
+\i (00:03:18) FORM padedit layers  
+\i (00:03:19) FORM padedit parameters  
+\i (00:03:22) pse_save_as 
+\i (00:04:07) fillin "E:\candence lib\foorprint\FPC-22\fpc-10-80.pad"
+\i (00:04:10) FORM padedit layers  
+\i (00:04:11) FORM padedit grid row begin_layer 
+\i (00:04:15) FORM padedit geometry Square 
+\i (00:04:19) FORM padedit width 120 
+\i (00:04:22) FORM padedit grid rpopup begin_layer Copy 
+\i (00:04:25) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:04:26) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:04:35) FORM padedit parameters  
+\i (00:04:38) FORM padedit layers  
+\i (00:04:39) FORM padedit parameters  
+\i (00:04:41) pse_check 
+\i (00:04:43) pse_save_as 
+\i (00:04:53) fillin "E:\candence lib\foorprint\FPC-22\fpc-120-120.pad"
+\i (00:04:55) pse_exit
+\t (00:04:55)     Journal end - Fri Sep 11 11:40:01 2015

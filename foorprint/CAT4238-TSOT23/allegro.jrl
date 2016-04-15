@@ -1,0 +1,68 @@
+\t (00:00:59) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:59)     Journal start - Fri Sep 11 10:33:04 2015
+\t (00:00:59)         Host=HFP-20120615TNE User=Administrator Pid=8836 CPUs=4
+\t (00:00:59) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:59) 
+\d (00:00:59) Design opened: E:/candence lib/foorprint/CAT4238-TSOT23/cat4238-tsot23.dra
+\i (00:00:59) generaledit 
+\i (00:01:00) roam start
+\i (00:01:00) roam x -32
+\i (00:01:00) roam y 32
+\i (00:01:00) roam x -96
+\i (00:01:00) roam y 64
+\i (00:01:00) roam x -64
+\i (00:01:00) roam y 48
+\i (00:01:00) roam x -80
+\i (00:01:00) roam y 48
+\i (00:01:00) roam x -64
+\i (00:01:00) roam y 48
+\i (00:01:00) roam x -64
+\i (00:01:00) roam y 32
+\i (00:01:00) roam x -32
+\i (00:01:00) roam y 32
+\i (00:01:00) roam x 16
+\i (00:01:00) roam y -32
+\i (00:01:01) roam x 16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam y -16
+\i (00:01:01) roam end
+\i (00:01:03) color192 
+\i (00:01:03) setwindow cvf.dialog
+\i (00:01:03) cvf layer_mode
+\i (00:01:03) setwindow pcb
+\i (00:01:03) generaledit 
+\i (00:01:09) setwindow cvf.dialog
+\i (00:01:09) cvf global_invisible
+\i (00:01:11) cvf layer_tree_item 'Stack-Up'
+\i (00:01:12) cvf layers_visible stack-up stack-up/top TRUE
+\i (00:01:13) cvf apply
+\i (00:01:15) cvf layers_visible stack-up stack-up/top FALSE
+\i (00:01:16) cvf layers_visible stack-up stack-up/bottom TRUE
+\i (00:01:17) cvf apply
+\i (00:01:18) cvf layers_visible stack-up stack-up/bottom FALSE
+\i (00:01:19) cvf layers_visible stack-up stack-up/soldermask_top TRUE
+\i (00:01:20) cvf apply
+\i (00:01:22) cvf layers_visible stack-up stack-up/soldermask_top FALSE
+\i (00:01:22) cvf layers_visible stack-up stack-up/soldermask_bottom TRUE
+\i (00:01:23) cvf apply
+\i (00:01:24) cvf layers_visible stack-up stack-up/soldermask_bottom FALSE
+\i (00:01:25) cvf layers_visible stack-up stack-up/pastemask_top TRUE
+\i (00:01:26) cvf apply
+\i (00:01:28) cvf layers_visible stack-up stack-up/pastemask_top FALSE
+\i (00:01:28) cvf layers_visible stack-up stack-up/pastemask_bottom TRUE
+\i (00:01:29) cvf apply
+\i (00:01:31) cvf layers_visible stack-up stack-up/pastemask_bottom FALSE
+\i (00:01:31) cvf layers_visible stack-up stack-up/pastemask_top TRUE
+\i (00:01:33) cvf apply
+\i (00:01:37) cvf cancel
+\i (00:01:40) setwindow pcb
+\i (00:01:40) open 
+\e (00:01:40) Do you want to save the changes you made to cat4238-tsot23.dra?
+\i (00:01:42) fillin no 
+\i (00:01:51) fillin "E:\candence lib\foorprint\AS1117-12-SOT223\as1117-12-sot223.dra"
+\i (00:01:51) cd "E:\candence lib\foorprint\AS1117-12-SOT223"
+\t (00:01:51) Opening existing design...
+\i (00:01:51) trapsize 1511
+\t (00:01:51)     Journal end - Fri Sep 11 10:33:57 2015

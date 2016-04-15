@@ -1,0 +1,64 @@
+\t (00:00:12) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:12)     Journal start - Fri Oct 02 21:47:33 2015
+\t (00:00:12)         Host=HFP-20120615TNE User=Administrator Pid=14408 CPUs=4
+\t (00:00:12) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:12) 
+\d (00:00:12) Design opened: E:/candence lib/foorprint/SSD1963-TFBGA80/ssd1963-tfbga80.dra
+\i (00:00:12) generaledit 
+\i (00:00:13) roam start
+\i (00:00:13) roam x 16
+\i (00:00:13) roam y 48
+\i (00:00:13) roam y 80
+\i (00:00:14) roam x -16
+\i (00:00:14) roam y 96
+\i (00:00:14) roam y 48
+\i (00:00:14) roam x -32
+\i (00:00:14) roam y 32
+\i (00:00:14) roam end
+\i (00:00:16) roam start
+\i (00:00:16) roam x 48
+\i (00:00:16) roam y 16
+\i (00:00:16) roam x 48
+\i (00:00:16) roam y 16
+\i (00:00:17) roam x 64
+\i (00:00:17) roam y 32
+\i (00:00:17) roam x 16
+\i (00:00:17) roam y 32
+\i (00:00:17) roam x 16
+\i (00:00:17) roam y 32
+\i (00:00:17) roam y 16
+\i (00:00:17) roam y 32
+\i (00:00:17) roam y 16
+\i (00:00:17) roam end
+\i (00:00:17) roam start
+\i (00:00:17) roam x 16
+\i (00:00:17) roam y -32
+\i (00:00:17) roam x -32
+\i (00:00:17) roam y -48
+\i (00:00:18) roam x -80
+\i (00:00:18) roam y -32
+\i (00:00:18) roam x -80
+\i (00:00:18) roam y -48
+\i (00:00:18) roam x -32
+\i (00:00:18) roam y -48
+\i (00:00:18) roam y -16
+\i (00:00:18) roam x -16
+\i (00:00:18) roam y -32
+\i (00:00:18) roam x -16
+\i (00:00:18) roam y -32
+\i (00:00:18) roam y -32
+\i (00:00:18) roam x 16
+\i (00:00:18) roam y -32
+\i (00:00:18) roam end
+\i (00:00:22) shape add rect 
+\i (00:00:22) pick grid -4.6717 3.8431
+\t (00:00:22) last pick:  -4.6700 3.8400
+\i (00:00:23) prepopup -4.4136 3.3916
+\i (00:00:25) cancel 
+\i (00:00:25) generaledit 
+\i (00:00:27) save 
+\i (00:00:36) fillin yes 
+\t (00:00:37) Symbol 'ssd1963-tfbga80.psm' created.
+\i (00:00:37) generaledit 
+\i (00:01:12) exit 
+\t (00:01:12)     Journal end - Fri Oct 02 21:48:33 2015

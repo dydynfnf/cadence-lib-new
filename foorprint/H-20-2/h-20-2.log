@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : h-20-2.dra                                    )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Wed Oct 07 09:17:04 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/candence lib/foorprint/H-20-2
+    Name      = h-20-2.psm
+    User      = Administrator
+    Machine   = HFP-20120615TNE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

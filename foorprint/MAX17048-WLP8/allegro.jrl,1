@@ -1,0 +1,33 @@
+\t (00:01:35) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:01:35)     Journal start - Sun Oct 04 16:29:34 2015
+\t (00:01:35)         Host=HFP-20120615TNE User=Administrator Pid=7516 CPUs=4
+\t (00:01:35) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:01:35) 
+\d (00:01:35) Design opened: E:/candence lib/foorprint/MAX17048-WLP8/max17048-wlp8.dra
+\i (00:01:35) generaledit 
+\i (00:01:36) zoom in 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom in -0.5627 -0.1169
+\i (00:01:36) trapsize 247
+\i (00:01:36) zoom in 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom in -0.5627 -0.1169
+\i (00:01:36) trapsize 123
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out -0.5627 -0.1169
+\i (00:01:37) trapsize 247
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in -0.5627 -0.1168
+\i (00:01:38) trapsize 123
+\i (00:01:39) zoom out 1 
+\i (00:01:39) setwindow pcb
+\i (00:01:39) zoom out -0.5627 -0.1168
+\i (00:01:39) trapsize 247
+\i (00:01:44) open 
+\i (00:03:18) fillin "E:\candence lib\foorprint\RT8065-DFN8\rt8065-dfn8.dra"
+\i (00:03:18) cd "E:\candence lib\foorprint\RT8065-DFN8"
+\t (00:03:18) Opening existing design...
+\i (00:03:18) trapsize 360
+\t (00:03:18)     Journal end - Sun Oct 04 16:31:17 2015

@@ -1,0 +1,262 @@
+\t (00:00:21) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:21)     Journal start - Thu Sep 10 17:54:46 2015
+\t (00:00:21)         Host=HFP-20120615TNE User=Administrator Pid=10444 CPUs=4
+\t (00:00:21) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:21) 
+\d (00:00:21) Design opened: E:/candence lib/foorprint/OSC-2520/osc-2520.dra
+\i (00:00:21) generaledit 
+\i (00:00:27) change 
+\i (00:00:31) setwindow form.mini
+\i (00:00:31) FORM mini change_subclass SILKSCREEN_TOP 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) pick grid -1.6577 0.5969
+\t (00:00:35) last pick:  -1.6510 0.6096
+\e (00:00:35) ERROR(SPMHGE-522): Changing line to a different class is not supported.
+\i (00:00:37) prepopup -0.8372 3.1332
+\i (00:00:37) done 
+\i (00:00:37) generaledit 
+\i (00:00:45) change 
+\i (00:00:51) pick grid 1.6412 1.4589
+\t (00:00:51) last pick:  1.6510 1.4478
+\e (00:00:51) ERROR(SPMHGE-522): Changing line to a different class is not supported.
+\i (00:00:54) pick grid 1.6743 1.5086
+\t (00:00:54) last pick:  1.6764 1.4986
+\e (00:00:54) ERROR(SPMHGE-522): Changing line to a different class is not supported.
+\i (00:01:03) delete 
+\i (00:01:04) pick grid 0.6714 1.8485
+\t (00:01:04) last pick:  0.6604 1.8542
+\t (00:01:04) Line "Device Type/Silkscreen_Top"
+\i (00:01:05) pick grid 2.2048 2.4121
+\t (00:01:05) last pick:  2.2098 2.4130
+\i (00:01:06) prepopup 1.6495 2.6939
+\i (00:01:06) done 
+\i (00:01:06) generaledit 
+\i (00:01:08) add line 
+\i (00:01:11) setwindow form.mini
+\i (00:01:11) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:15) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) add line 
+\i (00:01:22) zoom in 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom in -1.6080 1.8236
+\i (00:01:22) trapsize 207
+\i (00:01:22) zoom in 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom in -1.6080 1.8236
+\i (00:01:22) trapsize 104
+\i (00:01:24) pick grid -1.5976 1.8568
+\t (00:01:24) last pick:  -1.6002 1.8542
+\i (00:01:25) roam start
+\i (00:01:25) roam y 48
+\i (00:01:25) roam x 16
+\i (00:01:25) roam y 80
+\i (00:01:25) roam y 64
+\i (00:01:25) roam y 16
+\i (00:01:25) roam y 32
+\i (00:01:25) roam y 48
+\i (00:01:25) roam x -16
+\i (00:01:25) roam y 48
+\i (00:01:26) roam y 32
+\i (00:01:26) roam y 16
+\i (00:01:26) roam y 16
+\i (00:01:26) roam x -16
+\i (00:01:26) roam y 32
+\i (00:01:26) roam y 32
+\i (00:01:26) roam y 32
+\i (00:01:26) roam x -16
+\i (00:01:26) roam y 48
+\i (00:01:26) roam y 48
+\i (00:01:26) roam y 32
+\i (00:01:26) roam y 32
+\i (00:01:26) roam y 32
+\i (00:01:26) roam y 32
+\i (00:01:26) roam x 32
+\i (00:01:26) roam x 32
+\i (00:01:26) roam y 32
+\i (00:01:26) roam y 96
+\i (00:01:26) roam x -16
+\i (00:01:26) roam y 128
+\i (00:01:26) roam y 96
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 48
+\i (00:01:27) roam y 32
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y 16
+\i (00:01:27) roam y -16
+\i (00:01:28) roam y 16
+\i (00:01:28) roam y 16
+\i (00:01:28) roam end
+\i (00:01:33) pick grid -1.5914 -1.8421
+\t (00:01:33) last pick:  -1.6002 -1.8542
+\i (00:01:34) roam start
+\i (00:01:34) roam x 80
+\i (00:01:34) roam x 80
+\i (00:01:34) roam x 96
+\i (00:01:34) roam x 16
+\i (00:01:34) roam x 48
+\i (00:01:34) roam x 64
+\i (00:01:34) roam x 64
+\i (00:01:34) roam x 32
+\i (00:01:34) roam y -16
+\i (00:01:34) roam x 32
+\i (00:01:34) roam x 32
+\i (00:01:34) roam x 48
+\i (00:01:34) roam x 48
+\i (00:01:34) roam x 48
+\i (00:01:34) roam x 48
+\i (00:01:34) roam x 32
+\i (00:01:34) roam x 16
+\i (00:01:34) roam x 32
+\i (00:01:34) roam x 64
+\i (00:01:34) roam x 32
+\i (00:01:34) roam x 16
+\i (00:01:34) roam x 32
+\i (00:01:34) roam x 32
+\i (00:01:35) roam x 32
+\i (00:01:35) roam x 32
+\i (00:01:35) roam x 16
+\i (00:01:35) roam x 16
+\i (00:01:35) roam x 32
+\i (00:01:35) roam x 32
+\i (00:01:35) roam x 16
+\i (00:01:35) roam x 16
+\i (00:01:35) roam x 16
+\i (00:01:35) roam x 16
+\i (00:01:35) roam x 16
+\i (00:01:35) roam x 16
+\i (00:01:35) roam x 16
+\i (00:01:36) roam x 16
+\i (00:01:36) roam end
+\i (00:01:38) pick grid 1.5875 -1.8441
+\t (00:01:38) last pick:  1.6002 -1.8542
+\i (00:01:39) roam start
+\i (00:01:39) roam y -64
+\i (00:01:39) roam y -64
+\i (00:01:39) roam y -96
+\i (00:01:39) roam y -64
+\i (00:01:39) roam x -16
+\i (00:01:39) roam y -80
+\i (00:01:39) roam x 16
+\i (00:01:39) roam y -64
+\i (00:01:39) roam y -64
+\i (00:01:39) roam x 16
+\i (00:01:39) roam y -48
+\i (00:01:39) roam y -32
+\i (00:01:39) roam x 16
+\i (00:01:39) roam y -64
+\i (00:01:39) roam y -48
+\i (00:01:39) roam y -64
+\i (00:01:39) roam y -16
+\i (00:01:39) roam x 16
+\i (00:01:39) roam y -48
+\i (00:01:39) roam y -48
+\i (00:01:39) roam y -48
+\i (00:01:39) roam y -32
+\i (00:01:39) roam y -48
+\i (00:01:39) roam x -16
+\i (00:01:39) roam y -48
+\i (00:01:39) roam y -48
+\i (00:01:39) roam y -32
+\i (00:01:39) roam x -16
+\i (00:01:39) roam y -64
+\i (00:01:39) roam x -32
+\i (00:01:39) roam y -64
+\i (00:01:39) roam y -48
+\i (00:01:39) roam x -32
+\i (00:01:39) roam y -32
+\i (00:01:39) roam y -32
+\i (00:01:39) roam x -16
+\i (00:01:39) roam y -32
+\i (00:01:39) roam y -16
+\i (00:01:40) roam y -48
+\i (00:01:40) roam y -32
+\i (00:01:40) roam y -32
+\i (00:01:40) roam x -16
+\i (00:01:40) roam y -32
+\i (00:01:40) roam y -16
+\i (00:01:40) roam y -16
+\i (00:01:40) roam y -16
+\i (00:01:40) roam y -32
+\i (00:01:40) roam y -16
+\i (00:01:40) roam y -16
+\i (00:01:40) roam x 16
+\i (00:01:40) roam end
+\i (00:01:42) pick grid 1.5896 1.8424
+\t (00:01:42) last pick:  1.6002 1.8542
+\i (00:01:43) roam start
+\i (00:01:43) roam x -64
+\i (00:01:43) roam x -80
+\i (00:01:43) roam y -16
+\i (00:01:43) roam x -48
+\i (00:01:43) roam x -48
+\i (00:01:43) roam x -80
+\i (00:01:43) roam x -96
+\i (00:01:43) roam x -80
+\i (00:01:43) roam y 16
+\i (00:01:43) roam x -64
+\i (00:01:43) roam x -48
+\i (00:01:43) roam x -32
+\i (00:01:43) roam x -32
+\i (00:01:43) roam x -80
+\i (00:01:43) roam x -80
+\i (00:01:43) roam x -96
+\i (00:01:43) roam x -80
+\i (00:01:43) roam y 32
+\i (00:01:44) roam x -16
+\i (00:01:44) roam x -32
+\i (00:01:44) roam x -64
+\i (00:01:44) roam x -64
+\i (00:01:44) roam x -64
+\i (00:01:44) roam x -32
+\i (00:01:44) roam x -48
+\i (00:01:44) roam x -32
+\i (00:01:44) roam x -48
+\i (00:01:44) roam x -48
+\i (00:01:44) roam x -32
+\i (00:01:44) roam y -16
+\i (00:01:44) roam x -32
+\i (00:01:44) roam end
+\i (00:01:46) pick grid -1.6121 1.8589
+\t (00:01:46) last pick:  -1.6002 1.8542
+\i (00:01:47) prepopup -1.5955 2.3355
+\i (00:01:47) done 
+\i (00:01:47) generaledit 
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out -1.7820 2.1241
+\i (00:01:48) trapsize 207
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out -1.7986 2.0786
+\i (00:01:48) trapsize 414
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out -1.7487 1.9461
+\i (00:01:48) trapsize 829
+\i (00:01:49) zoom in 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom in 0.9118 1.6743
+\i (00:01:49) trapsize 414
+\i (00:01:56) save 
+\i (00:01:58) fillin yes 
+\t (00:01:58) Symbol 'osc-2520.psm' created.
+\i (00:01:58) generaledit 
+\i (00:01:59) open 
+\i (00:02:04) fillin "E:\candence lib\foorprint\OSC-3225\osc-3225.dra"
+\i (00:02:04) cd "E:\candence lib\foorprint\OSC-3225"
+\t (00:02:04) Opening existing design...
+\i (00:02:04) trapsize 922
+\t (00:02:04)     Journal end - Thu Sep 10 17:56:29 2015

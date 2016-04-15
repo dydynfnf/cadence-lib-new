@@ -1,0 +1,33 @@
+\t (00:02:24) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:02:24)     Journal start - Fri Sep 11 12:48:56 2015
+\t (00:02:24)         Host=HFP-20120615TNE User=Administrator Pid=10136 CPUs=4
+\t (00:02:24) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:02:24) 
+\d (00:02:24) Design opened: E:/candence lib/foorprint/OSC-3225/osc-3225.dra
+\i (00:02:24) generaledit 
+\i (00:02:25) zoom out 1 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom out -0.5396 0.3276
+\i (00:02:25) trapsize 461
+\i (00:02:25) zoom out 1 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom out -0.5395 0.3275
+\i (00:02:25) trapsize 922
+\i (00:02:26) zoom in 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom in -0.7195 0.2029
+\i (00:02:26) trapsize 461
+\i (00:02:26) zoom in 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom in -0.7194 0.2030
+\i (00:02:26) trapsize 231
+\i (00:02:29) zoom out 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom out -0.8670 -0.9454
+\i (00:02:29) trapsize 461
+\i (00:12:57) open 
+\i (00:13:03) fillin "E:\candence lib\foorprint\SOD323\sod323.dra"
+\i (00:13:03) cd "E:\candence lib\foorprint\SOD323"
+\t (00:13:03) Opening existing design...
+\i (00:13:03) trapsize 434
+\t (00:13:03)     Journal end - Fri Sep 11 12:59:35 2015

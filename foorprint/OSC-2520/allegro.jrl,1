@@ -1,0 +1,14 @@
+\t (00:00:01) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:01)     Journal start - Thu Sep 10 17:44:54 2015
+\t (00:00:01)         Host=HFP-20120615TNE User=Administrator Pid=11644 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/candence lib/foorprint/OSC-2520/osc-2520.dra
+\i (00:00:03) trapsize 412
+\i (00:00:03) trapsize 400
+\i (00:00:03) trapsize 414
+\i (00:00:04) trapsize 414
+\i (00:00:04) generaledit 
+\i (00:00:05) exit 
+\t (00:00:05)     Journal end - Thu Sep 10 17:44:59 2015

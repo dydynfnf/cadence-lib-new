@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : is61wv102416bll-sop48.dra                     )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Fri Apr 15 11:34:08 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/IS61WV102416BLL-SOP48
+    Name      = is61wv102416bll-sop48.psm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

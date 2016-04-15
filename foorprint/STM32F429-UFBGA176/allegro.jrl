@@ -1,0 +1,82 @@
+\t (04:52:56) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (04:52:56)     Journal start - Fri Oct 09 13:52:51 2015
+\t (04:52:56)         Host=HFP-20120615TNE User=Administrator Pid=9628 CPUs=4
+\t (04:52:56) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (04:52:56) 
+\d (04:52:56) Design opened: E:/candence lib/foorprint/STM32F429-UFBGA176/stm32f429-ufbga176.dra
+\i (04:52:56) generaledit 
+\i (04:52:57) zoom in 1 
+\i (04:52:57) setwindow pcb
+\i (04:52:57) zoom in 1.5632 -1.7071
+\i (04:52:57) trapsize 583
+\i (04:52:57) zoom in 1 
+\i (04:52:57) setwindow pcb
+\i (04:52:57) zoom in 1.5632 -1.7071
+\i (04:52:57) trapsize 292
+\i (04:52:58) zoom out 1 
+\i (04:52:58) setwindow pcb
+\i (04:52:58) zoom out 0.6532 -1.2404
+\i (04:52:58) trapsize 583
+\i (04:52:58) roam start
+\i (04:52:58) roam y -48
+\i (04:52:58) roam x -16
+\i (04:52:58) roam y -48
+\i (04:52:58) roam x -32
+\i (04:52:58) roam y -64
+\i (04:52:59) roam x -32
+\i (04:52:59) roam y -48
+\i (04:52:59) roam x -32
+\i (04:52:59) roam y -48
+\i (04:52:59) roam x -16
+\i (04:52:59) roam x -32
+\i (04:52:59) roam y -32
+\i (04:52:59) roam x -32
+\i (04:52:59) roam y -48
+\i (04:52:59) roam x -16
+\i (04:52:59) roam y -32
+\i (04:52:59) roam x -16
+\i (04:52:59) roam y -48
+\i (04:52:59) roam end
+\i (04:52:59) zoom in 1 
+\i (04:52:59) setwindow pcb
+\i (04:52:59) zoom in -0.3966 0.6300
+\i (04:52:59) trapsize 292
+\i (04:53:00) zoom in 1 
+\i (04:53:00) setwindow pcb
+\i (04:53:00) zoom in 0.0643 0.6534
+\i (04:53:00) trapsize 146
+\i (04:53:02) show element 
+\i (04:53:05) pick grid -0.0699 0.6213
+\t (04:53:05) last pick:  -0.0700 0.6200
+\i (04:53:08) setwindow text
+\i (04:53:08) close 
+\i (04:53:09) setwindow pcb
+\i (04:53:09) show measure 
+\i (04:53:10) pick grid 0.6564 1.3359
+\t (04:53:10) last pick:  0.6600 1.3400
+\i (04:53:13) setwindow text
+\i (04:53:13) close 
+\i (04:53:14) setwindow pcb
+\i (04:53:14) roam start
+\i (04:53:14) roam y 48
+\i (04:53:15) roam y 64
+\i (04:53:15) roam end
+\i (04:53:15) prepopup 0.4055 1.2132
+\i (04:53:16) oops 
+\i (04:53:16) prepopup 0.3735 1.2190
+\i (04:53:17) done 
+\i (04:53:17) generaledit 
+\i (04:53:19) zoom out 1 
+\i (04:53:19) setwindow pcb
+\i (04:53:19) zoom out -0.0320 1.3211
+\i (04:53:19) trapsize 292
+\i (04:53:29) open 
+\i (04:53:58) fillin "E:\material\glass\pcb\test-stm32f429\pcb\f429.brd"
+\i (04:53:58) cd "E:\material\glass\pcb\test-stm32f429\pcb"
+\t (04:53:58) Opening existing design...
+\i (04:53:58) trapsize 697
+\i (04:53:58) trapsize 677
+\i (04:53:58) trapsize 697
+\i (04:53:58) trapsize 706
+\i (04:53:59) trapsize 706
+\t (04:53:59)     Journal end - Fri Oct 09 13:53:54 2015

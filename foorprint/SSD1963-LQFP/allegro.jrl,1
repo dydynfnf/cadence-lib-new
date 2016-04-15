@@ -1,0 +1,50 @@
+\t (00:01:10) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:01:10)     Journal start - Thu Apr 14 09:29:05 2016
+\t (00:01:10)         Host=PSAI-PC User=psai Pid=8048 CPUs=4
+\t (00:01:10) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:01:10) 
+\d (00:01:10) Design opened: E:/cadence lib/foorprint/SSD1963-LQFP/ssd1963-lqfp.dra
+\i (00:01:10) generaledit 
+\i (00:01:42) zoom in 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in 7.4492 7.6088
+\i (00:01:42) trapsize 1330
+\i (00:01:42) zoom in 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in 1.3834 7.6088
+\i (00:01:42) trapsize 665
+\i (00:01:42) zoom out 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom out 1.4366 7.6088
+\i (00:01:42) trapsize 1330
+\i (00:01:44) pick grid 7.1033 8.7262
+\t (00:01:44) last pick:  7.6200 7.6200
+\i (00:01:48) drag_start grid 6.9437 8.6996
+\i (00:01:48) move 
+\t (00:01:48) last pick:  7.6200 7.6200
+\t (00:01:48) Element has no origin, using pick.
+\t (00:01:48) Pick new location for the element(s).
+\i (00:01:48) drag_stop grid 7.3694 7.2896
+\i (00:01:48) generaledit 
+\i (00:01:50) pick grid -6.1456 11.3600
+\t (00:01:50) last pick:  -5.0800 10.1600
+\i (00:01:54) move 
+\t (00:01:54) Select element(s) to move.
+\i (00:01:56) pick grid 7.5556 8.6996
+\t (00:01:56) last pick:  7.6200 7.6200
+\t (00:01:56) last pick:  7.6200 7.6200
+\t (00:01:56) Element has no origin, using pick.
+\t (00:01:56) Pick new location for the element(s).
+\i (00:02:00) pick grid 13.9939 8.1675
+\t (00:02:00) last pick:  15.2400 7.6200
+\i (00:02:12) pick grid -3.7512 8.6996
+\t (00:02:12) last pick:  -2.5400 7.6200
+\t (00:02:12) last pick:  -2.5400 7.6200
+\t (00:02:12) Element has no origin, using pick.
+\t (00:02:12) Pick new location for the element(s).
+\i (00:02:14) pick grid -3.8310 9.4977
+\t (00:02:14) last pick:  -5.0800 10.1600
+\i (00:02:20) exit 
+\e (00:02:20) Do you want to save the changes you made to ssd1963-lqfp.dra?
+\i (00:02:21) fillin no 
+\t (00:02:21)     Journal end - Thu Apr 14 09:30:15 2016

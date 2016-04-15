@@ -1,0 +1,14 @@
+\t (00:00:00) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:00)     Journal start - Tue Dec 29 11:52:31 2015
+\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=11044 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/candence lib/foorprint/KEY-3-6/key-3-6.dra
+\i (00:00:03) trapsize 418
+\i (00:00:03) trapsize 411
+\i (00:00:03) trapsize 420
+\i (00:00:03) trapsize 420
+\i (00:00:04) generaledit 
+\i (00:00:04) exit 
+\t (00:00:05)     Journal end - Tue Dec 29 11:52:36 2015

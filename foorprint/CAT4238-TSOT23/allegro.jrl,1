@@ -1,0 +1,46 @@
+\t (00:00:16) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:16)     Journal start - Thu Sep 10 16:54:54 2015
+\t (00:00:16)         Host=HFP-20120615TNE User=Administrator Pid=2832 CPUs=4
+\t (00:00:16) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:16) 
+\d (00:00:16) Design opened: E:/candence lib/foorprint/CAT4238-TSOT23/cat4238-tsot23.dra
+\i (00:00:16) generaledit 
+\i (00:00:17) roam start
+\i (00:00:17) roam x -16
+\i (00:00:17) roam y 32
+\i (00:00:17) roam x -48
+\i (00:00:17) roam y 80
+\i (00:00:17) roam x -32
+\i (00:00:17) roam y 64
+\i (00:00:17) roam x -16
+\i (00:00:17) roam y 32
+\i (00:00:17) roam y 32
+\i (00:00:17) roam x -16
+\i (00:00:17) roam y 48
+\i (00:00:17) roam x -16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam y 16
+\i (00:00:17) roam end
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out -0.0895 -0.5060
+\i (00:00:18) trapsize 448
+\i (00:00:22) show measure 
+\i (00:00:23) pick grid -1.2181 0.8466
+\t (00:00:23) last pick:  -1.2700 0.6350
+\i (00:00:25) pick grid -1.4510 -0.0313
+\t (00:00:25) last pick:  -1.2700 0.0000
+\i (00:00:32) setwindow text
+\i (00:00:32) close 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) pick grid -1.2540 0.9451
+\t (00:01:42) last pick:  -1.2700 0.6350
+\i (00:01:45) setwindow text
+\i (00:01:45) close 
+\i (00:02:38) setwindow pcb
+\i (00:02:38) open 
+\i (00:03:18) fillin "E:\candence lib\foorprint\AS1117-12-SOT223\as1117-12-sot223.dra"
+\i (00:03:18) cd "E:\candence lib\foorprint\AS1117-12-SOT223"
+\t (00:03:18) Opening existing design...
+\i (00:03:18) trapsize 1511
+\t (00:03:18)     Journal end - Thu Sep 10 16:57:57 2015

@@ -1,0 +1,251 @@
+\t (00:00:01) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:01)     Journal start - Thu Sep 10 15:58:28 2015
+\t (00:00:01)         Host=HFP-20120615TNE User=Administrator Pid=3352 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/candence lib/foorprint/l-6-6-3/l-6-6-3.dra
+\i (00:00:03) trapsize 1407
+\i (00:00:03) trapsize 1366
+\i (00:00:03) trapsize 1414
+\i (00:00:04) trapsize 1414
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -2.9124 -0.7917
+\i (00:00:05) trapsize 707
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -2.9124 -0.7775
+\i (00:00:06) trapsize 353
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -2.9124 -0.7775
+\i (00:00:06) trapsize 707
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -2.9123 -0.7775
+\i (00:00:06) trapsize 1414
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -2.8841 2.5448
+\i (00:00:18) trapsize 707
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -2.8840 2.5448
+\i (00:00:18) trapsize 353
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -2.8840 2.5448
+\i (00:00:18) trapsize 177
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -2.8839 2.5449
+\i (00:00:18) trapsize 88
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out -2.8839 2.5449
+\i (00:00:19) trapsize 177
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out -2.8839 2.5449
+\i (00:00:19) trapsize 353
+\i (00:00:20) delete 
+\i (00:00:21) pick grid -2.2831 2.7570
+\t (00:00:21) last pick:  -2.5400 2.5400
+\t (00:00:21) Line "Package Geometry/Assembly_Top"
+\i (00:00:22) pick grid -2.4103 2.7499
+\t (00:00:22) last pick:  -2.5400 2.5400
+\t (00:00:22) Line "Package Geometry/Assembly_Top"
+\i (00:00:23) pick grid -2.4739 2.7499
+\t (00:00:23) last pick:  -2.5400 2.5400
+\t (00:00:23) Line "Package Geometry/Assembly_Top"
+\i (00:00:23) pick grid -2.5729 2.7499
+\t (00:00:23) last pick:  -2.5400 2.5400
+\t (00:00:23) Line "Package Geometry/Assembly_Top"
+\i (00:00:24) pick grid -2.6577 2.7358
+\t (00:00:24) last pick:  -2.5400 2.5400
+\t (00:00:24) Line "Package Geometry/Assembly_Top"
+\i (00:00:25) pick grid -2.7920 2.7358
+\t (00:00:25) last pick:  -2.5400 2.5400
+\t (00:00:25) Line "Package Geometry/Assembly_Top"
+\i (00:00:25) pick grid -2.8839 2.7358
+\t (00:00:25) last pick:  -2.5400 2.5400
+\t (00:00:25) Line "Package Geometry/Assembly_Top"
+\i (00:00:28) prepopup -2.4032 3.8598
+\i (00:00:29) done 
+\i (00:00:29) generaledit 
+\i (00:00:36) roam start
+\i (00:00:36) roam y 64
+\i (00:00:36) roam y 48
+\i (00:00:36) roam y 64
+\i (00:00:36) roam y 80
+\i (00:00:36) roam y 48
+\i (00:00:36) roam x -16
+\i (00:00:36) roam y 32
+\i (00:00:36) roam y 16
+\i (00:00:36) roam y 32
+\i (00:00:36) roam y 16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam y 48
+\i (00:00:36) roam y 32
+\i (00:00:36) roam x -16
+\i (00:00:36) roam y 32
+\i (00:00:36) roam x -16
+\i (00:00:36) roam y 48
+\i (00:00:36) roam y 32
+\i (00:00:36) roam x -16
+\i (00:00:36) roam y 32
+\i (00:00:37) roam y 32
+\i (00:00:37) roam y -16
+\i (00:00:37) roam y -16
+\i (00:00:37) roam y -32
+\i (00:00:37) roam y -16
+\i (00:00:37) roam y -32
+\i (00:00:37) roam y -16
+\i (00:00:37) roam x 16
+\i (00:00:37) roam y -48
+\i (00:00:37) roam y -32
+\i (00:00:37) roam x 16
+\i (00:00:37) roam y -32
+\i (00:00:37) roam x 16
+\i (00:00:37) roam y -32
+\i (00:00:37) roam y -16
+\i (00:00:37) roam y -16
+\i (00:00:37) roam y -16
+\i (00:00:37) roam x 16
+\i (00:00:37) roam y -16
+\i (00:00:37) roam y -32
+\i (00:00:37) roam y -16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam y -32
+\i (00:00:38) roam x 16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam y -32
+\i (00:00:38) roam x 16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam y -32
+\i (00:00:38) roam y -16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam y -32
+\i (00:00:38) roam x -32
+\i (00:00:38) roam y 32
+\i (00:00:38) roam x -16
+\i (00:00:38) roam y 16
+\i (00:00:38) roam x -16
+\i (00:00:38) roam y 16
+\i (00:00:38) roam x -16
+\i (00:00:38) roam y 16
+\i (00:00:38) roam x -32
+\i (00:00:38) roam y 32
+\i (00:00:38) roam y 32
+\i (00:00:38) roam x -16
+\i (00:00:39) roam y 16
+\i (00:00:39) roam x -32
+\i (00:00:39) roam y 32
+\i (00:00:39) roam y 16
+\i (00:00:39) roam end
+\i (00:00:41) pick grid -4.0715 0.0709
+\t (00:00:41) last pick:  -5.0800 0.0000
+\i (00:00:42) pick grid -4.7501 0.5021
+\t (00:00:42) last pick:  -5.0800 0.0000
+\i (00:00:43) pick grid -4.2058 0.0356
+\t (00:00:43) last pick:  -5.0800 0.0000
+\i (00:00:43) pick grid -4.8350 0.5375
+\t (00:00:43) last pick:  -5.0800 0.0000
+\i (00:00:44) pick grid -4.1493 0.0214
+\t (00:00:44) last pick:  -5.0800 0.0000
+\i (00:00:45) pick grid -4.2553 0.1133
+\t (00:00:45) last pick:  -5.0800 0.0000
+\i (00:00:46) pick grid -4.6229 0.3607
+\t (00:00:46) last pick:  -5.0800 0.0000
+\i (00:00:46) pick grid -4.1281 0.0709
+\t (00:00:46) last pick:  -5.0800 0.0000
+\i (00:00:47) pick grid -4.5098 0.3042
+\t (00:00:47) last pick:  -5.0800 0.0000
+\i (00:00:47) pick grid -4.2058 0.0568
+\t (00:00:47) last pick:  -5.0800 0.0000
+\i (00:00:48) pick grid -4.4745 0.2971
+\t (00:00:48) last pick:  -5.0800 0.0000
+\i (00:00:49) delete 
+\i (00:00:51) pick grid -4.1281 0.0285
+\t (00:00:51) last pick:  -5.0800 0.0000
+\t (00:00:51) Line "Package Geometry/Silkscreen_Top"
+\i (00:00:51) pick grid -4.6936 0.1557
+\t (00:00:51) last pick:  -5.0800 0.0000
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out -4.2200 0.1133
+\i (00:00:52) trapsize 707
+\i (00:00:52) zoom out 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom out -4.2199 0.1133
+\i (00:00:52) trapsize 1414
+\i (00:01:00) save 
+\i (00:01:03) fillin yes 
+\t (00:01:04) Symbol 'l-6-6-3.psm' created.
+\i (00:01:04) generaledit 
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in 0.1414 0.8200
+\i (00:01:09) trapsize 707
+\i (00:01:09) roam start
+\i (00:01:09) roam x -80
+\i (00:01:09) roam y 32
+\i (00:01:09) roam x -64
+\i (00:01:09) roam y 16
+\i (00:01:09) roam x -48
+\i (00:01:09) roam x -32
+\i (00:01:09) roam y 16
+\i (00:01:09) roam x -16
+\i (00:01:10) roam end
+\i (00:01:10) show measure 
+\i (00:01:11) pick grid -2.5448 -0.0848
+\t (00:01:11) last pick:  -2.5400 0.0000
+\i (00:01:12) pick grid 2.5730 -0.0423
+\t (00:01:12) last pick:  2.5400 0.0000
+\i (00:01:18) setwindow text
+\i (00:01:18) close 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in -1.2866 -0.4665
+\i (00:01:19) trapsize 353
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out -1.2866 -0.4523
+\i (00:01:20) trapsize 707
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out -1.2865 -0.4523
+\i (00:01:20) trapsize 1414
+\i (00:01:22) zoom in 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom in -3.6475 0.7069
+\i (00:01:22) trapsize 707
+\i (00:01:23) zoom in 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in -3.5485 0.6928
+\i (00:01:23) trapsize 353
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out -3.3647 1.9298
+\i (00:01:23) trapsize 707
+\i (00:01:25) color192 
+\i (00:01:26) setwindow cvf.dialog
+\i (00:01:26) cvf layer_mode
+\i (00:01:28) cvf layer_tree_item 'Package Geometry'
+\i (00:01:30) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:01:31) cvf apply
+\i (00:01:32) cvf okay
+\i (00:02:34) setwindow pcb
+\i (00:02:34) save 
+\i (00:02:35) fillin yes 
+\t (00:02:35) Symbol 'l-6-6-3.psm' created.
+\i (00:02:35) generaledit 
+\i (00:02:37) exit 
+\t (00:02:38)     Journal end - Thu Sep 10 16:01:05 2015

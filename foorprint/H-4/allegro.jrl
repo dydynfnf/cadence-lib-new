@@ -1,0 +1,67 @@
+\t (00:10:47) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:10:47)     Journal start - Tue Dec 29 11:44:16 2015
+\t (00:10:47)         Host=HFP-20120615TNE User=Administrator Pid=8768 CPUs=4
+\t (00:10:47) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:10:47) 
+\d (00:10:47) Design opened: E:/candence lib/foorprint/H-4/h-4.dra
+\i (00:10:47) generaledit 
+\i (00:10:50) zoom in 1 
+\i (00:10:50) setwindow pcb
+\i (00:10:50) zoom in 2.6891 -1.1656
+\i (00:10:50) trapsize 422
+\i (00:10:50) zoom in 1 
+\i (00:10:50) setwindow pcb
+\i (00:10:50) zoom in 2.8915 -1.2667
+\i (00:10:50) trapsize 211
+\i (00:10:51) zoom in 1 
+\i (00:10:51) setwindow pcb
+\i (00:10:51) zoom in 2.8915 -1.2667
+\i (00:10:51) trapsize 105
+\i (00:10:51) zoom out 1 
+\i (00:10:51) setwindow pcb
+\i (00:10:51) zoom out 2.8915 -1.2667
+\i (00:10:51) trapsize 211
+\i (00:10:51) zoom out 1 
+\i (00:10:51) setwindow pcb
+\i (00:10:51) zoom out 2.8915 -1.2667
+\i (00:10:51) trapsize 422
+\i (00:10:55) pick grid 3.4905 1.8540
+\t (00:10:55) last pick:  3.8100 1.2700
+\i (00:11:19) zoom in 1 
+\i (00:11:19) setwindow pcb
+\i (00:11:19) zoom in 4.4098 -2.6584
+\i (00:11:19) trapsize 211
+\i (00:11:19) zoom in 1 
+\i (00:11:19) setwindow pcb
+\i (00:11:19) zoom in 4.4098 -2.6584
+\i (00:11:19) trapsize 105
+\i (00:11:20) zoom out 1 
+\i (00:11:20) setwindow pcb
+\i (00:11:20) zoom out 4.4099 -2.6583
+\i (00:11:20) trapsize 211
+\i (00:11:20) zoom out 1 
+\i (00:11:20) setwindow pcb
+\i (00:11:20) zoom out 4.4098 -2.6584
+\i (00:11:20) trapsize 422
+\i (00:11:20) zoom out 1 
+\i (00:11:20) setwindow pcb
+\i (00:11:20) zoom out 4.4099 -2.6583
+\i (00:11:20) trapsize 843
+\i (00:11:21) zoom in 1 
+\i (00:11:21) setwindow pcb
+\i (00:11:21) zoom in 1.5760 0.1588
+\i (00:11:21) trapsize 422
+\i (00:11:21) zoom in 1 
+\i (00:11:21) setwindow pcb
+\i (00:11:21) zoom in 1.5760 0.1588
+\i (00:11:21) trapsize 211
+\i (00:11:21) zoom out 1 
+\i (00:11:21) setwindow pcb
+\i (00:11:21) zoom out 1.5761 0.1588
+\i (00:11:21) trapsize 422
+\i (00:11:37) open 
+\i (00:11:45) fillin "E:\candence lib\foorprint\FPC-22\fpc-22.dra"
+\i (00:11:45) cd "E:\candence lib\foorprint\FPC-22"
+\t (00:11:45) Opening existing design...
+\i (00:11:45) trapsize 933
+\t (00:11:46)     Journal end - Tue Dec 29 11:45:15 2015

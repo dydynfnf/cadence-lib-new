@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : stm32f407zgt6-lqfp144.dra                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Thu Apr 14 21:58:27 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/Vibration/foorprint/STM32F407ZGT6-LQFP144
+    Name      = stm32f407zgt6-lqfp144.psm
+    User      = DaQi
+    Machine   = DAQI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

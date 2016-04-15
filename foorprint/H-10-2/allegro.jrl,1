@@ -1,0 +1,134 @@
+\t (00:00:16) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:16)     Journal start - Fri Oct 02 20:43:48 2015
+\t (00:00:16)         Host=HFP-20120615TNE User=Administrator Pid=14132 CPUs=4
+\t (00:00:16) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:16) 
+\d (00:00:16) Design opened: E:/candence lib/foorprint/H-10-2-A/h-20-2.dra
+\i (00:00:16) generaledit 
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 8.1723 -1.7388
+\i (00:00:18) trapsize 4347
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in -14.8666 -1.7388
+\i (00:00:18) trapsize 2173
+\i (00:00:19) roam start
+\i (00:00:19) roam x 112
+\i (00:00:19) roam y -16
+\i (00:00:19) roam x 64
+\i (00:00:19) roam y -16
+\i (00:00:19) roam x 32
+\i (00:00:19) roam y -16
+\i (00:00:19) roam x 64
+\i (00:00:19) roam y -16
+\i (00:00:19) roam x 64
+\i (00:00:19) roam x 48
+\i (00:00:19) roam y -16
+\i (00:00:19) roam x 32
+\i (00:00:20) roam x 48
+\i (00:00:20) roam end
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 19.7787 0.9998
+\i (00:00:20) trapsize 1087
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 19.7786 0.9998
+\i (00:00:21) trapsize 2173
+\i (00:00:22) roam start
+\i (00:00:22) roam x 48
+\i (00:00:22) roam x 48
+\i (00:00:22) roam x 80
+\i (00:00:22) roam x 96
+\i (00:00:22) roam x 48
+\i (00:00:22) roam y 16
+\i (00:00:22) roam y 16
+\i (00:00:23) roam y -16
+\i (00:00:23) roam y -16
+\i (00:00:23) roam end
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 49.5988 0.9998
+\i (00:00:24) trapsize 1087
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 49.5988 0.9998
+\i (00:00:24) trapsize 543
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 47.4144 1.3802
+\i (00:00:27) trapsize 272
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 47.4144 1.3802
+\i (00:00:27) trapsize 543
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 47.4254 1.3693
+\i (00:00:27) trapsize 1087
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 45.4692 1.1955
+\i (00:00:28) trapsize 2173
+\i (00:00:29) roam start
+\i (00:00:29) roam x -48
+\i (00:00:29) roam x -144
+\i (00:00:29) roam x -64
+\i (00:00:29) roam y -16
+\i (00:00:29) roam x -64
+\i (00:00:29) roam y -16
+\i (00:00:29) roam x -64
+\i (00:00:29) roam x -64
+\i (00:00:29) roam x -80
+\i (00:00:29) roam x -64
+\i (00:00:29) roam y -16
+\i (00:00:29) roam x -96
+\i (00:00:29) roam y -16
+\i (00:00:29) roam x -32
+\i (00:00:29) roam x -16
+\i (00:00:29) roam end
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 0.7388 1.8690
+\i (00:00:30) trapsize 1087
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 0.6954 1.8473
+\i (00:00:30) trapsize 543
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 0.6954 1.8473
+\i (00:00:30) trapsize 272
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 0.6628 1.8093
+\i (00:00:30) trapsize 543
+\i (00:00:45) roam start
+\i (00:00:45) roam x 48
+\i (00:00:45) roam x 80
+\i (00:00:45) roam y -16
+\i (00:00:45) roam x 80
+\i (00:00:45) roam x 96
+\i (00:00:45) roam y -16
+\i (00:00:45) roam x 96
+\i (00:00:45) roam y -16
+\i (00:00:45) roam x 80
+\i (00:00:45) roam x 64
+\i (00:00:45) roam y -16
+\i (00:00:45) roam x 64
+\i (00:00:46) roam end
+\i (00:00:46) roam start
+\i (00:00:46) roam x -16
+\i (00:00:46) roam y 48
+\i (00:00:46) roam y 80
+\i (00:00:46) roam y 48
+\i (00:00:47) roam y 16
+\i (00:00:47) roam y 48
+\i (00:00:47) roam end
+\i (00:00:47) zoom out 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom out 5.9985 -1.3152
+\i (00:00:47) trapsize 1087
+\i (00:00:50) exit 
+\t (00:00:50)     Journal end - Fri Oct 02 20:44:22 2015

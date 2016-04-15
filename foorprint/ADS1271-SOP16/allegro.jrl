@@ -1,0 +1,20 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Fri Apr 15 11:15:33 2016
+\t (00:00:01)         Host=PSAI-PC User=psai Pid=2920 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/cadence lib/foorprint/ADS1271-SOP16/ads1271-sop16.dra
+\i (00:00:03) trapsize 1668
+\i (00:00:03) trapsize 1619
+\i (00:00:03) trapsize 1676
+\i (00:00:03) trapsize 1740
+\i (00:00:04) trapsize 1377
+\i (00:00:04) trapsize 1377
+\i (00:00:04) generaledit 
+\i (00:00:11) open 
+\i (00:00:20) fillin "E:\cadence lib\foorprint\ADA4898-2-SOIC8\ada4898-2-soic8.dra"
+\i (00:00:20) cd "E:\cadence lib\foorprint\ADA4898-2-SOIC8"
+\t (00:00:20) Opening existing design...
+\i (00:00:21) trapsize 668
+\t (00:00:21)     Journal end - Fri Apr 15 11:15:53 2016

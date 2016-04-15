@@ -1,0 +1,39 @@
+\t (00:00:01) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:01)     Journal start - Thu Sep 10 18:23:26 2015
+\t (00:00:01)         Host=HFP-20120615TNE User=Administrator Pid=11128 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/candence lib/foorprint/OSC-3225/osc-3225.dra
+\i (00:00:03) trapsize 229
+\i (00:00:03) trapsize 223
+\i (00:00:03) trapsize 231
+\i (00:00:04) trapsize 231
+\i (00:00:04) generaledit 
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -1.4482 0.7657
+\i (00:00:07) trapsize 461
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -1.4481 0.7381
+\i (00:00:07) trapsize 922
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 1.6789 -0.3136
+\i (00:00:07) trapsize 922
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 1.6789 -0.3321
+\i (00:00:07) trapsize 922
+\i (00:00:07) pick grid 4.9075 -0.3136
+\t (00:00:07) last pick:  4.9022 -0.3048
+\i (00:00:09) pick grid -1.4206 4.1142
+\t (00:00:09) last pick:  -1.4224 4.1148
+\i (00:00:21) clppaste 
+\i (00:00:23) fillin "menu_cancel"
+   (00:00:23) Loading cmds.cxt 
+\i (00:00:23) generaledit 
+\i (00:00:25) new 
+\i (00:01:38) newdrawfillin "fpc-22.dra" "Package Symbol"
+\t (00:01:38)     Journal end - Thu Sep 10 18:25:03 2015

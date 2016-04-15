@@ -1,0 +1,70 @@
+\t (00:11:46) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:11:46)     Journal start - Tue Dec 29 11:45:15 2015
+\t (00:11:46)         Host=HFP-20120615TNE User=Administrator Pid=8768 CPUs=4
+\t (00:11:46) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:11:46) 
+\d (00:11:46) Design opened: E:/candence lib/foorprint/FPC-22/fpc-22.dra
+\i (00:11:46) generaledit 
+\i (00:11:47) zoom in 1 
+\i (00:11:47) setwindow pcb
+\i (00:11:47) zoom in -1.9746 2.7508
+\i (00:11:47) trapsize 466
+\i (00:11:47) zoom in 1 
+\i (00:11:47) setwindow pcb
+\i (00:11:47) zoom in -2.0119 2.7508
+\i (00:11:47) trapsize 233
+\i (00:11:48) zoom in 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom in -2.8328 1.4029
+\i (00:11:48) trapsize 117
+\i (00:11:48) zoom in 1 
+\i (00:11:48) setwindow pcb
+\i (00:11:48) zoom in -2.8328 1.4029
+\i (00:11:48) trapsize 58
+\i (00:11:50) pick grid -2.6648 1.5802
+\t (00:11:50) last pick:  -2.7000 1.6000
+\i (00:11:52) pick grid -2.6858 1.6105
+\t (00:11:52) last pick:  -2.7000 1.6000
+\i (00:11:55) setwindow form.find
+\i (00:11:55) FORM find lines YES 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out -2.6637 1.7294
+\i (00:11:59) trapsize 117
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out -2.6637 1.7295
+\i (00:11:59) trapsize 233
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out -2.6636 1.7295
+\i (00:11:59) trapsize 466
+\i (00:11:59) zoom out 1 
+\i (00:11:59) setwindow pcb
+\i (00:11:59) zoom out -2.6636 1.7295
+\i (00:11:59) trapsize 933
+\i (00:12:00) zoom in 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom in 4.9658 4.9944
+\i (00:12:00) trapsize 466
+\i (00:12:00) zoom in 1 
+\i (00:12:00) setwindow pcb
+\i (00:12:00) zoom in 4.9658 4.9944
+\i (00:12:00) trapsize 233
+\i (00:12:01) zoom out 1 
+\i (00:12:01) setwindow pcb
+\i (00:12:01) zoom out 4.9658 4.9991
+\i (00:12:01) trapsize 466
+\i (00:12:01) zoom out 1 
+\i (00:12:01) setwindow pcb
+\i (00:12:01) zoom out 4.9659 4.9991
+\i (00:12:01) trapsize 933
+\i (00:12:04) open 
+\e (00:12:05) Do you want to save the changes you made to fpc-22.dra?
+\i (00:12:10) fillin no 
+\i (00:12:21) fillin "E:\candence lib\foorprint\KEY-3-6\key-3-6.dra"
+\i (00:12:21) cd "E:\candence lib\foorprint\KEY-3-6"
+\t (00:12:21) Opening existing design...
+\i (00:12:21) trapsize 420
+\t (00:12:21)     Journal end - Tue Dec 29 11:45:51 2015

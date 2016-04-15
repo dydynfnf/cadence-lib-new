@@ -1,0 +1,58 @@
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Mon Oct 05 11:49:08 2015
+\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=10448 CPUs=4
+\t (00:00:00) CmdLine= pad_designer -s u180_240pr105_165cul10.psr
+\t (00:00:00) 
+\i (00:00:00) setwindow form.padedit
+\i (00:00:00) replay u180_240pr105_165cul10.psr 
+\i (00:00:00) version 16.5 
+\t (00:00:00) Script version: 16.5
+\i (00:00:00) setwindow form.padedit 
+\i (00:00:00) pse_new 
+\i (00:00:00) fillin u180_240pr105_165cul10 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) FORM padedit units Millimeter 
+\i (00:00:00) fillin yes 
+\w (00:00:00) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:00) FORM padedit decimal_places 4 
+\i (00:00:00) FORM padedit inner_layer_opt YES 
+\e (00:00:00) Form field label not found
+\i (00:00:00) FORM padedit single YES 
+\e (00:00:00) Field is currently invisible or disabled.
+\i (00:00:00) setwindow Form.padedit 
+\i (00:00:00) FORM padedit layers 
+\i (00:00:00) FORM padedit layers  
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid change begin_layer,begin_layer TOP 
+\e (00:00:00) Row,Column value is not valid for field.
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit geometry Square 
+\i (00:00:00) FORM padedit width 0.1 
+\i (00:00:00) FORM padedit width 0.1 
+\i (00:00:00) FORM padedit height 0.1 
+\i (00:00:00) FORM padedit height 0.1 
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid row begin_layer 
+\i (00:00:00) FORM padedit grid change begin_layer,begin_layer TOP 
+\e (00:00:00) Row,Column value is not valid for field.
+\i (00:00:00) FORM padedit geometry Shape 
+\i (00:00:00) FORM padedit geometry Shape 
+\i (00:00:00) FORM padedit shapename complex1-8x2-4a4 
+\i (00:00:00) FORM padedit shapename complex1-8x2-4a4 
+\i (00:00:00) FORM padedit grid row SOLDERMASK_TOP 
+\i (00:00:00) FORM padedit grid row soldermask_top 
+\i (00:00:00) FORM padedit geometry Shape 
+\i (00:00:00) FORM padedit geometry Shape 
+\i (00:00:00) FORM padedit shapename complex1-8x2-4a4 
+\i (00:00:00) FORM padedit shapename complex1-8x2-4a4 
+\i (00:00:00) FORM padedit grid row PASTEMASK_TOP 
+\i (00:00:00) FORM padedit grid row pastemask_top 
+\i (00:00:00) FORM padedit geometry Shape 
+\i (00:00:00) FORM padedit geometry Shape 
+\i (00:00:00) FORM padedit shapename complex1x1-6a1-73 
+\i (00:00:00) FORM padedit shapename complex1x1-6a1-73 
+\i (00:00:00) pse_check 
+\i (00:00:00) pse_save 
+\i (00:00:00) pse_exit 
+\t (00:00:00)     Journal end - Mon Oct 05 11:49:09 2015

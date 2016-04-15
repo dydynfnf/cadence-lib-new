@@ -1,0 +1,33 @@
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Wed Oct 07 11:35:18 2015
+\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=11416 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) FORM padedit layers  
+\i (00:00:04) FORM padedit parameters  
+\i (00:00:20) FORM padedit hole_size_x 8 
+\i (00:00:24) FORM padedit drill_fig Hexagon X 
+\i (00:00:28) FORM padedit characters A 
+\i (00:00:29) FORM padedit drill_width 8 
+\i (00:00:30) FORM padedit drill_height 8 
+\i (00:00:32) FORM padedit layers  
+\i (00:00:34) FORM padedit grid row begin_layer 
+\i (00:00:38) FORM padedit geometry Circle 
+\i (00:00:41) FORM padedit width 12 
+\i (00:00:42) FORM padedit grid row default_internal 
+\i (00:00:44) FORM padedit geometry Circle 
+\i (00:00:46) FORM padedit width 12 
+\i (00:00:47) FORM padedit grid row end_layer 
+\i (00:00:48) FORM padedit geometry Circle 
+\i (00:00:51) FORM padedit width 12 
+\i (00:00:53) FORM padedit grid row begin_layer 
+\i (00:00:54) FORM padedit grid row default_internal 
+\i (00:00:55) FORM padedit grid row end_layer 
+\i (00:00:56) FORM padedit grid row begin_layer 
+\i (00:01:03) FORM padedit parameters  
+\i (00:01:35) pse_check 
+\i (00:01:37) pse_save_as 
+\i (00:02:02) fillin "E:\candence lib\foorprint\VIA-8-12\via-8-12.pad"
+\i (00:02:04) pse_exit
+\t (00:02:04)     Journal end - Wed Oct 07 11:37:23 2015

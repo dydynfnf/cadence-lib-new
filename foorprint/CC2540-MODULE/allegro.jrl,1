@@ -1,0 +1,15 @@
+\t (00:00:01) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:01)     Journal start - Tue Dec 29 14:24:50 2015
+\t (00:00:01)         Host=HFP-20120615TNE User=Administrator Pid=2972 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/candence lib/foorprint/CC2540-MODULE/cc2540-module.dra
+\i (00:00:04) trapsize 2951
+\i (00:00:04) trapsize 2898
+\i (00:00:04) trapsize 2960
+\i (00:00:04) trapsize 2960
+\i (00:00:05) generaledit 
+\i (00:00:07) new 
+\i (00:00:51) newdrawfillin "test-bluetooth.brd" "Board"
+\t (00:00:51)     Journal end - Tue Dec 29 14:25:40 2015

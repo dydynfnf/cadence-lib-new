@@ -1,0 +1,18 @@
+\t (00:00:00) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:00)     Journal start - Sat Sep 12 17:04:21 2015
+\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=7428 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: E:/candence lib/foorprint/SOD323/sod323.dra
+\i (00:00:00) trapsize 432
+\i (00:00:00) trapsize 420
+\i (00:00:00) trapsize 435
+\i (00:00:01) trapsize 434
+\i (00:00:01) generaledit 
+\i (00:00:03) open 
+\i (00:00:08) fillin "E:\candence lib\foorprint\H-20-2\h-20-2.dra"
+\i (00:00:08) cd "E:\candence lib\foorprint\H-20-2"
+\t (00:00:08) Opening existing design...
+\i (00:00:09) trapsize 7253
+\t (00:00:09)     Journal end - Sat Sep 12 17:04:30 2015

@@ -1,0 +1,10 @@
+\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:00)     Journal start - Fri Oct 09 13:49:49 2015
+\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=12024 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open 
+\i (00:00:08) fillin "E:\candence lib\PAD\c25.pad"
+\i (00:00:08) cd "E:\candence lib\PAD"
+\t (00:00:08)     Journal end - Fri Oct 09 13:49:57 2015

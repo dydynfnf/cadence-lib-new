@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : mt48lc8m16a2-vfbga.dra                        )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Tue Sep 29 11:37:46 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/candence lib/foorprint/MT48LC8M16A2-VFBGA
+    Name      = mt48lc8m16a2-vfbga.psm
+    User      = Administrator
+    Machine   = HFP-20120615TNE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

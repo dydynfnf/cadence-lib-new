@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : rt8065-dfn8.dra                               )
+(    Software Version : 16.6S049                                      )
+(    Date/Time        : Sun Oct 04 16:31:41 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/candence lib/foorprint/RT8065-DFN8
+    Name      = rt8065-dfn8.psm
+    User      = Administrator
+    Machine   = HFP-20120615TNE
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

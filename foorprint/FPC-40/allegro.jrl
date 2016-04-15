@@ -1,0 +1,39 @@
+\t (00:21:29) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:21:29)     Journal start - Mon Dec 28 23:01:47 2015
+\t (00:21:29)         Host=HFP-20120615TNE User=Administrator Pid=16936 CPUs=4
+\t (00:21:29) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:21:29) 
+\d (00:21:29) Design opened: E:/candence lib/foorprint/FPC-40/fpc-40.dra
+\i (00:21:29) generaledit 
+\i (00:21:32) pick grid 8.2245 3.3454
+\t (00:21:32) last pick:  8.2000 3.3000
+\i (00:21:47) zoom in 1 
+\i (00:21:47) setwindow pcb
+\i (00:21:47) zoom in -1.7116 0.7812
+\i (00:21:47) trapsize 501
+\i (00:21:47) zoom in 1 
+\i (00:21:47) setwindow pcb
+\i (00:21:47) zoom in -1.7116 0.7812
+\i (00:21:47) trapsize 250
+\i (00:21:47) zoom in 1 
+\i (00:21:47) setwindow pcb
+\i (00:21:47) zoom in -1.7116 0.7812
+\i (00:21:47) trapsize 125
+\i (00:21:47) zoom out 1 
+\i (00:21:47) setwindow pcb
+\i (00:21:47) zoom out -1.7091 0.7812
+\i (00:21:47) trapsize 250
+\i (00:21:48) zoom out 1 
+\i (00:21:48) setwindow pcb
+\i (00:21:48) zoom out -1.7090 0.7813
+\i (00:21:48) trapsize 501
+\i (00:21:48) zoom out 1 
+\i (00:21:48) setwindow pcb
+\i (00:21:48) zoom out -3.7122 1.0918
+\i (00:21:48) trapsize 1002
+\i (00:21:56) open 
+\i (00:22:09) fillin "E:\candence lib\foorprint\KEY-3-6-2.5\key-3-6-2.5.dra"
+\i (00:22:09) cd "E:\candence lib\foorprint\KEY-3-6-2.5"
+\t (00:22:09) Opening existing design...
+\i (00:22:09) trapsize 541
+\t (00:22:09)     Journal end - Mon Dec 28 23:02:26 2015

@@ -1,0 +1,272 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Fri Apr 15 10:31:28 2016
+\t (00:00:01)         Host=PSAI-PC User=psai Pid=7404 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/cadence lib/foorprint/REF3125-SOT23/ref3125-sot23.dra
+\i (00:00:03) trapsize 1036
+\i (00:00:03) trapsize 1006
+\i (00:00:03) trapsize 1042
+\i (00:00:03) trapsize 1081
+\i (00:00:04) trapsize 856
+\i (00:00:04) trapsize 856
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -1.3519 0.0000
+\i (00:00:05) trapsize 428
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in -1.4288 0.0000
+\i (00:00:06) trapsize 214
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -1.4288 0.0000
+\i (00:00:06) trapsize 428
+\i (00:00:06) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -1.4289 0.0000
+\i (00:00:07) trapsize 856
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -1.2834 0.0856
+\i (00:00:07) trapsize 428
+\i (00:00:13) delete 
+\i (00:00:14) pick grid -1.5315 0.0856
+\t (00:00:14) last pick:  -2.5400 0.0000
+\t (00:00:14) Pin "R105_60, 2"
+\i (00:00:15) pick grid 1.0695 1.0353
+\t (00:00:15) last pick:  0.0000 0.0000
+\t (00:00:15) Pin "R105_60, 6"
+\i (00:00:16) pick grid 1.1123 -1.0096
+\t (00:00:16) last pick:  0.0000 0.0000
+\t (00:00:16) Pin "R105_60, 4"
+\i (00:00:16) prepopup 3.3112 0.9070
+\i (00:00:17) done 
+\i (00:00:17) generaledit 
+\i (00:00:20) color192 
+\i (00:00:20) setwindow cvf.dialog
+\i (00:00:20) cvf layer_mode
+\i (00:00:20) setwindow pcb
+\i (00:00:20) generaledit 
+\i (00:00:22) setwindow cvf.dialog
+\i (00:00:22) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:00:23) cvf layer_tree_item 'Package Geometry'
+\i (00:00:24) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:00:25) cvf okay
+\i (00:00:31) setwindow pcb
+\i (00:00:31) text edit 
+\i (00:00:39) prepopup 1.1722 2.6524
+\i (00:00:41) pick grid 1.1637 0.3508
+\t (00:00:41) last pick:  0.0000 0.0000
+\i (00:00:44) setwindow pcb
+\i (00:00:44) pick grid -1.0353 -0.6503
+\t (00:00:44) last pick:  0.0000 0.0000
+\i (00:00:44) setwindow pcb
+\i (00:00:44) pick 1.1637 0.3508
+\t (00:00:44) Pick text to edit.
+\i (00:00:45) setwindow pcb
+\i (00:00:45) pick grid -1.1722 -0.9925
+\t (00:00:45) last pick:  0.0000 0.0000
+\i (00:00:45) setwindow pcb
+\i (00:00:45) pick -1.0353 -0.6503
+\i (00:00:46) setwindow pcb
+\i (00:00:46) pick grid -1.0952 -0.9925
+\t (00:00:46) last pick:  0.0000 0.0000
+\i (00:00:46) setwindow pcb
+\i (00:00:46) pick -1.1722 -0.9925
+\i (00:00:47) setwindow pcb
+\i (00:00:47) pick grid -1.1636 -0.9497
+\t (00:00:47) last pick:  0.0000 0.0000
+\i (00:00:47) setwindow pcb
+\i (00:00:47) pick -1.0952 -0.9925
+\i (00:00:49) setwindow pcb
+\i (00:00:49) pick grid 2.9262 0.2652
+\t (00:00:49) last pick:  2.5400 0.0000
+\i (00:00:49) setwindow pcb
+\i (00:00:49) pick -1.1636 -0.9497
+\e (00:00:49) ERROR(SPMHA1-441): Text not found.
+\i (00:00:53) setwindow pcb
+\i (00:00:53) pick grid -1.1636 -1.1380
+\t (00:00:53) last pick:  0.0000 0.0000
+\i (00:00:55) setwindow pcb
+\i (00:00:55) prepopup 3.1059 0.8984
+\i (00:00:56) done 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) pick -1.1636 -1.1380
+\t (00:00:56) Pick text to edit.
+\i (00:00:56) setwindow pcb
+\i (00:00:56) generaledit 
+\i (00:01:03) roam start
+\i (00:01:03) roam x -64
+\i (00:01:03) roam y 16
+\i (00:01:04) roam x -32
+\i (00:01:04) roam x -32
+\i (00:01:04) roam x -16
+\i (00:01:04) roam y -16
+\i (00:01:04) roam x -16
+\i (00:01:04) roam y -32
+\i (00:01:04) roam y -16
+\i (00:01:04) roam y -32
+\i (00:01:04) roam x 32
+\i (00:01:04) roam x 16
+\i (00:01:04) roam x 16
+\i (00:01:05) roam x 16
+\i (00:01:05) roam y 16
+\i (00:01:05) roam x 16
+\i (00:01:05) roam y 16
+\i (00:01:05) roam x 16
+\i (00:01:05) roam y 16
+\i (00:01:05) roam y 16
+\i (00:01:05) roam x 16
+\i (00:01:05) roam y 16
+\i (00:01:05) roam end
+\i (00:01:08) undo 
+\i (00:01:08) trapsize 428
+\i (00:01:08) generaledit 
+\i (00:01:11) redo 
+\i (00:01:11) trapsize 428
+\i (00:01:11) replay C:/Users/psai/AppData/Local/Temp/#Taaaaab07404.tmp 
+\i (00:01:11) scriptmode +i 
+\i (00:01:11) text edit 
+\i (00:01:11) prepopup 1.1722 2.6524 
+\i (00:01:11) prepopup 1.1722 2.6524
+\i (00:01:11) setwindow pcb 
+\i (00:01:11) setwindow pcb 
+\i (00:01:11) pick 1.1637 0.3508 
+\t (00:01:11) last pick:  1.1637 0.3508
+\i (00:01:11) text 3 
+\t (00:01:11) Pick text to edit.
+\i (00:01:11) setwindow pcb 
+\i (00:01:11) setwindow pcb 
+\i (00:01:11) pick -1.0353 -0.6503 
+\t (00:01:11) last pick:  -1.0353 -0.6503
+\i (00:01:12) text DEV 
+\i (00:01:12) setwindow pcb 
+\i (00:01:12) setwindow pcb 
+\i (00:01:12) pick -1.1722 -0.9925 
+\t (00:01:12) last pick:  -1.1722 -0.9925
+\i (00:01:12) text DEV 
+\i (00:01:12) setwindow pcb 
+\i (00:01:12) setwindow pcb 
+\i (00:01:12) pick -1.0952 -0.9925 
+\t (00:01:12) last pick:  -1.0952 -0.9925
+\i (00:01:12) text DEV 
+\i (00:01:12) setwindow pcb 
+\i (00:01:12) setwindow pcb 
+\i (00:01:12) pick -1.1636 -0.9497 
+\t (00:01:12) last pick:  -1.1636 -0.9497
+\i (00:01:12) text DEV 
+\i (00:01:12) setwindow pcb 
+\i (00:01:12) setwindow pcb 
+\i (00:01:12) prepopup 3.1059 0.8984 
+\i (00:01:12) prepopup 3.1059 0.8984
+\i (00:01:12) setwindow pcb 
+\i (00:01:12) pick -1.1636 -1.1380 
+\t (00:01:12) last pick:  -1.1636 -1.1380
+\i (00:01:12) text 2 
+\t (00:01:12) Pick text to edit.
+\i (00:01:12) done 
+\i (00:01:12) trapsize 428
+\i (00:01:12) generaledit 
+\i (00:01:13) undo 
+\i (00:01:13) trapsize 428
+\i (00:01:13) generaledit 
+\i (00:01:17) redo 
+\i (00:01:17) trapsize 428
+\i (00:01:17) replay C:/Users/psai/AppData/Local/Temp/#Taaaaac07404.tmp 
+\i (00:01:17) scriptmode +i 
+\i (00:01:17) text edit 
+\i (00:01:17) prepopup 1.1722 2.6524 
+\i (00:01:17) prepopup 1.1722 2.6524
+\i (00:01:17) setwindow pcb 
+\i (00:01:17) setwindow pcb 
+\i (00:01:17) pick 1.1637 0.3508 
+\t (00:01:17) last pick:  1.1637 0.3508
+\i (00:01:18) text 3 
+\t (00:01:18) Pick text to edit.
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) pick -1.0353 -0.6503 
+\t (00:01:18) last pick:  -1.0353 -0.6503
+\i (00:01:18) text DEV 
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) pick -1.1722 -0.9925 
+\t (00:01:18) last pick:  -1.1722 -0.9925
+\i (00:01:18) text DEV 
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) pick -1.0952 -0.9925 
+\t (00:01:18) last pick:  -1.0952 -0.9925
+\i (00:01:18) text DEV 
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) pick -1.1636 -0.9497 
+\t (00:01:18) last pick:  -1.1636 -0.9497
+\i (00:01:18) text DEV 
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) prepopup 3.1059 0.8984 
+\i (00:01:18) prepopup 3.1059 0.8984
+\i (00:01:18) setwindow pcb 
+\i (00:01:18) pick -1.1636 -1.1380 
+\t (00:01:18) last pick:  -1.1636 -1.1380
+\i (00:01:18) text 2 
+\t (00:01:18) Pick text to edit.
+\i (00:01:18) done 
+\i (00:01:18) trapsize 428
+\i (00:01:18) generaledit 
+\i (00:01:19) undo 
+\i (00:01:19) trapsize 428
+\i (00:01:19) generaledit 
+\i (00:01:24) pick grid 1.2663 0.5733
+\t (00:01:24) last pick:  0.0000 0.0000
+\i (00:01:25) pick grid 4.0642 1.1893
+\t (00:01:25) last pick:  5.0800 0.0000
+\i (00:01:28) pick grid -1.4288 -1.0438
+\t (00:01:28) last pick:  -2.5400 0.0000
+\i (00:01:30) text edit 
+\t (00:01:30) Selected item not valid for current operation, ignored: Pin "R105_60, 3"
+\t (00:01:30) No valid items selected for the current operation, exiting.
+\i (00:01:30) generaledit 
+\i (00:01:33) pick grid 1.2663 0.3679
+\t (00:01:33) last pick:  0.0000 0.0000
+\i (00:01:37) text edit 
+\i (00:01:38) setwindow form.textedit
+\i (00:01:38) FORM textedit cancel  
+\i (00:01:38) setwindow pcb
+\i (00:01:38) generaledit 
+\i (00:01:40) pick grid 2.3786 0.8727
+\t (00:01:40) last pick:  2.5400 0.0000
+\i (00:01:44) pick grid -1.3176 -0.5219
+\t (00:01:44) last pick:  -2.5400 0.0000
+\i (00:01:45) text edit 
+\i (00:01:49) setwindow form.textedit
+\i (00:01:49) FORM textedit str 2 
+\i (00:01:49) FORM textedit done  
+\i (00:01:49) setwindow pcb
+\i (00:01:49) pick -1.1636 -1.1380
+\t (00:01:49) Pick text to edit.
+\i (00:01:49) setwindow pcb
+\i (00:01:49) generaledit 
+\i (00:01:51) pick grid 1.1123 0.4963
+\t (00:01:51) last pick:  0.0000 0.0000
+\i (00:01:52) text edit 
+\i (00:01:54) setwindow form.textedit
+\i (00:01:54) FORM textedit str 3 
+\i (00:01:55) FORM textedit done  
+\i (00:01:55) setwindow pcb
+\i (00:01:55) pick -1.1636 -1.1380
+\t (00:01:55) Pick text to edit.
+\i (00:01:55) setwindow pcb
+\i (00:01:55) generaledit 
+\i (00:01:55) pick grid 2.7637 0.8214
+\t (00:01:55) last pick:  2.5400 0.0000
+\i (00:01:56) save 
+\i (00:01:58) fillin yes 
+\t (00:01:59) Symbol 'ref3125-sot23.psm' created.
+\i (00:01:59) generaledit 
+\i (00:02:11) exit 
+\t (00:02:11)     Journal end - Fri Apr 15 10:33:38 2016

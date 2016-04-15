@@ -1,0 +1,26 @@
+\t (00:17:37) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:17:37)     Journal start - Mon Oct 05 20:55:12 2015
+\t (00:17:37)         Host=HFP-20120615TNE User=Administrator Pid=13740 CPUs=4
+\t (00:17:37) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:17:37) 
+\d (00:17:37) Design opened: E:/candence lib/foorprint/MAX17048-WLP8/max17048-wlp8.dra
+\i (00:17:37) generaledit 
+\i (00:17:39) add connect 
+\w (00:17:39) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:17:40) Pick first element.
+\i (00:17:40) pick grid -3.7315 2.4596
+\t (00:17:40) last pick:  -3.7000 2.5000
+\t (00:17:40) last pick:  -3.7000 2.5000
+\i (00:17:40) prepopup -3.0504 1.5712
+\i (00:17:42) cancel 
+\i (00:17:42) generaledit 
+\i (00:17:42) save 
+\i (00:17:43) fillin yes 
+\t (00:17:44) Symbol 'max17048-wlp8.psm' created.
+\i (00:17:44) generaledit 
+\i (00:18:11) open 
+\i (00:18:44) fillin "E:\candence lib\foorprint\RT5002-QFN40\rt5002-qfn40.dra"
+\i (00:18:44) cd "E:\candence lib\foorprint\RT5002-QFN40"
+\t (00:18:44) Opening existing design...
+\i (00:18:44) trapsize 720
+\t (00:18:44)     Journal end - Mon Oct 05 20:56:19 2015

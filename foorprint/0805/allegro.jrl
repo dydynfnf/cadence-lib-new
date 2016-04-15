@@ -1,0 +1,167 @@
+\t (00:00:19) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:19)     Journal start - Sun Sep 13 15:12:15 2015
+\t (00:00:19)         Host=HFP-20120615TNE User=Administrator Pid=12836 CPUs=4
+\t (00:00:19) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:19) 
+\d (00:00:19) Design opened: E:/candence lib/foorprint/0805/0805.dra
+\i (00:00:19) generaledit 
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 0.1893 0.4417
+\i (00:00:20) trapsize 394
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 0.1894 0.4418
+\i (00:00:20) trapsize 197
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 0.1894 0.4418
+\i (00:00:21) trapsize 394
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 0.1895 0.4419
+\i (00:00:21) trapsize 789
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in -0.0947 0.5837
+\i (00:00:21) trapsize 394
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in -0.0946 0.5838
+\i (00:00:21) trapsize 197
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out -0.0946 0.5838
+\i (00:00:22) trapsize 394
+\i (00:00:28) change 
+\i (00:00:36) setwindow form.mini
+\i (00:00:36) FORM mini apply_subclass YES 
+\i (00:00:43) FORM mini change_subclass SILKSCREEN_TOP 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) pick grid 1.7433 0.6864
+\t (00:00:46) last pick:  1.7526 0.6858
+\e (00:00:46) ERROR(SPMHGE-522): Changing line to a different class is not supported.
+\i (00:00:48) prepopup 2.6031 1.5856
+\i (00:00:50) cancel 
+\i (00:00:50) generaledit 
+\i (00:00:52) add line 
+\i (00:00:58) setwindow form.mini
+\i (00:00:58) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:01) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:06) FORM mini lock_direction 90 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) pick grid -1.7194 0.9546
+\t (00:01:08) last pick:  -1.7272 0.9652
+\i (00:01:10) prepopup -1.7115 0.7337
+\i (00:01:11) toggle 
+\i (00:01:12) prepopup -2.1453 0.9309
+\i (00:01:14) cancel 
+\i (00:01:14) generaledit 
+\i (00:01:15) pick grid -1.7115 0.9388
+\t (00:01:15) last pick:  -1.7018 0.9398
+\i (00:01:17) add line 
+\i (00:01:21) pick grid -1.7194 0.9467
+\t (00:01:21) last pick:  -1.7272 0.9398
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in 0.3156 1.0019
+\i (00:01:24) trapsize 197
+\i (00:01:25) prepopup 1.4515 1.0256
+\i (00:01:27) oops 
+\i (00:01:29) pick grid 1.6920 0.9546
+\t (00:01:29) last pick:  1.7018 0.9652
+\i (00:01:34) roam start
+\i (00:01:34) roam x -48
+\i (00:01:34) roam y 16
+\i (00:01:34) roam x -48
+\i (00:01:34) roam x -112
+\i (00:01:34) roam x -96
+\i (00:01:34) roam x -80
+\i (00:01:34) roam x -64
+\i (00:01:34) roam x -16
+\i (00:01:34) roam end
+\i (00:01:35) roam start
+\i (00:01:35) roam y 48
+\i (00:01:35) roam x -16
+\i (00:01:35) roam y 64
+\i (00:01:35) roam x -32
+\i (00:01:35) roam y 80
+\i (00:01:35) roam y 16
+\i (00:01:35) roam end
+\i (00:01:38) pick grid -1.7038 -0.9504
+\t (00:01:38) last pick:  -1.7018 -0.9398
+\i (00:01:38) roam start
+\i (00:01:38) roam x 48
+\i (00:01:39) roam x 64
+\i (00:01:39) roam x 32
+\i (00:01:39) roam x 32
+\i (00:01:39) roam x 32
+\i (00:01:39) roam x 48
+\i (00:01:39) roam x 32
+\i (00:01:39) roam x 48
+\i (00:01:39) roam x 32
+\i (00:01:39) roam x 32
+\i (00:01:39) roam x 16
+\i (00:01:39) roam x 16
+\i (00:01:39) roam x 32
+\i (00:01:40) roam x 16
+\i (00:01:40) roam end
+\i (00:01:45) pick grid 1.6919 0.9742
+\t (00:01:45) last pick:  1.7018 0.9652
+\i (00:01:46) prepopup 1.9680 0.5837
+\i (00:01:46) done 
+\i (00:01:46) generaledit 
+\i (00:01:48) prepopup 2.0193 0.6389
+\i (00:01:49) pick grid 2.1652 0.9229
+\t (00:01:49) last pick:  2.1590 0.9144
+\i (00:01:56) delete 
+\i (00:02:03) color192 
+\i (00:02:04) setwindow cvf.dialog
+\i (00:02:04) cvf layer_mode
+\i (00:02:11) cvf global_invisible
+\i (00:02:11) cvf layer_tree_item 'Components'
+\i (00:02:17) cvf layers_visible components components/all_row TRUE
+\i (00:02:18) cvf apply
+\i (00:02:21) cvf cancel
+\i (00:02:23) setwindow pcb
+\i (00:02:23) delete 
+\i (00:02:26) pick grid 0.0316 -0.9583
+\t (00:02:26) last pick:  0.0254 -0.9652
+\t (00:02:26) Line "Device Type/Silkscreen_Top"
+\i (00:02:27) pick grid 2.1849 0.2012
+\t (00:02:27) last pick:  2.1844 0.2032
+\i (00:02:28) prepopup 2.1849 0.2012
+\i (00:02:28) done 
+\i (00:02:28) generaledit 
+\i (00:02:30) color192 
+\i (00:02:30) setwindow cvf.dialog
+\i (00:02:30) cvf layer_mode
+\i (00:02:30) setwindow pcb
+\i (00:02:30) generaledit 
+\i (00:02:32) setwindow cvf.dialog
+\i (00:02:32) cvf global_visible
+\i (00:02:34) cvf okay
+\i (00:02:35) setwindow pcb
+\i (00:02:35) roam start
+\i (00:02:35) roam x -48
+\i (00:02:35) roam x -112
+\i (00:02:35) roam y -32
+\i (00:02:35) roam x -64
+\i (00:02:35) roam x -48
+\i (00:02:35) roam end
+\i (00:02:37) move 
+\t (00:02:37) Select element(s) to move.
+\i (00:02:38) pick grid -1.7353 0.3944
+\t (00:02:38) last pick:  -1.7272 0.4064
+\t (00:02:38) last pick:  -1.7272 0.4064
+\t (00:02:38) Element has no origin, using pick.
+\t (00:02:38) Pick new location for the element(s).
+\i (00:02:39) prepopup -1.7431 0.2406
+\i (00:02:40) cancel 
+\i (00:02:40) generaledit 
+\i (00:02:41) save 
+\i (00:02:45) fillin yes 
+\t (00:02:46) Symbol '0805.psm' created.
+\i (00:02:46) generaledit 
+\i (00:02:48) exit 
+\t (00:02:48)     Journal end - Sun Sep 13 15:14:44 2015

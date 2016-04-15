@@ -1,0 +1,84 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Thu Apr 14 21:41:32 2016
+\t (00:00:01)         Host=PSAI-LENOVO User=psai Pid=3872 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/cadence lib/foorprint/LT3080-TO263/lt3080-to263.dra
+\i (00:00:03) trapsize 3012
+\i (00:00:03) trapsize 2924
+\i (00:00:03) trapsize 3027
+\i (00:00:03) trapsize 3142
+\i (00:00:04) trapsize 2487
+\i (00:00:04) trapsize 2487
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -0.1492 -4.7246
+\i (00:00:05) trapsize 1243
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -2.2628 -4.6997
+\i (00:00:05) trapsize 622
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -2.2628 -4.6003
+\i (00:00:06) trapsize 1243
+\i (00:00:07) color192 
+\i (00:00:07) setwindow cvf.dialog
+\i (00:00:07) cvf layer_mode
+\i (00:00:07) setwindow pcb
+\i (00:00:07) generaledit 
+\i (00:00:09) setwindow cvf.dialog
+\i (00:00:09) cvf layer_tree_item 'Package Geometry'
+\i (00:00:10) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:00:11) cvf apply
+\i (00:00:12) cvf okay
+\i (00:00:19) setwindow form.find
+\i (00:00:19) FORM find all_off  
+\i (00:00:22) FORM find text YES 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) pick grid 2.7353 0.0001
+\t (00:00:23) last pick:  2.5400 0.0000
+\i (00:00:25) pick grid 2.8348 0.0001
+\t (00:00:25) last pick:  2.5400 0.0000
+\i (00:00:25) pick grid dbl 2.8348 0.0001
+\t (00:00:25) last pick:  2.5400 0.0000
+\i (00:00:26) prepopup 2.8348 0.0001
+\i (00:00:29) text edit 
+\i (00:00:33) setwindow form.textedit
+\i (00:00:33) FORM textedit str 5 
+\i (00:00:33) FORM textedit done  
+\i (00:00:33) setwindow pcb
+\i (00:00:33) pick 0.0000 0.0000
+\t (00:00:33) Pick text to edit.
+\i (00:00:33) setwindow pcb
+\i (00:00:33) generaledit 
+\i (00:00:33) pick grid 1.4671 -6.4154
+\t (00:00:33) last pick:  2.5400 -7.6200
+\i (00:00:35) save 
+\i (00:00:37) fillin yes 
+\e (00:00:37) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:00:37) generaledit 
+\i (00:00:58) setwindow text
+\i (00:00:58) close 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) pick grid 2.6856 0.0001
+\t (00:01:06) last pick:  2.5400 0.0000
+\i (00:01:12) text edit 
+\i (00:01:16) setwindow form.textedit
+\i (00:01:16) FORM textedit str 6 
+\i (00:01:16) FORM textedit done  
+\i (00:01:16) setwindow pcb
+\i (00:01:16) pick 0.0000 0.0000
+\t (00:01:16) Pick text to edit.
+\i (00:01:16) setwindow pcb
+\i (00:01:16) generaledit 
+\i (00:01:16) pick grid 11.6126 -1.0443
+\t (00:01:16) last pick:  12.7000 0.0000
+\i (00:01:21) save 
+\i (00:01:22) fillin yes 
+\t (00:01:22) Symbol 'lt3080-to263.psm' created.
+\i (00:01:22) generaledit 
+\i (00:03:29) exit 
+\t (00:03:29)     Journal end - Thu Apr 14 21:44:59 2016

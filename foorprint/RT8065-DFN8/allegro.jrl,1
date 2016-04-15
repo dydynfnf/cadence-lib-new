@@ -1,0 +1,21 @@
+\t (01:34:18) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (01:34:18)     Journal start - Mon Oct 05 22:39:43 2015
+\t (01:34:18)         Host=HFP-20120615TNE User=Administrator Pid=14900 CPUs=4
+\t (01:34:18) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (01:34:18) 
+\d (01:34:18) Design opened: E:/candence lib/foorprint/RT8065-DFN8/rt8065-dfn8.dra
+\i (01:34:19) generaledit 
+\i (01:34:20) roam start
+\i (01:34:20) roam x -16
+\i (01:34:20) roam y 64
+\i (01:34:20) roam y 48
+\i (01:34:20) roam y 32
+\i (01:34:20) roam y 16
+\i (01:34:20) roam y 32
+\i (01:34:21) roam end
+\i (01:34:23) roam start
+\i (01:34:23) roam y -64
+\i (01:34:23) roam y -16
+\i (01:34:23) roam end
+\i (01:34:39) exit 
+\t (01:34:40)     Journal end - Mon Oct 05 22:40:04 2015

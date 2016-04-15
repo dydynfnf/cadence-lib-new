@@ -1,0 +1,221 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Thu Apr 14 22:00:02 2016
+\t (00:00:04)         Host=DAQI-PC User=DaQi Pid=9972 CPUs=4
+\t (00:00:04) 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Database opened: E:/Vibration/foorprint/STM32F407ZGT6-LQFP144/stm32f407zgt6-lqfp144.dra
+\i (00:00:08) trapsize 5927
+\i (00:00:08) trapsize 5522
+\i (00:00:08) trapsize 5968
+\i (00:00:08) trapsize 5534
+\i (00:00:13) trapsize 4083
+\i (00:00:13) trapsize 5534
+\i (00:00:14) generaledit 
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -11.5111 0.6641
+\i (00:00:23) trapsize 2767
+\i (00:00:23) zoom in 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom in -18.7056 0.6642
+\i (00:00:23) trapsize 1384
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out -13.1161 1.1346
+\i (00:00:24) trapsize 2767
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out -7.5265 1.0793
+\i (00:00:24) trapsize 5534
+\i (00:00:25) zoom in 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom in 10.8470 0.1107
+\i (00:00:25) trapsize 2767
+\i (00:00:26) pick grid 11.1237 10.6810
+\t (00:00:26) last pick:  10.1600  10.1600
+\i (00:00:27) prepopup 11.1237 10.6810
+\i (00:00:29) pop dyn_option_select @:@Delete 
+\i (00:00:29) delete 
+\i (00:00:29) generaledit 
+\i (00:00:31) pick grid 11.2898 11.2898
+\t (00:00:31) last pick:  10.1600  10.1600
+\i (00:00:31) prepopup 11.2898 11.2898
+\i (00:00:33) pop dyn_option_select @:@Delete 
+\i (00:00:34) delete 
+\i (00:00:34) generaledit 
+\i (00:00:35) pick grid 11.3451 11.2898
+\t (00:00:35) last pick:  10.1600  10.1600
+\i (00:00:36) prepopup 11.3451 11.2898
+\i (00:00:37) pop dyn_option_select @:@Delete 
+\i (00:00:37) delete 
+\i (00:00:37) generaledit 
+\i (00:00:39) pick grid -10.2936 -10.9023
+\t (00:00:39) last pick:  -10.1600  -10.1600
+\i (00:00:39) prepopup -10.2936 -10.9023
+\i (00:00:40) pop dyn_option_select '@:@Add connect' 
+\i (00:00:40) add connect 
+\w (00:00:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:42) Pick first element.
+\t (00:00:42) last pick:  -10.7000  -10.7000
+\i (00:00:46) undo 
+\i (00:00:47) trapsize 2767
+\i (00:00:47) generaledit 
+\i (00:00:48) prepopup -10.5703 -10.5702
+\i (00:00:53) pop dyn_option_select @:@Delete 
+\i (00:00:53) delete 
+\i (00:00:53) generaledit 
+\i (00:00:55) pick grid -11.1237 -9.7955
+\t (00:00:55) last pick:  -10.1600  -10.1600
+\i (00:00:55) prepopup -11.1237 -9.7955
+\i (00:00:57) pop dyn_option_select @:@Delete 
+\i (00:00:57) delete 
+\i (00:00:57) generaledit 
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in -10.4043 8.9101
+\i (00:00:59) trapsize 1384
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in -10.4042 8.9101
+\i (00:00:59) trapsize 692
+\i (00:01:16) show measure 
+\i (00:01:20) pick grid -11.4695 8.7580
+\t (00:01:20) last pick:  -11.4300  8.8900
+\i (00:01:25) setwindow text
+\i (00:01:25) close 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) pick grid -11.4557 8.8548
+\t (00:01:28) last pick:  -11.4300  8.8900
+\i (00:01:32) setwindow text
+\i (00:01:32) close 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) Esc 
+\i (00:01:35) pick grid -11.3865 8.8548
+\t (00:01:35) last pick:  -11.4300  8.8900
+\i (00:01:36) Esc 
+\i (00:01:37) pick grid -10.6255 8.6335
+\t (00:01:37) last pick:  -10.7950  8.8900
+\i (00:01:38) pick grid -10.6947 8.2046
+\t (00:01:38) last pick:  -10.7950  8.2550
+\i (00:01:56) setwindow text
+\i (00:01:56) close 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) Esc 
+\i (00:01:57) Esc 
+\i (00:01:59) prepopup -10.7916 8.3291
+\i (00:02:00) done 
+\i (00:02:00) generaledit 
+\i (00:02:42) setwindow form.find
+\i (00:02:42) FORM find vias NO 
+\i (00:02:42) FORM find clines NO 
+\i (00:02:43) FORM find lines NO 
+\i (00:02:45) FORM find text NO 
+\i (00:02:45) FORM find drc_errors NO 
+\i (00:02:45) FORM find figures NO 
+\i (00:02:46) FORM find other_segs NO 
+\i (00:02:46) FORM find cline_segs NO 
+\i (00:02:47) FORM find voids NO 
+\i (00:02:47) FORM find shapes NO 
+\i (00:02:50) FORM find symbols NO 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) show measure 
+\i (00:03:05) pick grid -11.4557 8.7580
+\t (00:03:05) last pick:  -11.4300  8.8900
+\i (00:03:09) pick grid -9.9753 8.7857
+\t (00:03:09) last pick:  -10.1600  8.8900
+\i (00:03:12) pick grid -10.6809 8.7442
+\t (00:03:12) last pick:  -10.7950  8.8900
+\i (00:03:14) pick grid -11.4418 8.7718
+\t (00:03:15) last pick:  -11.4300  8.8900
+\i (00:03:21) pick grid -9.9338 8.7442
+\t (00:03:21) last pick:  -10.1600  8.8900
+\i (00:03:31) Esc 
+\i (00:03:34) pick grid -11.4418 8.7718
+\t (00:03:34) last pick:  -11.4300  8.8900
+\i (00:03:38) pick grid -11.4418 8.8548
+\t (00:03:38) last pick:  -11.4300  8.8900
+\i (00:03:41) pick grid -11.4557 8.8964
+\t (00:03:41) last pick:  -11.4300  8.8900
+\i (00:04:28) setwindow text
+\i (00:04:28) close 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out -5.9630 6.1708
+\i (00:04:29) trapsize 1384
+\i (00:04:29) zoom out 1 
+\i (00:04:29) setwindow pcb
+\i (00:04:29) zoom out -5.9629 6.1707
+\i (00:04:29) trapsize 2767
+\i (00:04:30) zoom out 1 
+\i (00:04:30) setwindow pcb
+\i (00:04:30) zoom out 6.8072 6.2814
+\i (00:04:30) trapsize 5534
+\i (00:04:32) zoom in 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom in 11.6218 -9.6295
+\i (00:04:32) trapsize 2767
+\i (00:04:32) zoom in 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom in -6.8070 -11.0130
+\i (00:04:32) trapsize 1384
+\i (00:04:32) zoom in 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom in -6.8070 -11.0130
+\i (00:04:32) trapsize 692
+\i (00:04:32) zoom in 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom in -6.8070 -11.0130
+\i (00:04:32) trapsize 346
+\i (00:04:34) zoom out 1 
+\i (00:04:34) setwindow pcb
+\i (00:04:34) zoom out -7.2774 -10.5910
+\i (00:04:34) trapsize 692
+\i (00:04:35) zoom out 1 
+\i (00:04:35) setwindow pcb
+\i (00:04:35) zoom out -7.2774 -10.5909
+\i (00:04:35) trapsize 1384
+\i (00:04:35) zoom out 1 
+\i (00:04:35) setwindow pcb
+\i (00:04:35) zoom out -7.2773 -10.6186
+\i (00:04:35) trapsize 2767
+\i (00:04:37) pick grid -10.6809 -8.1835
+\t (00:04:37) last pick:  -10.7950  -8.2550
+\i (00:04:40) pick grid 10.5705 -8.1835
+\t (00:04:40) last pick:  10.7950  -8.2550
+\i (00:05:10) pick grid 15.3852 -1.0997
+\t (00:05:10) last pick:  15.2400  -1.2700
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in 15.2192 -1.6531
+\i (00:05:11) trapsize 1384
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in 15.2192 -1.6531
+\i (00:05:11) trapsize 692
+\i (00:05:11) zoom in 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in 15.2192 -1.6531
+\i (00:05:11) trapsize 346
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 15.1707 -1.6877
+\i (00:05:11) trapsize 692
+\i (00:05:11) zoom out 1 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 15.1708 -1.6877
+\i (00:05:11) trapsize 1384
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 15.1709 -1.6876
+\i (00:05:12) trapsize 2767
+\i (00:05:12) zoom out 1 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 14.7765 -1.7430
+\i (00:05:12) trapsize 5534
+\i (00:05:14) save 
+\i (00:05:16) fillin yes 
+\t (00:05:18) Symbol 'stm32f407zgt6-lqfp144.psm' created.
+\i (00:05:18) generaledit 
+\i (00:05:19) exit 
+\t (00:05:22)     Journal end - Thu Apr 14 22:05:21 2016

@@ -1,0 +1,9 @@
+\t (00:00:09) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:09)     Journal start - Tue Dec 29 12:59:52 2015
+\t (00:00:09)         Host=HFP-20120615TNE User=Administrator Pid=11868 CPUs=4
+\t (00:00:09) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:09) 
+\d (00:00:09) Design opened: E:/candence lib/foorprint/FPC-22/fpc-22.dra
+\i (00:00:10) generaledit 
+\i (00:00:17) exit 
+\t (00:00:17)     Journal end - Tue Dec 29 12:59:59 2015

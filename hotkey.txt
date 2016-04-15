@@ -1,0 +1,10 @@
+$:\Cadence\SPB_16.6\share\pcb\text中，找到env文件加入
+
+funckey ' ' iangle 90
+funckey + subclass -+
+funckey - subclass --
+funckey w move
+funckey a add connect
+funckey s slide
+funckey d delete
+funckey c custom smooth

@@ -1,0 +1,22 @@
+\t (00:00:00) allegro 16.6 S049 (v16-6-112DV) Windows 32
+\t (00:00:00)     Journal start - Mon Oct 05 22:40:10 2015
+\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=17876 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: E:/candence lib/foorprint/RT8065-DFN8/rt8065-dfn8.dra
+\i (00:00:02) trapsize 359
+\i (00:00:02) trapsize 350
+\i (00:00:02) trapsize 360
+\i (00:00:03) trapsize 360
+\i (00:00:03) generaledit 
+\i (00:00:04) open 
+\i (00:00:18) fillin "E:\material\glass\pcb\test-stm32f429\pcb\f429.brd"
+\i (00:00:18) cd "E:\material\glass\pcb\test-stm32f429\pcb"
+\t (00:00:18) Opening existing design...
+\i (00:00:18) trapsize 445
+\i (00:00:18) trapsize 432
+\i (00:00:18) trapsize 445
+\i (00:00:18) trapsize 451
+\i (00:00:19) trapsize 451
+\t (00:00:19)     Journal end - Mon Oct 05 22:40:29 2015

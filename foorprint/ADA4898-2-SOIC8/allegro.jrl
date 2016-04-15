@@ -1,0 +1,9 @@
+\t (00:00:21) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:21)     Journal start - Fri Apr 15 11:15:53 2016
+\t (00:00:21)         Host=PSAI-PC User=psai Pid=2920 CPUs=4
+\t (00:00:21) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:21) 
+\d (00:00:21) Design opened: E:/cadence lib/foorprint/ADA4898-2-SOIC8/ada4898-2-soic8.dra
+\i (00:00:21) generaledit 
+\i (00:00:22) exit 
+\t (00:00:23)     Journal end - Fri Apr 15 11:15:55 2016
