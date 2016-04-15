@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : w5300-lqfp100.dra                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Apr 15 22:36:13 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/Vibration_lib/foorprint/W5300-LQFP100
+    Name      = w5300-lqfp100.psm
+    User      = DaQi
+    Machine   = DAQI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
