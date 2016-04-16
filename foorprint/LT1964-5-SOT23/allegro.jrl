@@ -1,0 +1,23 @@
+\t (00:00:10) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:10)     Journal start - Sat Apr 16 14:47:20 2016
+\t (00:00:10)         Host=PSAI-PC User=psai Pid=2264 CPUs=4
+\t (00:00:10) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:10) 
+\d (00:00:10) Design opened: E:/cadence lib/foorprint/LT1964-5-SOT23/lt1964-5-sot23.dra
+\i (00:00:10) generaledit 
+\i (00:00:17) pick grid -2.8887 2.8171
+\t (00:00:17) last pick:  -3.1750 2.5400
+\i (00:00:21) move 
+\t (00:00:21) Select element(s) to move.
+\i (00:00:23) pick grid -2.1274 2.2080
+\t (00:00:23) last pick:  -1.9050 1.9050
+\i (00:00:24) move 
+\t (00:00:24) Select element(s) to move.
+\i (00:00:25) pick grid -2.4677 2.5305
+\t (00:00:25) last pick:  -2.5400 2.5400
+\i (00:00:26) save 
+\i (00:00:28) fillin yes 
+\t (00:00:28) Symbol 'lt1964-5-sot23.psm' created.
+\i (00:00:28) generaledit 
+\i (00:00:32) exit 
+\t (00:00:32)     Journal end - Sat Apr 16 14:47:42 2016

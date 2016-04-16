@@ -2,18 +2,18 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : lt1964byp-sot23.dra                           )
+(    Drawing          : cap-10-10.dra                                 )
 (    Software Version : 16.6-2015S065                                 )
-(    Date/Time        : Thu Apr 14 22:49:51 2016                      )
+(    Date/Time        : Sat Apr 16 10:39:09 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = E:/cadence lib/foorprint/LT1964BYP-SOT23
-    Name      = lt1964byp-sot23.psm
+    Directory = E:/cadence lib/foorprint/CAP-10-10
+    Name      = cap-10-10.psm
     User      = psai
-    Machine   = PSAI-LENOVO
+    Machine   = PSAI-PC
 
 
 Create symbol started.

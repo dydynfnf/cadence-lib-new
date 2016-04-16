@@ -1,0 +1,19 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Sat Apr 16 14:47:11 2016
+\t (00:00:01)         Host=PSAI-PC User=psai Pid=2264 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: E:/cadence lib/foorprint/L-8-8-5/l-8-8-5.dra
+\i (00:00:01) trapsize 1352
+\i (00:00:01) trapsize 1313
+\i (00:00:01) trapsize 1359
+\i (00:00:02) trapsize 1116
+\i (00:00:02) trapsize 1116
+\i (00:00:02) generaledit 
+\i (00:00:04) open 
+\i (00:00:10) fillin "E:\cadence lib\foorprint\LT1964-5-SOT23\lt1964-5-sot23.dra"
+\i (00:00:10) cd "E:\cadence lib\foorprint\LT1964-5-SOT23"
+\t (00:00:10) Opening existing design...
+\i (00:00:10) trapsize 448
+\t (00:00:10)     Journal end - Sat Apr 16 14:47:20 2016

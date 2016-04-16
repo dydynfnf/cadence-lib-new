@@ -1,0 +1,20 @@
+\t (00:00:02) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:02)     Journal start - Sat Apr 16 13:10:23 2016
+\t (00:00:02)         Host=PSAI-PC User=psai Pid=5392 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/cadence lib/foorprint/CAP-10-10/cap-10-10.dra
+\i (00:00:05) trapsize 2704
+\i (00:00:05) trapsize 2625
+\i (00:00:05) trapsize 2718
+\i (00:00:05) trapsize 2821
+\i (00:00:06) trapsize 2233
+\i (00:00:06) trapsize 2233
+\i (00:00:07) generaledit 
+\i (00:00:08) open 
+\i (00:00:10) fillin "menu_cancel"
+\i (00:00:10) generaledit 
+\i (00:00:12) new 
+\i (00:00:40) newdrawfillin "l-8-8-5.dra" "Package Symbol"
+\t (00:00:40)     Journal end - Sat Apr 16 13:11:01 2016

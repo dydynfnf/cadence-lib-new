@@ -1,0 +1,19 @@
+\t (00:00:02) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:02)     Journal start - Sat Apr 16 13:47:12 2016
+\t (00:00:02)         Host=PSAI-PC User=psai Pid=7316 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/cadence lib/foorprint/L-8-8-5/l-8-8-5.dra
+\i (00:00:04) trapsize 1352
+\i (00:00:04) trapsize 1313
+\i (00:00:04) trapsize 1359
+\i (00:00:05) trapsize 1116
+\i (00:00:05) trapsize 1116
+\i (00:00:05) generaledit 
+\i (00:00:07) open 
+\i (00:00:09) fillin "menu_cancel"
+\i (00:00:09) generaledit 
+\i (00:00:10) new 
+\i (00:00:31) newdrawfillin "smb.dra" "Package Symbol"
+\t (00:00:31)     Journal end - Sat Apr 16 13:47:41 2016

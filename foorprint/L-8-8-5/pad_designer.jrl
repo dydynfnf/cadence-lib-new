@@ -1,0 +1,14 @@
+\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:00)     Journal start - Sat Apr 16 13:43:22 2016
+\t (00:00:00)         Host=PSAI-PC User=psai Pid=8808 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:01) setwindow form.padedit
+\i (00:00:01) pse_new 
+\i (00:01:51) fillin "menu_cancel"
+\i (00:01:52) FORM padedit layers  
+\i (00:02:04) pse_open 
+\i (00:02:22) fillin "menu_cancel"
+\i (00:02:23) pse_new 
+\i (00:02:45) fillin "c220_220.pad"
+\t (00:02:45)     Journal end - Sat Apr 16 13:46:08 2016

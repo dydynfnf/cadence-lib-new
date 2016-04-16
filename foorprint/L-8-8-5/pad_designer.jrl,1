@@ -1,0 +1,23 @@
+\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:00)     Journal start - Sat Apr 16 13:23:53 2016
+\t (00:00:00)         Host=PSAI-PC User=psai Pid=8232 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:05) setwindow form.padedit
+\i (00:00:05) pse_open 
+\i (00:00:06) fillin "r200_400.pad"
+\i (00:00:08) FORM padedit layers  
+\i (00:00:10) FORM padedit grid row begin_layer 
+\i (00:00:14) FORM padedit width 3.0000 
+\i (00:00:14) FORM padedit grid row soldermask_top 
+\i (00:00:18) FORM padedit width 3.0000 
+\i (00:00:18) FORM padedit grid row pastemask_top 
+\i (00:00:21) FORM padedit width 3.0000 
+\i (00:00:21) FORM padedit grid row soldermask_top 
+\i (00:00:21) FORM padedit grid row begin_layer 
+\i (00:00:24) pse_save_as 
+\i (00:00:28) fillin "r300_400.pad"
+\i (00:00:32) pse_save 
+\i (00:00:34) fillin yes 
+\i (00:13:17) pse_exit
+\t (00:13:18)     Journal end - Sat Apr 16 13:37:11 2016
