@@ -1,0 +1,20 @@
+\t (00:00:03) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:03)     Journal start - Sun Apr 17 14:00:52 2016
+\t (00:00:03)         Host=PSAI-PC User=psai Pid=9740 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: E:/cadence lib/foorprint/AT24C02-SOIC/at24c02-soic.dra
+\i (00:00:05) trapsize 1619
+\i (00:00:05) trapsize 1572
+\i (00:00:05) trapsize 1627
+\i (00:00:05) trapsize 1689
+\i (00:00:05) trapsize 1337
+\i (00:00:05) trapsize 1337
+\i (00:00:06) generaledit 
+\i (00:00:08) open 
+\i (00:00:19) fillin "E:\cadence lib\foorprint\RJ45\rj45.dra"
+\i (00:00:19) cd "E:\cadence lib\foorprint\RJ45"
+\t (00:00:19) Opening existing design...
+\i (00:00:19) trapsize 1711
+\t (00:00:19)     Journal end - Sun Apr 17 14:01:09 2016

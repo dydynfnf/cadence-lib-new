@@ -1,9 +1,11 @@
-\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
-\t (00:00:00)     Journal start - Tue Sep 15 16:42:38 2015
-\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=10872 CPUs=4
-\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:00:00) 
-\i (00:00:02) setwindow form.padedit
-\i (00:00:02) FORM padedit layers  
-\i (00:00:04) pse_exit
-\t (00:00:04)     Journal end - Tue Sep 15 16:42:42 2015
+\t (00:04:49) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:04:49)     Journal start - Sun Apr 17 11:24:23 2016
+\t (00:04:49)         Host=PSAI-PC User=psai Pid=6292 CPUs=4
+\t (00:04:49) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:04:49) 
+\i (00:04:53) pse_new 
+\i (00:05:06) fillin "menu_cancel"
+\i (00:05:08) pse_open 
+\i (00:05:25) fillin "E:\cadence lib\foorprint\RJ45\c150h100.pad"
+\i (00:05:25) cd "E:\cadence lib\foorprint\RJ45"
+\t (00:05:25)     Journal end - Sun Apr 17 11:24:59 2016

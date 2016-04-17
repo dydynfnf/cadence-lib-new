@@ -1,37 +1,9 @@
 \t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
-\t (00:00:00)     Journal start - Sun Sep 13 17:13:46 2015
-\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=5316 CPUs=4
+\t (00:00:00)     Journal start - Tue Sep 15 16:42:38 2015
+\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=10872 CPUs=4
 \t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
 \t (00:00:00) 
-\i (00:00:51) setwindow form.padedit
-\i (00:00:51) FORM padedit hole_size_x 12 
-\i (00:00:53) FORM padedit drill_fig Hexagon X 
-\i (00:00:56) FORM padedit characters A 
-\i (00:01:00) FORM padedit drill_width 12 
-\i (00:01:01) FORM padedit drill_height 12 
-\i (00:01:05) FORM padedit layers  
-\i (00:01:07) FORM padedit grid row begin_layer 
-\i (00:01:12) FORM padedit geometry Circle 
-\i (00:01:27) FORM padedit width 14 
-\i (00:01:28) FORM padedit height 14 
-\i (00:01:30) FORM padedit crossbox YES 
-\i (00:01:36) FORM padedit width 16.0 
-\i (00:03:40) FORM padedit parameters  
-\i (00:03:42) FORM padedit layers  
-\i (00:03:47) FORM padedit grid row default_internal 
-\i (00:03:50) FORM padedit grid row begin_layer 
-\i (00:03:53) FORM padedit grid rpopup begin_layer Copy 
-\i (00:03:55) FORM padedit grid rpopup default_internal Paste 
-\i (00:03:57) FORM padedit grid rpopup end_layer Paste 
-\i (00:04:00) FORM padedit grid rpopup soldermask_top Paste 
-\i (00:04:01) FORM padedit grid rpopup soldermask_bottom Paste 
-\i (00:04:03) FORM padedit grid rpopup pastemask_top Paste 
-\i (00:04:05) FORM padedit grid rpopup pastemask_bottom Paste 
-\i (00:04:09) FORM padedit parameters  
-\i (00:04:12) pse_check 
-\i (00:04:14) pse_save_as 
-\i (00:05:04) fillin "E:\candence lib\foorprint\VIA-12-16\via-12-16.pad"
-\i (00:05:06) FORM padedit layers  
-\i (00:05:07) FORM padedit parameters  
-\i (00:05:12) pse_exit
-\t (00:05:12)     Journal end - Sun Sep 13 17:18:59 2015
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) FORM padedit layers  
+\i (00:00:04) pse_exit
+\t (00:00:04)     Journal end - Tue Sep 15 16:42:42 2015
