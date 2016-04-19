@@ -1,0 +1,17 @@
+\t (00:00:03) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:03)     Journal start - Tue Apr 19 15:06:25 2016
+\t (00:00:03)         Host=PSAI-PC User=psai Pid=5500 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/cadence lib/foorprint/CAP-7343/cap-7343.dra
+\i (00:00:04) trapsize 1923
+\i (00:00:04) trapsize 1867
+\i (00:00:04) trapsize 1933
+\i (00:00:04) trapsize 2006
+\i (00:00:04) trapsize 1588
+\i (00:00:04) trapsize 1588
+\i (00:00:05) generaledit 
+\i (00:00:06) new 
+\i (00:00:31) newdrawfillin "gx12-2p.dra" "Package Symbol"
+\t (00:00:31)     Journal end - Tue Apr 19 15:06:53 2016
