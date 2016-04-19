@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : led-3.dra                                     )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Tue Apr 19 21:05:13 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/psai/Desktop/LED-3
+    Name      = led-3.psm
+    User      = psai
+    Machine   = PSAI-LENOVO
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
