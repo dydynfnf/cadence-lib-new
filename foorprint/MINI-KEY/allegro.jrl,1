@@ -1,0 +1,19 @@
+\t (00:00:03) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:03)     Journal start - Tue Apr 19 17:52:46 2016
+\t (00:00:03)         Host=PSAI-PC User=psai Pid=6352 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/Users/psai/Desktop/mini-key/mini-key.dra
+\i (00:00:05) trapsize 1093
+\i (00:00:05) trapsize 1061
+\i (00:00:05) trapsize 1098
+\i (00:00:06) trapsize 902
+\i (00:00:06) trapsize 902
+\i (00:00:06) generaledit 
+\i (00:00:13) open 
+\i (00:00:44) fillin "E:\cadence lib\foorprint\GX12-2P\gx12-2p.dra"
+\i (00:00:44) cd "E:\cadence lib\foorprint\GX12-2P"
+\t (00:00:44) Opening existing design...
+\i (00:00:44) trapsize 3175
+\t (00:00:44)     Journal end - Tue Apr 19 17:53:27 2016

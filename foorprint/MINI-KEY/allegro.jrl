@@ -1,0 +1,9 @@
+\t (00:00:16) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:16)     Journal start - Tue Apr 19 20:13:37 2016
+\t (00:00:16)         Host=PSAI-PC User=psai Pid=6240 CPUs=4
+\t (00:00:16) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:16) 
+\d (00:00:16) Design opened: E:/cadence lib/foorprint/MINI-KEY/mini-key.dra
+\i (00:00:16) generaledit 
+\i (00:00:25) exit 
+\t (00:00:25)     Journal end - Tue Apr 19 20:13:47 2016
