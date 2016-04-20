@@ -1,0 +1,99 @@
+\t (00:00:45) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:45)     Journal start - Wed Apr 20 12:39:13 2016
+\t (00:00:45)         Host=PSAI-PC User=psai Pid=6384 CPUs=4
+\t (00:00:45) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:45) 
+\i (00:00:47) FORM padedit layers  
+\i (00:00:47) FORM padedit parameters  
+\i (00:00:49) FORM padedit units Millimeter 
+\i (00:00:50) fillin yes 
+\w (00:00:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:57) FORM padedit hole_size_x 0.9 
+\i (00:03:27) FORM padedit hole_size_x 1.000 
+\i (00:03:42) FORM padedit layers  
+\i (00:03:43) FORM padedit parameters  
+\i (00:03:48) FORM padedit drill_fig Hexagon X 
+\i (00:03:52) FORM padedit characters A 
+\i (00:03:55) FORM padedit drill_width 1 
+\i (00:03:56) FORM padedit drill_height 1 
+\i (00:03:57) FORM padedit layers  
+\i (00:03:58) FORM padedit grid row begin_layer 
+\i (00:04:01) FORM padedit geometry Circle 
+\i (00:04:10) FORM padedit width 1.1 
+\i (00:04:16) FORM padedit width 1.0100 
+\i (00:04:20) FORM padedit grid rpopup begin_layer Copy 
+\i (00:04:21) FORM padedit grid rpopup default_internal Paste 
+\i (00:04:22) FORM padedit grid rpopup end_layer Paste 
+\i (00:04:24) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:04:25) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:04:27) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:04:28) FORM padedit grid rpopup pastemask_bottom Paste 
+\i (00:04:29) FORM padedit parameters  
+\i (00:04:32) FORM padedit plating Non-Plated 
+\i (00:04:36) FORM padedit layers  
+\i (00:04:44) FORM padedit grid rpopup filmmask_top 'Copy to all' 
+\i (00:04:47) setwindow form.padcopy
+\i (00:04:47) FORM padcopy pse_copy_cancel  
+\i (00:04:49) setwindow form.padedit
+\i (00:04:49) FORM padedit grid rpopup filmmask_top Copy 
+\i (00:04:51) FORM padedit grid rpopup pastemask_bottom Paste 
+\i (00:04:55) FORM padedit grid rpopup end_layer Paste 
+\i (00:04:57) FORM padedit grid rpopup default_internal Paste 
+\i (00:05:00) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:05:01) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:05:03) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:05:06) FORM padedit grid rpopup begin_layer Paste 
+\i (00:05:12) FORM padedit parameters  
+\i (00:05:20) pse_save 
+\e (00:05:20) No pads defined.
+\i (00:05:24) pse_save 
+\e (00:05:24) No pads defined.
+\i (00:05:27) FORM padedit layers  
+\i (00:05:28) FORM padedit grid row begin_layer 
+\i (00:05:38) FORM padedit width 1.01 
+\i (00:05:39) FORM padedit geometry Circle 
+\i (00:05:42) FORM padedit width 1.01 
+\i (00:05:45) FORM padedit grid rpopup begin_layer Copy 
+\i (00:05:46) FORM padedit grid rpopup default_internal Paste 
+\i (00:05:47) FORM padedit grid rpopup end_layer Paste 
+\i (00:05:48) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:05:49) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:05:50) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:05:52) FORM padedit grid rpopup pastemask_bottom Paste 
+\i (00:05:56) FORM padedit parameters  
+\i (00:05:58) pse_save 
+\i (00:06:05) pse_open 
+\i (00:06:10) fillin "c150h90.pad"
+\i (00:06:17) FORM padedit hole_size_x 1.000 
+\i (00:06:18) FORM padedit drill_width 1 
+\i (00:06:20) FORM padedit drill_height 1 
+\i (00:06:20) FORM padedit layers  
+\i (00:06:22) FORM padedit parameters  
+\i (00:06:28) pse_save 
+\i (00:06:29) fillin yes 
+\i (00:06:31) pse_open 
+\i (00:06:36) fillin "s150h90.pad"
+\i (00:06:40) FORM padedit hole_size_x 1 
+\i (00:06:41) FORM padedit drill_height 1 
+\i (00:06:45) FORM padedit drill_width 1 
+\i (00:06:45) pse_save 
+\i (00:06:46) fillin yes 
+\i (00:07:09) pse_open 
+\i (00:07:10) fillin "c150h100.pad"
+\i (00:07:12) FORM padedit layers  
+\i (00:07:22) pse_open 
+\i (00:07:23) fillin "h100.pad"
+\i (00:07:23) FORM padedit grid row default_internal 
+\i (00:07:27) FORM padedit parameters  
+\i (00:07:35) pse_open 
+\i (00:07:36) fillin "c150h100.pad"
+\i (00:07:39) pse_open 
+\i (00:07:40) fillin "s150h100.pad"
+\i (00:07:44) FORM padedit layers  
+\i (00:07:48) FORM padedit parameters  
+\i (00:07:50) pse_open 
+\i (00:07:53) fillin "h100.pad"
+\i (00:07:56) pse_open 
+\i (00:07:57) fillin "c150h100.pad"
+\i (00:07:59) pse_exit
+\t (00:07:59)     Journal end - Wed Apr 20 12:46:27 2016

@@ -1,9 +1,16 @@
-\t (00:00:16) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
-\t (00:00:16)     Journal start - Tue Apr 19 20:13:37 2016
-\t (00:00:16)         Host=PSAI-PC User=psai Pid=6240 CPUs=4
-\t (00:00:16) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:16) 
-\d (00:00:16) Design opened: E:/cadence lib/foorprint/MINI-KEY/mini-key.dra
-\i (00:00:16) generaledit 
-\i (00:00:25) exit 
-\t (00:00:25)     Journal end - Tue Apr 19 20:13:47 2016
+\t (00:00:02) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:02)     Journal start - Wed Apr 20 12:46:39 2016
+\t (00:00:02)         Host=PSAI-PC User=psai Pid=8524 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/cadence lib/foorprint/MINI-KEY/mini-key.dra
+\i (00:00:04) trapsize 1093
+\i (00:00:04) trapsize 1061
+\i (00:00:04) trapsize 1098
+\i (00:00:04) trapsize 902
+\i (00:00:04) trapsize 902
+\i (00:00:05) generaledit 
+\i (00:00:07) new 
+\i (00:00:48) newdrawfillin "molex-2-2.dra" "Package Symbol"
+\t (00:00:48)     Journal end - Wed Apr 20 12:47:25 2016
