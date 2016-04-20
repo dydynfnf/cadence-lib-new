@@ -1,0 +1,188 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Wed Apr 20 16:16:56 2016
+\t (00:00:01)         Host=PSAI-PC User=psai Pid=3368 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/cadence lib/foorprint/BAW56-SOT23/baw56-sot23.dra
+\i (00:00:03) trapsize 1020
+\i (00:00:03) trapsize 990
+\i (00:00:03) trapsize 1025
+\i (00:00:03) trapsize 1064
+\i (00:00:04) trapsize 842
+\i (00:00:04) trapsize 842
+\i (00:00:04) generaledit 
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 0.7580 -0.1011
+\i (00:00:08) trapsize 421
+\i (00:00:32) color192 
+\i (00:00:32) setwindow cvf.dialog
+\i (00:00:32) cvf layer_mode
+\i (00:00:32) setwindow pcb
+\i (00:00:32) generaledit 
+\i (00:00:33) setwindow cvf.dialog
+\i (00:00:33) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:00:34) cvf layer_tree_item 'Package Geometry'
+\i (00:00:35) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:00:36) cvf okay
+\i (00:00:37) setwindow pcb
+\i (00:00:37) prepopup 1.6761 2.5857
+\i (00:00:38) pick grid 1.9287 2.6615
+\t (00:00:38) last pick:  2.5400 2.5400
+\i (00:00:40) pick grid -1.4992 -0.0926
+\t (00:00:40) last pick:  -2.5400 0.0000
+\i (00:00:41) pick grid 1.5413 0.8844
+\t (00:00:41) last pick:  2.5400 0.0000
+\i (00:00:42) pick grid 1.2549 -0.9685
+\t (00:00:42) last pick:  0.0000 0.0000
+\i (00:00:42) prepopup 2.7878 1.4992
+\i (00:00:43) pick grid 2.5267 2.1225
+\t (00:00:43) last pick:  2.5400 2.5400
+\i (00:00:46) delete 
+\i (00:00:47) pick grid -1.3981 -0.0758
+\t (00:00:47) last pick:  -2.5400 0.0000
+\t (00:00:47) Pin "R100_60, 2"
+\i (00:00:47) pick grid 1.5581 0.8086
+\t (00:00:47) last pick:  2.5400 0.0000
+\t (00:00:47) Pin "R100_60, 6"
+\i (00:00:48) pick grid 1.4402 -0.9264
+\t (00:00:48) last pick:  2.5400 0.0000
+\t (00:00:48) Pin "R100_60, 4"
+\i (00:00:49) prepopup 3.5795 0.2527
+\i (00:00:49) oops 
+\t (00:00:49) last pick:  2.5400 0.0000
+\i (00:00:50) pick grid 1.4739 -0.8843
+\t (00:00:50) last pick:  2.5400 0.0000
+\t (00:00:50) Pin "R100_60, 4"
+\i (00:00:51) prepopup 3.2763 0.9686
+\i (00:00:52) done 
+\i (00:00:52) generaledit 
+\i (00:00:52) pick grid 3.0405 0.8507
+\t (00:00:52) last pick:  2.5400 0.0000
+\i (00:00:54) text edit 
+\i (00:01:04) text edit 
+\i (00:01:07) pick grid -1.0697 -0.5895
+\t (00:01:07) last pick:  0.0000 0.0000
+\i (00:01:08) setwindow pcb
+\i (00:01:08) pick grid -1.0949 -0.9012
+\t (00:01:08) last pick:  0.0000 0.0000
+\i (00:01:08) setwindow pcb
+\i (00:01:08) pick -1.0697 -0.5895
+\i (00:01:09) setwindow pcb
+\i (00:01:09) pick grid -1.0191 -0.7243
+\t (00:01:09) last pick:  0.0000 0.0000
+\i (00:01:09) setwindow pcb
+\i (00:01:09) pick -1.0949 -0.9012
+\i (00:01:11) setwindow pcb
+\i (00:01:11) pick grid -1.0949 -0.9012
+\t (00:01:11) last pick:  0.0000 0.0000
+\i (00:01:11) setwindow pcb
+\i (00:01:11) pick -1.0191 -0.7243
+\i (00:01:11) setwindow pcb
+\i (00:01:11) pick grid 1.2044 0.3201
+\t (00:01:11) last pick:  0.0000 0.0000
+\i (00:01:11) setwindow pcb
+\i (00:01:11) pick -1.0949 -0.9012
+\i (00:01:15) setwindow pcb
+\i (00:01:15) pick grid -1.1034 -0.6485
+\t (00:01:15) last pick:  0.0000 0.0000
+\i (00:01:15) setwindow pcb
+\i (00:01:15) pick 1.2044 0.3201
+\t (00:01:15) Pick text to edit.
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in -0.9433 -0.7411
+\i (00:01:17) trapsize 211
+\i (00:01:18) pick grid -1.0570 -0.7327
+\t (00:01:18) last pick:  0.0000 0.0000
+\i (00:01:18) setwindow pcb
+\i (00:01:18) pick -1.1034 -0.6485
+\i (00:01:20) setwindow pcb
+\i (00:01:20) pick grid -0.9433 -0.7411
+\t (00:01:20) last pick:  0.0000 0.0000
+\i (00:01:20) setwindow pcb
+\i (00:01:20) pick -1.0570 -0.7327
+\i (00:01:21) setwindow pcb
+\i (00:01:21) pick grid -0.9475 -0.7074
+\t (00:01:21) last pick:  0.0000 0.0000
+\i (00:01:21) setwindow pcb
+\i (00:01:21) pick -0.9433 -0.7411
+\i (00:01:25) setwindow pcb
+\i (00:01:25) prepopup -1.0401 0.0843
+\i (00:01:26) oops 
+\t (00:01:26) last pick:  0.0000 0.0000
+\t (00:01:26) Pick text to edit.
+\i (00:01:27) prepopup 2.2783 0.2485
+\i (00:01:28) done 
+\i (00:01:28) generaledit 
+\i (00:01:28) pick grid 2.2699 0.2443
+\t (00:01:28) last pick:  2.5400 0.0000
+\i (00:01:32) text edit 
+\i (00:01:33) pick grid -1.0991 -1.0907
+\t (00:01:33) last pick:  0.0000 0.0000
+\i (00:01:36) setwindow pcb
+\i (00:01:36) prepopup 1.5372 -0.7032
+\i (00:01:37) done 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) pick -1.0991 -1.0907
+\t (00:01:37) Pick text to edit.
+\i (00:01:37) setwindow pcb
+\i (00:01:37) generaledit 
+\i (00:01:38) zoom out 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom out 2.2194 -0.0336
+\i (00:01:38) trapsize 421
+\i (00:01:39) prepopup 2.8131 0.0590
+\i (00:01:40) pick grid 2.7542 0.8423
+\t (00:01:40) last pick:  2.5400 0.0000
+\i (00:01:41) zoom in 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in 3.0742 0.6233
+\i (00:01:41) trapsize 211
+\i (00:01:41) zoom in 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in 3.0742 0.6233
+\i (00:01:41) trapsize 105
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 2.7163 0.4717
+\i (00:01:41) trapsize 211
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 2.1478 0.4423
+\i (00:01:41) trapsize 421
+\i (00:01:42) zoom out 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom out 1.0950 0.2317
+\i (00:01:42) trapsize 842
+\i (00:01:43) save 
+\i (00:01:44) fillin yes 
+\t (00:01:44) Symbol 'baw56-sot23.psm' created.
+\i (00:01:44) zoom in 1 
+\i (00:01:44) setwindow pcb
+\i (00:01:44) zoom in 3.8912 -0.0168
+\i (00:01:44) trapsize 421
+\i (00:01:44) generaledit 
+\i (00:02:03) open 
+\i (00:02:05) fillin "menu_cancel"
+\i (00:02:05) generaledit 
+\i (00:02:07) roam start
+\i (00:02:07) roam x -48
+\i (00:02:07) roam y 16
+\i (00:02:07) roam x -64
+\i (00:02:07) roam x -48
+\i (00:02:07) roam x -32
+\i (00:02:07) roam x 32
+\i (00:02:07) roam y 16
+\i (00:02:07) roam end
+\i (00:02:09) delete 
+\i (00:02:11) move 
+\t (00:02:11) Select element(s) to move.
+\i (00:02:13) save 
+\i (00:02:14) fillin yes 
+\t (00:02:14) Symbol 'baw56-sot23.psm' created.
+\i (00:02:14) generaledit 
+\i (00:02:19) exit 
+\t (00:02:20)     Journal end - Wed Apr 20 16:19:14 2016
