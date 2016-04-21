@@ -1,0 +1,351 @@
+\t (00:00:42) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:42)     Journal start - Thu Apr 21 20:43:52 2016
+\t (00:00:42)         Host=PSAI-PC User=psai Pid=10436 CPUs=4
+\t (00:00:42) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:42) 
+\d (00:00:42) Design opened: E:/cadence lib/foorprint/GX12-3P/gx12-3p.dra
+\i (00:00:42) generaledit 
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 2.8434 -1.0340
+\i (00:00:44) trapsize 1588
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 2.8434 -1.0340
+\i (00:00:44) trapsize 794
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 2.8434 -1.0340
+\i (00:00:45) trapsize 1588
+\i (00:00:46) roam start
+\i (00:00:46) roam x -48
+\i (00:00:46) roam y 64
+\i (00:00:46) roam x -48
+\i (00:00:46) roam y 32
+\i (00:00:46) roam x -32
+\i (00:00:46) roam y 16
+\i (00:00:46) roam x -32
+\i (00:00:46) roam y 32
+\i (00:00:46) roam x 16
+\i (00:00:46) roam x 32
+\i (00:00:46) roam y -16
+\i (00:00:46) roam x 16
+\i (00:00:46) roam y -16
+\i (00:00:47) roam x 32
+\i (00:00:47) roam x 16
+\i (00:00:47) roam x -16
+\i (00:00:47) roam y -16
+\i (00:00:47) roam end
+\i (00:00:59) add pin 
+\t (00:00:59) Using 'S250H170.pad'.
+\i (00:01:00) Esc 
+\w (00:01:00) WARNING(SPMHA1-314): Illegal event.
+\i (00:01:01) prepopup 12.5774 3.2422
+\i (00:01:02) oops 
+\t (00:01:02) Using 'S250H170.pad'.
+\i (00:01:03) prepopup 13.9427 3.9090
+\i (00:01:04) cancel 
+\t (00:01:04) Exiting from Add Pin.
+\i (00:01:04) generaledit 
+\i (00:02:54) zoom out 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom out 0.6385 3.0834
+\i (00:02:54) trapsize 3175
+\i (00:02:54) zoom out 1 
+\i (00:02:54) setwindow pcb
+\i (00:02:54) zoom out 0.6386 2.9564
+\i (00:02:54) trapsize 6350
+\i (00:02:55) drag_start grid -16.7616 30.0093
+\i (00:02:55) drag_stop 14.8636 -13.9357
+\i (00:02:56) zoom in 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom in 0.6386 -1.3618
+\i (00:02:56) trapsize 3175
+\i (00:02:56) zoom in 1 
+\i (00:02:56) setwindow pcb
+\i (00:02:56) zoom in 0.8291 -1.3618
+\i (00:02:56) trapsize 1588
+\i (00:02:57) Esc 
+\i (00:02:58) prepopup 11.5296 4.7029
+\i (00:02:58) pick grid 13.5935 6.3858
+\t (00:02:58) last pick:  13.6000 6.4000
+\i (00:02:59) pick grid 13.8475 7.4018
+\t (00:02:59) last pick:  13.8000 7.4000
+\i (00:03:00) show measure 
+\i (00:03:01) pick grid -0.0282 0.0671
+\t (00:03:01) last pick:  0.0000 0.1000
+\i (00:03:07) pick grid 4.0678 0.3846
+\t (00:03:07) last pick:  4.1000 0.4000
+\i (00:03:12) setwindow text
+\i (00:03:12) close 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom out 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom out 8.9894 -1.7110
+\i (00:03:13) trapsize 3175
+\i (00:03:13) prepopup 11.2121 5.6554
+\i (00:03:14) done 
+\i (00:03:14) generaledit 
+\i (00:03:14) zoom out 1 
+\i (00:03:14) setwindow pcb
+\i (00:03:14) zoom out 10.8310 4.0043
+\i (00:03:14) trapsize 6350
+\i (00:03:15) drag_start grid -15.8407 28.7710
+\i (00:03:15) drag_stop 19.2137 -7.8074
+\i (00:03:16) pick grid 22.0078 -1.9650
+\t (00:03:16) last pick:  22.0000 -2.0000
+\i (00:03:16) move 
+\t (00:03:16) Select element(s) to move.
+\i (00:03:17) drag_start grid -17.9999 25.7228
+\i (00:03:17) drag_stop 15.9114 -7.9344
+\i (00:03:21) ipick -2 
+\t (00:03:21) last pick:  13.9114 -7.9344
+\t (00:03:21) Element has no origin, using pick.
+\t (00:03:21) Element has no origin, using pick.
+\t (00:03:21) Element has no origin, using pick.
+\t (00:03:21) Element has no origin, using pick.
+\t (00:03:21) Element has no origin, using pick.
+\t (00:03:21) Element has no origin, using pick.
+\t (00:03:21) Element has no origin, using pick.
+\t (00:03:21) Element has no origin, using pick.
+\t (00:03:21) Element has no origin, using pick.
+\t (00:03:21) Element has no origin, using pick.
+\t (00:03:21) Element has no origin, using pick.
+\t (00:03:21) Pick new location for the element(s).
+\i (00:03:27) Esc 
+\i (00:03:27) Esc 
+\i (00:03:27) prepopup 14.5143 -4.5052
+\i (00:03:29) cancel 
+\i (00:03:29) generaledit 
+\i (00:03:30) drag_start grid -15.9677 28.3900
+\i (00:03:30) drag_stop 19.7217 -13.1418
+\i (00:03:30) zoom in 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom in 2.9566 -0.1869
+\i (00:03:30) trapsize 3175
+\i (00:03:30) zoom in 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom in 2.9566 -0.6949
+\i (00:03:30) trapsize 1588
+\i (00:03:31) pick grid 11.9424 1.0515
+\t (00:03:31) last pick:  11.9000 1.1000
+\i (00:03:33) move 
+\t (00:03:33) Select element(s) to move.
+\i (00:03:33) zoom out 1 
+\i (00:03:33) setwindow pcb
+\i (00:03:33) zoom out 9.1165 -1.1394
+\i (00:03:33) trapsize 3175
+\i (00:03:34) zoom in 1 
+\i (00:03:34) setwindow pcb
+\i (00:03:34) zoom in 14.8319 3.6234
+\i (00:03:34) trapsize 1588
+\i (00:03:35) zoom in 1 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom in 15.4352 3.1471
+\i (00:03:35) trapsize 794
+\i (00:03:35) zoom out 1 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom out 14.8795 2.9566
+\i (00:03:35) trapsize 1588
+\i (00:03:35) zoom out 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom out 14.5304 2.9249
+\i (00:03:36) trapsize 3175
+\i (00:03:36) zoom out 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom out 14.2129 3.2425
+\i (00:03:36) trapsize 6350
+\i (00:03:37) drag_start grid -14.9992 28.6443
+\i (00:03:37) drag_stop 17.8961 -7.8072
+\i (00:03:38) zoom in 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 8.1164 3.4966
+\i (00:03:38) trapsize 3175
+\i (00:03:42) ipick -2 
+\t (00:03:42) last pick:  15.8961 -7.8072
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Element has no origin, using pick.
+\t (00:03:42) Pick new location for the element(s).
+\i (00:03:50) ipick -2 
+\t (00:03:50) last pick:  13.8961 -7.8072
+\i (00:03:51) Esc 
+\i (00:03:51) pick grid 8.7515 -2.5363
+\t (00:03:51) last pick:  8.8000 -2.5000
+\i (00:03:52) zoom in 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom in 1.3215 -0.8217
+\i (00:03:52) trapsize 1588
+\i (00:03:52) zoom in 1 
+\i (00:03:52) setwindow pcb
+\i (00:03:52) zoom in 1.3215 -0.7581
+\i (00:03:52) trapsize 794
+\i (00:03:53) prepopup 6.0526 1.7503
+\i (00:03:54) done 
+\i (00:03:54) generaledit 
+\i (00:03:54) zoom out 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom out 5.3699 1.8455
+\i (00:03:54) trapsize 1588
+\i (00:03:55) roam start
+\i (00:03:56) roam x 80
+\i (00:03:56) roam y -48
+\i (00:03:56) roam x 64
+\i (00:03:56) roam y -48
+\i (00:03:56) roam x 64
+\i (00:03:56) roam y -48
+\i (00:03:56) roam x -16
+\i (00:03:56) roam y -48
+\i (00:03:56) roam x -32
+\i (00:03:56) roam y -48
+\i (00:03:56) roam end
+\i (00:04:04) delete 
+\i (00:04:05) pick grid -1.5206 -0.2505
+\t (00:04:05) last pick:  -1.5000 -0.3000
+\t (00:04:05) Pin "S250h170, 1"
+\i (00:04:06) pick grid 2.1944 -0.1870
+\t (00:04:06) last pick:  2.2000 -0.2000
+\t (00:04:06) Pin "C250h170, 2"
+\i (00:04:07) pick grid 2.3531 2.3849
+\t (00:04:07) last pick:  2.4000 2.4000
+\t (00:04:07) Line "Package Geometry/Silkscreen_Top"
+\i (00:04:08) pick grid -1.8699 2.2579
+\t (00:04:08) last pick:  -1.9000 2.3000
+\t (00:04:08) Line "Package Geometry/Silkscreen_Top"
+\i (00:04:08) pick grid -1.9969 1.9404
+\t (00:04:09) last pick:  -2.0000 1.9000
+\t (00:04:09) Line "Package Geometry/Silkscreen_Top"
+\i (00:04:10) prepopup 10.4182 14.8635
+\i (00:04:11) done 
+\i (00:04:11) generaledit 
+\i (00:04:11) add pin 
+\t (00:04:12) Using 'S250H170.pad'.
+\i (00:04:14) setwindow form.mini
+\i (00:04:14) FORM mini pad_browse  
+\t (00:04:52) No valid name selected.
+\i (00:04:54) fillin "S250h170"
+\t (00:04:54) Using 'S250H170.pad'.
+\i (00:05:23) setwindow pcb
+\i (00:05:23) ipick 0 2.194 
+\t (00:05:23) last pick:  -2.0000 4.0940
+\t (00:05:23) Using 'S250H170.pad'.
+\i (00:05:25) prepopup 1.4641 1.6228
+\i (00:05:26) oops 
+\t (00:05:26) Using 'S250H170.pad'.
+\i (00:05:45) pick 0 2.194 
+\t (00:05:45) last pick:  0.0000 2.1940
+\t (00:05:45) Using 'S250H170.pad'.
+\i (00:05:52) setwindow form.mini
+\i (00:05:52) FORM mini pad_browse  
+\t (00:05:56) No valid name selected.
+\i (00:05:59) fillin "C250h170"
+\t (00:05:59) Using 'C250H170.pad'.
+\i (00:06:26) setwindow pcb
+\i (00:06:26) pick -1.097 1.9 
+\t (00:06:26) last pick:  -1.0970 1.9000
+\t (00:06:26) Using 'C250H170.pad'.
+\i (00:06:33) prepopup 1.1466 2.7024
+\i (00:06:35) oops 
+\t (00:06:35) last pick:  0.0000 2.1940
+\t (00:06:35) Using 'C250H170.pad'.
+\i (00:07:08) pick 1.9 -1.097 
+\t (00:07:08) last pick:  1.9000 -1.0970
+\t (00:07:08) Using 'C250H170.pad'.
+\i (00:07:22) pick -1.9 -1.097 
+\t (00:07:22) last pick:  -1.9000 -1.0970
+\t (00:07:22) Using 'C250H170.pad'.
+\i (00:07:23) prepopup -7.9663 3.8455
+\i (00:07:24) done 
+\t (00:07:24) Exiting from Add Pin.
+\i (00:07:24) generaledit 
+\i (00:07:26) text edit 
+\i (00:07:26) text edit 
+\i (00:07:28) pick grid -1.4571 2.2579
+\t (00:07:28) last pick:  -1.5000 2.3000
+\i (00:07:31) setwindow pcb
+\i (00:07:31) pick grid -3.3940 -0.8221
+\t (00:07:31) last pick:  -3.4000 -0.8000
+\i (00:07:31) setwindow pcb
+\i (00:07:31) pick -1.4571 2.2579
+\t (00:07:31) Pick text to edit.
+\i (00:07:33) setwindow pcb
+\i (00:07:33) prepopup 7.5605 4.7346
+\i (00:07:34) done 
+\i (00:07:34) setwindow pcb
+\i (00:07:34) pick -3.3940 -0.8221
+\t (00:07:34) Pick text to edit.
+\i (00:07:34) setwindow pcb
+\i (00:07:34) generaledit 
+\i (00:07:35) move 
+\t (00:07:35) Select element(s) to move.
+\i (00:07:39) zoom in 1 
+\i (00:07:39) setwindow pcb
+\i (00:07:39) zoom in 0.7020 2.1309
+\i (00:07:39) trapsize 794
+\i (00:07:45) setwindow form.find
+\i (00:07:45) FORM find all_off  
+\i (00:07:46) FORM find text YES 
+\i (00:07:47) setwindow pcb
+\i (00:07:47) pick grid 0.8290 2.9406
+\t (00:07:47) last pick:  0.8000 2.9000
+\t (00:07:47) last pick:  -0.6000 2.6000
+\t (00:07:47) Pick new location for the element(s).
+\i (00:07:50) pick grid -3.5528 1.0513
+\t (00:07:50) last pick:  -3.6000 1.1000
+\i (00:07:51) prepopup -1.5365 3.5756
+\i (00:07:51) done 
+\i (00:07:51) generaledit 
+\i (00:07:52) zoom out 1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom out 2.0832 1.9562
+\i (00:07:52) trapsize 1588
+\i (00:07:52) zoom out 1 
+\i (00:07:52) setwindow pcb
+\i (00:07:52) zoom out 2.0833 1.9246
+\i (00:07:52) trapsize 3175
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 0.6861 2.2420
+\i (00:07:54) trapsize 1588
+\i (00:07:58) delete 
+\i (00:07:59) pick grid 0.5909 2.0515
+\t (00:07:59) last pick:  0.6000 2.1000
+\t (00:07:59) Pin "S250h170, 1"
+\i (00:08:01) add pin 
+\t (00:08:01) Using 'C250H170.pad'.
+\i (00:08:24) pick 0 2.194 
+\t (00:08:24) last pick:  0.0000 2.1940
+\t (00:08:24) Using 'C250H170.pad'.
+\i (00:08:26) prepopup 5.4807 4.1789
+\i (00:08:26) done 
+\t (00:08:26) Exiting from Add Pin.
+\i (00:08:26) generaledit 
+\i (00:08:29) save 
+\i (00:08:37) fillin yes 
+\t (00:08:40) Symbol 'gx12-3p.psm' created.
+\i (00:08:40) text edit 
+\i (00:08:41) text edit 
+\i (00:08:44) pick grid -1.4730 2.5278
+\t (00:08:44) last pick:  -1.5000 2.5000
+\i (00:08:45) setwindow pcb
+\i (00:08:45) prepopup -10.8399 4.7187
+\i (00:08:46) done 
+\i (00:08:46) setwindow pcb
+\i (00:08:46) pick -1.4730 2.5278
+\t (00:08:46) Pick text to edit.
+\i (00:08:46) setwindow pcb
+\i (00:08:46) generaledit 
+\i (00:08:48) save 
+\i (00:08:48) fillin yes 
+\t (00:08:51) Symbol 'gx12-3p.psm' created.
+\i (00:08:51) generaledit 
+\i (00:08:54) exit 
+\t (00:08:55)     Journal end - Thu Apr 21 20:52:05 2016
