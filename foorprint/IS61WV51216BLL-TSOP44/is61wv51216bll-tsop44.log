@@ -2,18 +2,18 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : w5300-lqfp100.dra                             )
-(    Software Version : 16.6P004                                      )
-(    Date/Time        : Fri Apr 15 22:36:13 2016                      )
+(    Drawing          : is61wv51216bll-tsop44.dra                     )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Thu Apr 21 11:50:09 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = E:/Vibration_lib/foorprint/W5300-LQFP100
-    Name      = w5300-lqfp100.psm
-    User      = DaQi
-    Machine   = DAQI-PC
+    Directory = E:/cadence lib/foorprint/IS61WV51216BLL-TSOP44
+    Name      = is61wv51216bll-tsop44.psm
+    User      = psai
+    Machine   = PSAI-PC
 
 
 Create symbol started.

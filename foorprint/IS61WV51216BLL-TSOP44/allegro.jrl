@@ -1,0 +1,20 @@
+\t (00:00:03) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:03)     Journal start - Thu Apr 21 14:09:00 2016
+\t (00:00:03)         Host=PSAI-PC User=psai Pid=4132 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: E:/cadence lib/foorprint/IS61WV51216BLL-TSOP44/is61wv51216bll-tsop44.dra
+\i (00:00:07) trapsize 3498
+\i (00:00:07) trapsize 3396
+\i (00:00:07) trapsize 3515
+\i (00:00:07) trapsize 3649
+\i (00:00:07) trapsize 2888
+\i (00:00:07) trapsize 2888
+\i (00:00:08) generaledit 
+\i (00:00:11) open 
+\i (00:00:19) fillin "E:\cadence lib\foorprint\STM32F407ZGT6-LQFP144\stm32f407zgt6-lqfp144.dra"
+\i (00:00:19) cd "E:\cadence lib\foorprint\STM32F407ZGT6-LQFP144"
+\t (00:00:19) Opening existing design...
+\i (00:00:19) trapsize 3463
+\t (00:00:19)     Journal end - Thu Apr 21 14:09:16 2016

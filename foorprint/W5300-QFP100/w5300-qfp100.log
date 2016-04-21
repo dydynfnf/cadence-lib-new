@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : w5300-qfp100.dra                              )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Thu Apr 21 14:18:13 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/W5300-QFP100
+    Name      = w5300-qfp100.psm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
