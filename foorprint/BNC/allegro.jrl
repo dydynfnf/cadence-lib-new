@@ -1,0 +1,135 @@
+\t (00:00:26) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:26)     Journal start - Fri Apr 22 18:01:47 2016
+\t (00:00:26)         Host=PSAI-PC User=psai Pid=3856 CPUs=4
+\t (00:00:26) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:26) 
+\t (00:00:26) Starting new design...
+\i (00:00:26) trapsize 15424
+\i (00:00:26) trapsize 15424
+\i (00:00:26) generaledit 
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -0.1273 -0.1273
+\i (00:00:28) trapsize 7712
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -11.3872 -0.1273
+\i (00:00:28) trapsize 3856
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -11.3872 -0.1273
+\i (00:00:28) trapsize 1928
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 1.1067 -0.0501
+\i (00:00:29) trapsize 964
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 1.1067 -0.0501
+\i (00:00:29) trapsize 482
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -0.0887 0.0174
+\i (00:00:29) trapsize 241
+\i (00:00:32) add pin 
+\i (00:00:35) setwindow form.mini
+\i (00:00:35) FORM mini pad_browse  
+\t (00:00:42) No valid name selected.
+\i (00:00:43) fillin "C240h140"
+\t (00:00:44) Using 'C240H140.pad'.
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 0.4608 -0.1706
+\i (00:00:45) trapsize 482
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 0.4512 -0.1706
+\i (00:00:45) trapsize 964
+\i (00:00:45) zoom out 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom out 0.4512 -0.1706
+\i (00:00:45) trapsize 1928
+\i (00:00:48) pick 0 0 
+\t (00:00:48) last pick:  0.0000 0.0000
+\t (00:00:48) Using 'C240H140.pad'.
+\i (00:00:59) pick 4.05 4.05 
+\t (00:00:59) last pick:  4.0500 4.0500
+\t (00:00:59) Using 'C240H140.pad'.
+\i (00:01:11) pick 4.05 -4.05 
+\t (00:01:11) last pick:  4.0500 -4.0500
+\t (00:01:11) Using 'C240H140.pad'.
+\i (00:01:20) pick -4.05 -4.05 
+\t (00:01:20) last pick:  -4.0500 -4.0500
+\t (00:01:20) Using 'C240H140.pad'.
+\i (00:01:32) pick -4.05 4.05 
+\t (00:01:32) last pick:  -4.0500 4.0500
+\t (00:01:32) Using 'C240H140.pad'.
+\i (00:01:34) prepopup -9.3818 4.5339
+\i (00:01:35) done 
+\t (00:01:35) Exiting from Add Pin.
+\i (00:01:35) generaledit 
+\i (00:01:36) add line 
+\i (00:01:40) setwindow form.mini
+\i (00:01:40) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:42) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:46) FORM mini line_width 0.2000 
+\i (00:02:07) setwindow pcb
+\i (00:02:07) pick 5.715 5.715 
+\t (00:02:07) last pick:  5.7150 5.7150
+\i (00:02:27) ipick 0 -11.43 
+\t (00:02:27) last pick:  5.7150 -5.7150
+\i (00:02:32) ipick -11.43 
+\t (00:02:32) last pick:  -5.7150 -5.7150
+\i (00:02:46) ipick 0 11.43 
+\t (00:02:46) last pick:  -5.7150 5.7150
+\i (00:02:51) ipick 11.43 
+\t (00:02:51) last pick:  5.7150 5.7150
+\i (00:02:52) prepopup 8.1247 4.1868
+\i (00:02:52) done 
+\i (00:02:53) generaledit 
+\i (00:02:55) save 
+\e (00:02:57) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
+\i (00:03:00) zoom out 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out -2.1324 1.5261
+\i (00:03:00) trapsize 3856
+\i (00:03:00) generaledit 
+\i (00:03:01) setwindow text
+\i (00:03:01) close 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) zoom in 1 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) zoom in 0.0270 -0.9417
+\i (00:03:04) trapsize 1928
+\i (00:03:06) shape add rect 
+\i (00:03:11) setwindow form.mini
+\i (00:03:11) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) pick -5.715 -5.715 
+\t (00:03:35) last pick:  -5.7150 -5.7150
+\i (00:03:46) pick 5.715 5.715 
+\t (00:03:46) last pick:  5.7150 5.7150
+\i (00:03:47) prepopup 5.1170 7.6188
+\i (00:03:48) done 
+\i (00:03:48) generaledit 
+\i (00:03:49) text edit 
+\i (00:03:50) add text 
+\t (00:03:50) Pick text location.
+\i (00:03:56) setwindow form.mini
+\i (00:03:56) FORM mini class REF DES 
+\i (00:03:59) setwindow pcb
+\i (00:03:59) pick grid 2.6877 0.2537
+\t (00:03:59) last pick:  2.5400 0.0000
+\t (00:03:59) Enter text string.
+\i (00:04:01) setwindow pcb
+\i (00:04:01) pick 2.5400 0.0000
+\i (00:04:02) prepopup 7.7006 4.1097
+\i (00:04:03) done 
+\i (00:04:03) generaledit 
+\i (00:04:04) save 
+\i (00:04:05) fillin yes 
+\t (00:04:05) Symbol 'bnc.psm' created.
+\i (00:04:06) generaledit 
+\i (00:04:09) exit 
+\t (00:04:09)     Journal end - Fri Apr 22 18:05:31 2016
