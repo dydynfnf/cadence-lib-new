@@ -1,0 +1,16 @@
+\t (00:00:03) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:03)     Journal start - Sun Apr 24 14:52:36 2016
+\t (00:00:03)         Host=PSAI-PC User=psai Pid=236 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: E:/cadence lib/foorprint/1206/1206.dra
+\i (00:00:05) trapsize 1150
+\i (00:00:05) trapsize 1116
+\i (00:00:05) trapsize 1155
+\i (00:00:05) trapsize 1199
+\i (00:00:06) trapsize 949
+\i (00:00:06) trapsize 949
+\i (00:00:06) generaledit 
+\i (00:00:12) exit 
+\t (00:00:13)     Journal end - Sun Apr 24 14:52:46 2016

@@ -1,0 +1,53 @@
+\t (00:00:25) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:25)     Journal start - Sun Apr 24 15:43:21 2016
+\t (00:00:25)         Host=PSAI-PC User=psai Pid=3556 CPUs=4
+\t (00:00:25) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:25) 
+\d (00:00:25) Design opened: E:/cadence lib/foorprint/SOD123/sod123.dra
+\i (00:00:25) generaledit 
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in -1.8941 -0.3912
+\i (00:00:27) trapsize 515
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in -1.8838 -0.3912
+\i (00:00:28) trapsize 257
+\i (00:00:29) color192 
+\i (00:00:30) setwindow cvf.dialog
+\i (00:00:30) cvf layer_mode
+\i (00:00:30) setwindow pcb
+\i (00:00:30) generaledit 
+\i (00:00:31) setwindow cvf.dialog
+\i (00:00:31) cvf layer_tree_item 'Package Geometry'
+\i (00:00:32) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:00:33) cvf okay
+\i (00:00:37) setwindow pcb
+\i (00:00:37) text edit 
+\i (00:00:38) pick grid -1.8220 0.5764
+\t (00:00:38) last pick:  -2.5400 0.0000
+\i (00:00:41) setwindow pcb
+\i (00:00:41) pick grid 1.7294 0.5558
+\t (00:00:41) last pick:  2.5400 0.0000
+\i (00:00:41) setwindow pcb
+\i (00:00:41) pick -1.8220 0.5764
+\t (00:00:41) Pick text to edit.
+\i (00:00:42) setwindow pcb
+\i (00:00:42) pick grid 1.7912 0.4735
+\t (00:00:42) last pick:  2.5400 0.0000
+\i (00:00:42) setwindow pcb
+\i (00:00:42) pick 1.7294 0.5558
+\i (00:00:45) setwindow pcb
+\i (00:00:45) prepopup 1.8478 1.0448
+\i (00:00:45) done 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) pick 1.7912 0.4735
+\t (00:00:45) Pick text to edit.
+\i (00:00:45) setwindow pcb
+\i (00:00:45) generaledit 
+\i (00:00:54) save 
+\i (00:00:55) fillin yes 
+\t (00:00:56) Symbol 'sod123.psm' created.
+\i (00:00:56) generaledit 
+\i (00:01:17) exit 
+\t (00:01:17)     Journal end - Sun Apr 24 15:44:13 2016

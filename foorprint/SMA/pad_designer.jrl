@@ -1,0 +1,13 @@
+\t (00:04:29) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:04:29)     Journal start - Sun Apr 24 14:59:23 2016
+\t (00:04:29)         Host=PSAI-PC User=psai Pid=2648 CPUs=4
+\t (00:04:29) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:04:29) 
+\i (00:04:34) FORM padedit layers  
+\i (00:04:36) FORM padedit parameters  
+\i (00:04:40) FORM padedit layers  
+\i (00:04:41) FORM padedit parameters  
+\i (00:04:48) pse_save 
+\i (00:04:50) fillin yes 
+\i (00:04:52) pse_exit
+\t (00:04:52)     Journal end - Sun Apr 24 14:59:46 2016

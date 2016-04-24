@@ -1,0 +1,164 @@
+\t (00:00:06) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:06)     Journal start - Sun Apr 24 15:57:58 2016
+\t (00:00:06)         Host=PSAI-PC User=psai Pid=8696 CPUs=4
+\t (00:00:06) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:06) 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Design opened: E:/cadence lib/foorprint/L-7-7-3/l-7-7-3.dra
+\i (00:00:08) trapsize 1874
+\i (00:00:08) trapsize 1820
+\i (00:00:08) trapsize 1884
+\i (00:00:08) trapsize 1955
+\i (00:00:08) trapsize 1547
+\i (00:00:09) trapsize 1547
+\i (00:00:09) generaledit 
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -2.4759 -0.7118
+\i (00:00:10) trapsize 774
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -2.5998 -0.7118
+\i (00:00:10) trapsize 387
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -2.5997 -0.7118
+\i (00:00:11) trapsize 774
+\i (00:00:15) roam start
+\i (00:00:15) roam x -96
+\i (00:00:15) roam y -48
+\i (00:00:15) roam x -48
+\i (00:00:15) roam y -16
+\i (00:00:15) roam end
+\i (00:00:17) pick grid -4.7043 0.0155
+\t (00:00:17) last pick:  -5.0800 0.0000
+\i (00:00:23) setwindow form.find
+\i (00:00:23) FORM find all_off  
+\i (00:00:25) FORM find lines YES 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) pick grid -2.7854 2.2439
+\t (00:00:26) last pick:  -2.5400 2.5400
+\i (00:00:27) pick grid -2.9711 2.2748
+\t (00:00:27) last pick:  -2.5400 2.5400
+\i (00:00:28) pick grid -2.8473 2.2903
+\t (00:00:28) last pick:  -2.5400 2.5400
+\i (00:00:28) pick grid -2.9402 2.2903
+\t (00:00:28) last pick:  -2.5400 2.5400
+\i (00:00:33) delete 
+\i (00:00:33) generaledit 
+\i (00:00:34) pick grid -4.5805 -0.0464
+\t (00:00:34) last pick:  -5.0800 0.0000
+\i (00:00:40) pick grid -5.6482 0.8666
+\t (00:00:40) last pick:  -5.0800 0.0000
+\i (00:00:42) delete 
+\i (00:00:43) pick grid -4.7352 -0.0309
+\t (00:00:43) last pick:  -5.0800 0.0000
+\t (00:00:43) Line "Package Geometry/Silkscreen_Top"
+\i (00:00:44) pick grid -2.7854 2.2284
+\t (00:00:44) last pick:  -2.5400 2.5400
+\t (00:00:44) Line "Package Geometry/Assembly_Top"
+\i (00:00:45) pick grid -2.9866 2.2439
+\t (00:00:45) last pick:  -2.5400 2.5400
+\t (00:00:45) Line "Package Geometry/Assembly_Top"
+\i (00:00:46) pick grid -3.1104 2.2439
+\t (00:00:46) last pick:  -2.5400 2.5400
+\t (00:00:46) Line "Package Geometry/Assembly_Top"
+\i (00:00:46) pick grid -3.1414 2.2439
+\t (00:00:46) last pick:  -2.5400 2.5400
+\t (00:00:46) Shape "Package Geometry/Place_Bound_Top"
+\i (00:00:48) pick grid -3.2342 2.2748
+\t (00:00:48) last pick:  -2.5400 2.5400
+\t (00:00:48) Line "Package Geometry/Assembly_Top"
+\i (00:00:48) pick grid -3.2806 2.2748
+\t (00:00:48) last pick:  -2.5400 2.5400
+\t (00:00:48) Line "Package Geometry/Assembly_Top"
+\i (00:00:49) pick grid -3.3425 2.2748
+\t (00:00:49) last pick:  -2.5400 2.5400
+\t (00:00:49) Shape "Package Geometry/Dfa_Bound_Top"
+\i (00:00:50) pick grid -3.4354 2.2903
+\t (00:00:50) last pick:  -2.5400 2.5400
+\t (00:00:50) Line "Package Geometry/Assembly_Top"
+\i (00:00:52) pick grid -3.4044 2.2903
+\t (00:00:52) last pick:  -2.5400 2.5400
+\t (00:00:52) Line "Package Geometry/Silkscreen_Top"
+\i (00:00:56) undo 
+\i (00:00:56) trapsize 774
+\i (00:00:56) generaledit 
+\i (00:00:58) pick grid -2.7854 2.3986
+\t (00:00:58) last pick:  -2.5400 2.5400
+\i (00:00:59) pick grid -2.9711 2.3831
+\t (00:00:59) last pick:  -2.5400 2.5400
+\i (00:01:00) pick grid -5.3697 3.3890
+\t (00:01:00) last pick:  -5.0800 2.5400
+\i (00:01:02) delete 
+\i (00:01:02) zoom in 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom in -3.3270 0.5726
+\i (00:01:02) trapsize 387
+\i (00:01:03) pick grid -4.7042 -0.1083
+\t (00:01:03) last pick:  -5.0800 0.0000
+\t (00:01:03) Line "Package Geometry/Silkscreen_Top"
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in -2.9092 2.6152
+\i (00:01:04) trapsize 193
+\i (00:01:05) pick grid -2.7815 2.4140
+\t (00:01:05) last pick:  -2.5400 2.5400
+\t (00:01:05) Line "Package Geometry/Assembly_Top"
+\i (00:01:05) pick grid -3.0098 2.3599
+\t (00:01:05) last pick:  -2.5400 2.5400
+\t (00:01:05) Line "Package Geometry/Assembly_Top"
+\i (00:01:06) pick grid -3.0794 2.3405
+\t (00:01:06) last pick:  -2.5400 2.5400
+\t (00:01:06) Line "Package Geometry/Assembly_Top"
+\i (00:01:07) pick grid -3.1916 2.3367
+\t (00:01:07) last pick:  -2.5400 2.5400
+\t (00:01:07) Line "Package Geometry/Assembly_Top"
+\i (00:01:08) pick grid -3.2922 2.3328
+\t (00:01:08) last pick:  -2.5400 2.5400
+\t (00:01:08) Line "Package Geometry/Assembly_Top"
+\i (00:01:08) pick grid -3.3541 2.3018
+\t (00:01:08) last pick:  -2.5400 2.5400
+\t (00:01:08) Line "Package Geometry/Assembly_Top"
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out -2.8628 2.2864
+\i (00:01:09) trapsize 387
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out -2.8628 2.2863
+\i (00:01:09) trapsize 774
+\i (00:01:10) pick grid -6.4218 2.0697
+\t (00:01:10) last pick:  -7.6200 2.5400
+\i (00:01:10) prepopup -6.4218 2.0697
+\i (00:01:11) done 
+\i (00:01:11) generaledit 
+\i (00:01:20) show measure 
+\i (00:01:22) pick grid -3.5127 2.4566
+\t (00:01:22) last pick:  -3.8100 2.5400
+\i (00:01:23) pick grid 3.4818 1.7293
+\t (00:01:23) last pick:  3.1750 1.9050
+\i (00:01:28) setwindow text
+\i (00:01:28) close 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) prepopup -6.6849 2.0852
+\i (00:01:29) done 
+\i (00:01:29) generaledit 
+\i (00:01:29) pick grid -6.5147 3.0910
+\t (00:01:29) last pick:  -6.3500 3.1750
+\i (00:01:34) color192 
+\i (00:01:35) setwindow cvf.dialog
+\i (00:01:35) cvf layer_mode
+\i (00:01:35) setwindow pcb
+\i (00:01:35) generaledit 
+\i (00:01:37) setwindow cvf.dialog
+\i (00:01:37) cvf layer_tree_item 'Package Geometry'
+\i (00:01:38) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:01:39) cvf okay
+\i (00:01:40) setwindow pcb
+\i (00:01:40) save 
+\i (00:01:42) fillin yes 
+\t (00:01:42) Symbol 'l-7-7-3.psm' created.
+\i (00:01:42) generaledit 
+\i (00:01:43) exit 
+\t (00:01:43)     Journal end - Sun Apr 24 15:59:35 2016

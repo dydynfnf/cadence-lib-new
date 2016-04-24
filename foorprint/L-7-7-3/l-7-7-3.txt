@@ -1,0 +1,9 @@
+(Device File: L-7-7-3)
+
+PACKAGE L-7-7-3
+CLASS IC
+PINCOUNT 2
+PINORDER L-7-7-3 '1' '2' 
+FUNCTION g1 L-7-7-3 '1' '2' 
+
+END

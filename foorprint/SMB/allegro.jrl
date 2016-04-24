@@ -1,10 +1,21 @@
-\t (00:11:06) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
-\t (00:11:06)     Journal start - Mon Apr 18 09:49:10 2016
-\t (00:11:06)         Host=PSAI-PC User=psai Pid=5308 CPUs=4
-\t (00:11:06) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:11:06) 
-\d (00:11:06) Design opened: E:/cadence lib/foorprint/SMB/smb.dra
-\i (00:11:06) generaledit 
-\i (00:11:54) add line 
-\i (00:12:08) exit 
-\t (00:12:09)     Journal end - Mon Apr 18 09:50:13 2016
+\t (00:19:48) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:19:48)     Journal start - Sun Apr 24 15:33:09 2016
+\t (00:19:48)         Host=PSAI-PC User=psai Pid=6368 CPUs=4
+\t (00:19:48) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:19:48) 
+\d (00:19:48) Design opened: E:/cadence lib/foorprint/SMB/smb.dra
+\i (00:19:48) generaledit 
+\i (00:19:53) show measure 
+\i (00:19:54) pick grid 2.6785 1.5721
+\t (00:19:54) last pick:  2.7000 1.6000
+\i (00:19:55) pick grid 2.7231 -1.4867
+\t (00:19:55) last pick:  2.7000 -1.5000
+\i (00:19:58) zoom in 1 
+\i (00:19:58) setwindow pcb
+\i (00:19:58) zoom in 2.5668 -0.5266
+\i (00:19:58) trapsize 558
+\i (00:20:00) prepopup 6.4518 0.9135
+\i (00:20:01) done 
+\i (00:20:01) generaledit 
+\i (00:20:12) exit 
+\t (00:20:12)     Journal end - Sun Apr 24 15:33:33 2016
