@@ -1,10 +1,12 @@
-\t (00:00:15) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
-\t (00:00:15)     Journal start - Sun Apr 17 12:52:26 2016
-\t (00:00:15)         Host=PSAI-PC User=psai Pid=848 CPUs=4
-\t (00:00:15) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:15) 
-\d (00:00:15) Design opened: E:/cadence lib/foorprint/REF3125-SOT23/ref3125-sot23.dra
-\i (00:00:15) generaledit 
-\i (00:00:20) new 
-\i (00:00:36) newdrawfillin "rj45.dra" "Package Symbol"
-\t (00:00:36)     Journal end - Sun Apr 17 12:52:46 2016
+\t (00:00:24) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:24)     Journal start - Wed Apr 27 13:34:52 2016
+\t (00:00:24)         Host=PSAI-PC User=psai Pid=35780 CPUs=4
+\t (00:00:24) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:24) 
+\d (00:00:24) Design opened: E:/cadence lib/foorprint/REF3125-SOT23/ref3125-sot23.dra
+\i (00:01:02) open 
+\i (00:01:07) fillin "E:\cadence lib\foorprint\RJ45\rj45.dra"
+\i (00:01:07) cd "E:\cadence lib\foorprint\RJ45"
+\t (00:01:07) Opening existing design...
+\i (00:01:07) trapsize 1711
+\t (00:01:07)     Journal end - Wed Apr 27 13:35:36 2016

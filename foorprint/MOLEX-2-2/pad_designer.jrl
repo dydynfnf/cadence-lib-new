@@ -1,10 +1,11 @@
-\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
-\t (00:00:00)     Journal start - Wed Apr 20 13:11:42 2016
-\t (00:00:00)         Host=PSAI-PC User=psai Pid=9852 CPUs=4
-\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:00:00) 
-\i (00:00:02) setwindow form.padedit
-\i (00:00:02) pse_open 
-\i (00:00:08) fillin "E:\cadence lib\PAD\c150h100.pad"
-\i (00:00:08) cd "E:\cadence lib\PAD"
-\t (00:00:08)     Journal end - Wed Apr 20 13:11:51 2016
+\t (00:05:28) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:05:28)     Journal start - Wed Apr 27 13:30:41 2016
+\t (00:05:28)         Host=PSAI-PC User=psai Pid=5156 CPUs=4
+\t (00:05:28) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:05:28) 
+\i (00:05:29) FORM padedit layers  
+\i (00:05:30) FORM padedit parameters  
+\i (00:05:32) pse_open 
+\i (00:05:49) fillin "E:\cadence lib\foorprint\KEY-HD11\h85.pad"
+\i (00:05:49) cd "E:\cadence lib\foorprint\KEY-HD11"
+\t (00:05:49)     Journal end - Wed Apr 27 13:31:02 2016

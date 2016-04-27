@@ -1,0 +1,23 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Tue Apr 26 09:32:46 2016
+\t (00:00:01)         Host=PSAI-PC User=psai Pid=9988 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/cadence lib/foorprint/LT3080-SOP8/lt3080-sop8.dra
+\i (00:00:03) trapsize 1406
+\i (00:00:03) trapsize 1365
+\i (00:00:03) trapsize 1413
+\i (00:00:03) trapsize 1462
+\i (00:00:04) trapsize 1161
+\i (00:00:04) trapsize 1161
+\i (00:00:04) generaledit 
+\i (00:00:05) open 
+\i (00:00:19) fillin "E:\material\lool Inds Vibration\hardware\v1.0\pcb\vibration.brd"
+\i (00:00:19) cd "E:\material\lool Inds Vibration\hardware\v1.0\pcb"
+\t (00:00:19) Opening existing design...
+\i (00:00:20) trapsize 31322
+\i (00:00:20) trapsize 30441
+\i (00:00:20) trapsize 31322
+\i (00:00:21) trapsize 31322
+\t (00:00:21)     Journal end - Tue Apr 26 09:33:06 2016

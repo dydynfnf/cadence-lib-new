@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : rj45.dra                                      )
+(    Drawing          : key-hd11.dra                                  )
 (    Software Version : 16.6-2015S065                                 )
-(    Date/Time        : Sun Apr 17 14:02:55 2016                      )
+(    Date/Time        : Tue Apr 26 20:58:42 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = E:/cadence lib/foorprint/RJ45
-    Name      = rj45.psm
+    Directory = E:/cadence lib/foorprint/KEY-HD11
+    Name      = key-hd11.psm
     User      = psai
     Machine   = PSAI-PC
 

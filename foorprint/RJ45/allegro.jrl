@@ -1,15 +1,20 @@
 \t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
-\t (00:00:01)     Journal start - Sun Apr 17 15:09:31 2016
-\t (00:00:01)         Host=PSAI-PC User=psai Pid=9212 CPUs=4
+\t (00:00:01)     Journal start - Wed Apr 27 13:42:06 2016
+\t (00:00:01)         Host=PSAI-PC User=psai Pid=48704 CPUs=4
 \t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
 \t (00:00:01) 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: E:/cadence lib/foorprint/RJ45/rj45.dra
-\i (00:00:03) trapsize 2073
-\i (00:00:03) trapsize 2012
-\i (00:00:03) trapsize 2083
-\i (00:00:04) trapsize 1711
-\i (00:00:04) trapsize 1711
-\i (00:00:04) generaledit 
-\i (00:00:12) exit 
-\t (00:00:12)     Journal end - Sun Apr 17 15:09:42 2016
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 1051
+\i (00:00:03) trapsize 1020
+\i (00:00:03) trapsize 1056
+\i (00:00:04) trapsize 868
+\i (00:00:04) trapsize 1121
+\i (00:00:04) placementedit 
+\i (00:00:05) open 
+\e (00:00:05) Do you want to save the changes you made to unnamed.brd?
+\i (00:00:09) fillin no 
+\i (00:00:25) fillin "E:\material\lool Inds Vibration\hardware\v1.0\pcb\vibration.brd"
+\i (00:00:25) cd "E:\material\lool Inds Vibration\hardware\v1.0\pcb"
+\t (00:00:25) Opening existing design...
+\i (00:00:25) trapsize 14087
+\t (00:00:25)     Journal end - Wed Apr 27 13:42:30 2016

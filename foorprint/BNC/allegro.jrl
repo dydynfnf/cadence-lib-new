@@ -1,16 +1,21 @@
-\t (00:00:02) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
-\t (00:00:02)     Journal start - Sat Apr 23 08:46:16 2016
-\t (00:00:02)         Host=PSAI-PC User=psai Pid=724 CPUs=4
-\t (00:00:02) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:02) 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: E:/cadence lib/foorprint/BNC/bnc.dra
-\i (00:00:04) trapsize 2335
-\i (00:00:04) trapsize 2267
-\i (00:00:04) trapsize 2347
-\i (00:00:04) trapsize 1928
-\i (00:00:04) trapsize 1928
-\i (00:00:04) generaledit 
-\i (00:00:06) new 
-\i (00:00:43) newdrawfillin "vibration.brd" "Board"
-\t (00:00:43)     Journal end - Sat Apr 23 08:46:58 2016
+\t (00:00:07) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:07)     Journal start - Tue Apr 26 22:33:27 2016
+\t (00:00:07)         Host=PSAI-PC User=psai Pid=25452 CPUs=4
+\t (00:00:07) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:07) 
+\t (00:00:09) Opening existing design...
+\d (00:00:09) Design opened: E:/cadence lib/foorprint/BNC/bnc.dra
+\i (00:00:10) trapsize 4671
+\i (00:00:10) trapsize 4534
+\i (00:00:10) trapsize 4694
+\i (00:00:10) trapsize 3856
+\i (00:00:10) trapsize 3856
+\i (00:00:12) open 
+\i (00:00:24) fillin "E:\material\lool Inds Vibration\hardware\v1.0\pcb\vibration.brd"
+\i (00:00:24) cd "E:\material\lool Inds Vibration\hardware\v1.0\pcb"
+\t (00:00:24) Opening existing design...
+\i (00:00:25) trapsize 9070
+\i (00:00:25) trapsize 8815
+\i (00:00:25) trapsize 9070
+\i (00:00:25) trapsize 9070
+\t (00:00:25)     Journal end - Tue Apr 26 22:33:46 2016

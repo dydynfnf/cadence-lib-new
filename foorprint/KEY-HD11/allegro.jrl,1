@@ -1,0 +1,80 @@
+\t (00:50:00) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:50:00)     Journal start - Tue Apr 26 20:57:07 2016
+\t (00:50:00)         Host=PSAI-PC User=psai Pid=42944 CPUs=4
+\t (00:50:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:50:00) 
+\d (00:50:00) Design opened: E:/cadence lib/foorprint/KEY-HD11/key-hd11.dra
+\i (00:50:03) zoom in 1 
+\i (00:50:03) setwindow pcb
+\i (00:50:03) zoom in 1.1427 2.3755
+\i (00:50:03) trapsize 576
+\i (00:50:04) zoom in 1 
+\i (00:50:04) setwindow pcb
+\i (00:50:04) zoom in 1.1427 2.3755
+\i (00:50:04) trapsize 288
+\i (00:50:04) zoom out 1 
+\i (00:50:04) setwindow pcb
+\i (00:50:04) zoom out 1.1427 2.3755
+\i (00:50:04) trapsize 576
+\i (00:50:05) roam start
+\i (00:50:05) roam x 48
+\i (00:50:05) roam x 80
+\i (00:50:05) roam y -32
+\i (00:50:05) roam end
+\i (00:50:12) add pin 
+\t (00:50:12) Using 'H85.pad'.
+\i (00:50:14) Esc 
+\w (00:50:14) WARNING(SPMHA1-314): Illegal event.
+\i (00:50:14) prepopup -2.4171 2.7548
+\i (00:50:15) cancel 
+\t (00:50:15) Exiting from Add Pin.
+\i (00:50:16) delete 
+\i (00:50:19) pick grid 3.6072 2.3977
+\t (00:50:19) last pick:  3.6068 2.3876
+\t (00:50:19) Pin "H85, 10"
+\i (00:50:20) pick grid 0.4511 2.3056
+\t (00:50:20) last pick:  0.4572 2.3114
+\t (00:50:20) Pin "H85, 9"
+\i (00:50:22) prepopup -3.1889 4.5632
+\i (00:50:22) done 
+\i (00:50:24) add pin 
+\t (00:50:24) Using 'H85.pad'.
+\i (00:50:55) pick 0.55 2.4 
+\t (00:50:55) last pick:  0.5500 2.4000
+\t (00:50:55) Using 'H85.pad'.
+\i (00:51:01) setwindow form.mini
+\i (00:51:01) FORM mini pintype_mechanical YES 
+\i (00:51:04) setwindow pcb
+\i (00:51:04) prepopup -2.1983 2.0982
+\i (00:51:05) done 
+\t (00:51:05) Exiting from Add Pin.
+\i (00:51:10) delete 
+\i (00:51:10) pick grid 0.6699 2.3631
+\t (00:51:10) last pick:  0.6604 2.3622
+\t (00:51:11) Pin "H85, 11"
+\i (00:51:11) add pin 
+\t (00:51:12) Using 'H85.pad'.
+\i (00:51:16) setwindow form.mini
+\i (00:51:16) FORM mini pintype_mechanical YES 
+\i (00:51:24) setwindow pcb
+\i (00:51:24) pick 0.55 2.4 
+\t (00:51:24) last pick:  0.5500 2.4000
+\t (00:51:24) Using 'H85.pad'.
+\i (00:51:28) ipick 3 
+\t (00:51:28) last pick:  3.5500 2.4000
+\t (00:51:28) Using 'H85.pad'.
+\i (00:51:28) prepopup 1.7412 1.7642
+\i (00:51:29) done 
+\t (00:51:29) Exiting from Add Pin.
+\i (00:51:32) save 
+\i (00:51:34) fillin yes 
+\t (00:51:35) Symbol 'key-hd11.psm' created.
+\i (00:51:39) open 
+\i (00:51:51) fillin "E:\material\lool Inds Vibration\hardware\v1.0\pcb\vibration.brd"
+\i (00:51:51) cd "E:\material\lool Inds Vibration\hardware\v1.0\pcb"
+\t (00:51:51) Opening existing design...
+\i (00:51:51) trapsize 8943
+\i (00:51:51) trapsize 8691
+\i (00:51:51) trapsize 8943
+\i (00:51:52) trapsize 8943
+\t (00:51:52)     Journal end - Tue Apr 26 20:58:59 2016

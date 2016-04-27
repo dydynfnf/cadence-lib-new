@@ -1,36 +1,23 @@
-\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
-\t (00:00:01)     Journal start - Sun Apr 24 17:38:42 2016
-\t (00:00:01)         Host=PSAI-PC User=psai Pid=7460 CPUs=4
-\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:01) 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Design opened: E:/cadence lib/foorprint/CAP-3528/cap-3528.dra
-\i (00:00:03) trapsize 1308
-\i (00:00:03) trapsize 1269
-\i (00:00:03) trapsize 1314
-\i (00:00:03) trapsize 1364
-\i (00:00:03) trapsize 1080
-\i (00:00:03) trapsize 1080
-\i (00:00:04) generaledit 
-\i (00:00:05) color192 
-\i (00:00:05) setwindow cvf.dialog
-\i (00:00:05) cvf layer_mode
-\i (00:00:05) setwindow pcb
-\i (00:00:05) generaledit 
-\i (00:00:06) setwindow cvf.dialog
-\i (00:00:06) cvf layer_tree_item 'Package Geometry'
-\i (00:00:08) cvf layers_visible package_geometry/pin_number TRUE
-\i (00:00:09) cvf okay
-\i (00:00:10) setwindow pcb
-\i (00:00:10) zoom in 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom in -2.0080 -0.2375
-\i (00:00:11) trapsize 540
-\i (00:00:11) zoom out 1 
-\i (00:00:11) setwindow pcb
-\i (00:00:11) zoom out -1.8460 -0.2482
-\i (00:00:11) trapsize 1080
-\i (00:00:34) exit 
-\e (00:00:34) Do you want to save the changes you made to cap-3528.dra?
-\i (00:00:38) fillin no 
-\t (00:00:38)     Journal end - Sun Apr 24 17:39:19 2016
+\t (00:00:04) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:04)     Journal start - Sun Apr 24 20:34:14 2016
+\t (00:00:04)         Host=PSAI-PC User=psai Pid=12132 CPUs=4
+\t (00:00:04) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:04) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: E:/cadence lib/foorprint/CAP-3528/cap-3528.dra
+\i (00:00:06) trapsize 1308
+\i (00:00:06) trapsize 1269
+\i (00:00:06) trapsize 1314
+\i (00:00:06) trapsize 1364
+\i (00:00:06) trapsize 1080
+\i (00:00:06) trapsize 1080
+\i (00:00:06) generaledit 
+\i (00:00:12) open 
+\i (00:00:51) fillin "E:\material\lool Inds Vibration\hardware\v1.0\pcb\vibration.brd"
+\i (00:00:51) cd "E:\material\lool Inds Vibration\hardware\v1.0\pcb"
+\t (00:00:51) Opening existing design...
+\i (00:00:51) trapsize 1928
+\i (00:00:51) trapsize 1874
+\i (00:00:52) trapsize 1928
+\i (00:00:52) trapsize 1928
+\t (00:00:52)     Journal end - Sun Apr 24 20:35:02 2016

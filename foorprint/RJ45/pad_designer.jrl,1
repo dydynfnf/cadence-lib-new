@@ -1,0 +1,23 @@
+\t (00:00:35) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:35)     Journal start - Wed Apr 27 14:18:57 2016
+\t (00:00:35)         Host=PSAI-PC User=psai Pid=4136 CPUs=4
+\t (00:00:35) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:35) 
+\i (00:00:38) FORM padedit layers  
+\i (00:00:41) FORM padedit grid rpopup default_internal Delete 
+\e (00:00:41) Could not delete layer.
+\i (00:00:43) FORM padedit grid rpopup default_internal Delete 
+\e (00:00:43) Could not delete layer.
+\i (00:00:44) FORM padedit grid row end_layer 
+\i (00:00:45) FORM padedit grid row default_internal 
+\i (00:00:47) FORM padedit geometry Null 
+\i (00:00:53) pse_save 
+\i (00:01:04) setwindow text
+\i (00:01:04) close 
+\i (00:01:08) fillin no 
+\i (00:01:10) setwindow form.padedit
+\i (00:01:10) pse_open 
+\i (00:01:17) fillin "C:\Users\psai\Desktop\RJ_RA-8\c100hn325.pad"
+\i (00:01:17) cd "C:\Users\psai\Desktop\RJ_RA-8"
+\i (00:01:20) fillin yes 
+\t (00:01:20)     Journal end - Wed Apr 27 14:19:42 2016

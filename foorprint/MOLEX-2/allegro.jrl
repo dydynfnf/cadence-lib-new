@@ -1,0 +1,15 @@
+\t (01:03:47) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (01:03:47)     Journal start - Wed Apr 27 12:33:31 2016
+\t (01:03:47)         Host=PSAI-PC User=psai Pid=49920 CPUs=4
+\t (01:03:47) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (01:03:47) 
+\d (01:03:47) Design opened: E:/cadence lib/foorprint/MOLEX-2/molex-2.dra
+\i (01:03:55) open 
+\i (01:04:57) fillin "E:\material\lool Inds Vibration\hardware\v1.0\pcb\vibration.brd"
+\i (01:04:57) cd "E:\material\lool Inds Vibration\hardware\v1.0\pcb"
+\t (01:04:57) Opening existing design...
+\i (01:04:57) trapsize 19685
+\i (01:04:57) trapsize 19132
+\i (01:04:57) trapsize 19685
+\i (01:04:58) trapsize 19685
+\t (01:04:58)     Journal end - Wed Apr 27 12:34:43 2016
