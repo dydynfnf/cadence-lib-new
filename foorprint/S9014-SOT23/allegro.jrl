@@ -1,0 +1,25 @@
+\t (00:24:51) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:24:51)     Journal start - Thu Apr 28 00:41:12 2016
+\t (00:24:51)         Host=PSAI-PC User=psai Pid=8452 CPUs=4
+\t (00:24:51) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:24:51) 
+\d (00:24:51) Design opened: E:/cadence lib/foorprint/S9014-SOT23/s9014-sot23.dra
+\i (00:24:51) generaledit 
+\i (00:24:57) pick grid 3.5742 2.4674
+\t (00:24:57) last pick:  2.5400 2.5400
+\i (00:24:59) move 
+\t (00:24:59) Select element(s) to move.
+\i (00:25:00) delete 
+\i (00:25:01) save 
+\i (00:25:03) fillin yes 
+\t (00:25:04) Symbol 's9014-sot23.psm' created.
+\i (00:25:04) generaledit 
+\i (00:26:36) open 
+\i (00:26:50) fillin "E:\material\lool Inds Vibration\hardware\v1.0\pcb\vibration.brd"
+\i (00:26:50) cd "E:\material\lool Inds Vibration\hardware\v1.0\pcb"
+\t (00:26:50) Opening existing design...
+\i (00:26:50) trapsize 4560
+\i (00:26:50) trapsize 4440
+\i (00:26:50) trapsize 4560
+\i (00:26:50) trapsize 4560
+\t (00:26:51)     Journal end - Thu Apr 28 00:43:12 2016

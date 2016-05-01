@@ -1,0 +1,105 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Thu Apr 28 13:23:27 2016
+\t (00:00:01)         Host=PSAI-PC User=psai Pid=7344 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:04) Design opened: E:/cadence lib/foorprint/LL34/ll34.dra
+\i (00:00:04) trapsize 1258
+\i (00:00:04) trapsize 1222
+\i (00:00:04) trapsize 1265
+\i (00:00:04) trapsize 1308
+\i (00:00:04) trapsize 1039
+\i (00:00:04) trapsize 1039
+\i (00:00:04) generaledit 
+\i (00:00:05) color192 
+\i (00:00:06) setwindow cvf.dialog
+\i (00:00:06) cvf layer_mode
+\i (00:00:06) setwindow pcb
+\i (00:00:06) generaledit 
+\i (00:00:07) setwindow cvf.dialog
+\i (00:00:07) cvf layer_tree_item 'Package Geometry'
+\i (00:00:08) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:00:09) cvf okay
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in -1.3922 -0.6857
+\i (00:00:09) trapsize 519
+\i (00:00:10) zoom in 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom in -1.4545 -0.6856
+\i (00:00:10) trapsize 260
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -1.4545 -0.6959
+\i (00:00:10) trapsize 519
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -1.4546 -0.7064
+\i (00:00:11) trapsize 1039
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 0.9142 -0.2701
+\i (00:00:41) trapsize 519
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in -0.3013 -0.2701
+\i (00:00:41) trapsize 260
+\i (00:00:43) text edit 
+\i (00:00:45) pick grid 1.4545 0.0832
+\t (00:00:45) last pick:  2.5400 0.0000
+\i (00:00:48) setwindow pcb
+\i (00:00:48) pick grid -2.0363 -0.1662
+\t (00:00:48) last pick:  -2.5400 0.0000
+\i (00:00:48) setwindow pcb
+\i (00:00:48) pick 1.4545 0.0832
+\t (00:00:48) Pick text to edit.
+\i (00:00:51) setwindow pcb
+\i (00:00:51) prepopup 0.5818 0.1559
+\i (00:00:52) done 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) pick -2.0363 -0.1662
+\t (00:00:52) Pick text to edit.
+\i (00:00:52) setwindow pcb
+\i (00:00:52) generaledit 
+\i (00:00:54) save 
+\i (00:00:55) fillin yes 
+\t (00:00:56) Symbol 'll34.psm' created.
+\i (00:00:56) generaledit 
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 0.3688 -0.4155
+\i (00:00:58) trapsize 519
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 0.3688 -0.4155
+\i (00:00:58) trapsize 1039
+\i (00:00:58) zoom in 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in -0.6234 -0.2078
+\i (00:00:58) trapsize 519
+\i (00:00:59) zoom in 1 
+\i (00:00:59) setwindow pcb
+\i (00:00:59) zoom in -1.0701 -0.2078
+\i (00:00:59) trapsize 260
+\i (00:00:59) roam start
+\i (00:00:59) roam x -32
+\i (00:00:59) roam y -16
+\i (00:01:00) roam x -160
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x -96
+\i (00:01:00) roam x -48
+\i (00:01:00) roam y -16
+\i (00:01:00) roam x -32
+\i (00:01:00) roam x 176
+\i (00:01:00) roam y 32
+\i (00:01:00) roam x 80
+\i (00:01:00) roam y 16
+\i (00:01:00) roam end
+\i (00:01:01) zoom out 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom out -0.1662 -0.1921
+\i (00:01:01) trapsize 519
+\i (00:01:05) exit 
+\t (00:01:05)     Journal end - Thu Apr 28 13:24:30 2016
