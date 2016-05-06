@@ -1,0 +1,22 @@
+"Allegro_Skill"文件夹放"D:\Cadence"下
+"allegro.ilinit"放"D:\Cadence\SPB_Data\pcbenv"下
+
+---------------------------------------------------------------------------------------------------
+-----------------------------------------skill使用-------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+1、在ALLEGRO安装目录下找到“SPB_Data\pcbenv”，里面有一个"allegro.ilinit"文件，若没有，可新建一个文本文档，重命名为“allegro.ilinit”。
+
+2、在allegro.ilinit里添加内容如下：（没有虚线框）
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+setSkillPath(buildString(append1(getSkillPath() "D:\\skill")))
+load("D:\\skill\\hl_null_pin.il")
+load("D:\\skill\\colorset.il" "QQqun:3590664")
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+D:\\skill是SKIL文件夹的路径。每个SKILL前面都要加上路径。
+QQqun:3590664是SKILL的密码。有的SKILL是加密的。
+
+3、重启allegro
+
+4、输入调用命令即可执行SKILL.
+对于非加密的skill，若不知道对应的命令，打开相应的SKILL文件，找到“alxcmdregister”,这个后面的就是调用命令。

@@ -1,0 +1,3 @@
+setSkillPath(buildString(append1(getSkillPath() "D:\\Cadence\\Allegro_Skill")))
+load("D:\\Cadence\\Allegro_Skill\\1.set grids=g x=no=.il")
+load("D:\\Cadence\\Allegro_Skill\\2.ref to center+adjust text direction=mc_ref+ro_text=www.eda365.com=.il" "www.eda365.com")
