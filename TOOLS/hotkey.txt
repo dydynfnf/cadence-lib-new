@@ -8,3 +8,4 @@ funckey a add connect
 funckey s slide
 funckey d delete
 funckey c custom smooth
+funckey f 'settoggle no_etch_shape_display;redraw'
