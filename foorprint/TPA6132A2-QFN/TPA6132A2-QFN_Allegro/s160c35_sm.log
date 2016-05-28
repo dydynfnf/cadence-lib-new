@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : s160c35_SM.dra                                )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Thu May 19 15:43:47 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = E:/cadence lib/foorprint/TPA6132A2-QFN/TPA6132A2-QFN_Allegro
+    Name      = s160c35_sm.ssm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,4 @@
+OrCAD:
+在$:\Cadence\SPB_Data\cdssetup\OrCAD_Capture\16.6.0\Capture.ini中,找到[Allegro Footprints]，在后面加入psm和pad路径,Dir1=... ,Dir2= ...;
+Allegro:
+Setup->User Preferences->Paths->Library,加入psm和pad路径.

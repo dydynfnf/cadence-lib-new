@@ -1,23 +1,82 @@
-\t (00:00:35) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
-\t (00:00:35)     Journal start - Wed Apr 27 14:18:57 2016
-\t (00:00:35)         Host=PSAI-PC User=psai Pid=4136 CPUs=4
-\t (00:00:35) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:00:35) 
-\i (00:00:38) FORM padedit layers  
-\i (00:00:41) FORM padedit grid rpopup default_internal Delete 
-\e (00:00:41) Could not delete layer.
-\i (00:00:43) FORM padedit grid rpopup default_internal Delete 
-\e (00:00:43) Could not delete layer.
-\i (00:00:44) FORM padedit grid row end_layer 
-\i (00:00:45) FORM padedit grid row default_internal 
-\i (00:00:47) FORM padedit geometry Null 
-\i (00:00:53) pse_save 
-\i (00:01:04) setwindow text
-\i (00:01:04) close 
-\i (00:01:08) fillin no 
-\i (00:01:10) setwindow form.padedit
-\i (00:01:10) pse_open 
-\i (00:01:17) fillin "C:\Users\psai\Desktop\RJ_RA-8\c100hn325.pad"
-\i (00:01:17) cd "C:\Users\psai\Desktop\RJ_RA-8"
-\i (00:01:20) fillin yes 
-\t (00:01:20)     Journal end - Wed Apr 27 14:19:42 2016
+\t (00:17:58) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:17:58)     Journal start - Sun May 15 16:50:09 2016
+\t (00:17:58)         Host=PSAI-PC User=psai Pid=9732 CPUs=4
+\t (00:17:58) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:17:58) 
+\i (00:18:00) FORM padedit grid row pastemask_top 
+\i (00:18:02) FORM padedit geometry Null 
+\i (00:18:03) FORM padedit grid row pastemask_bottom 
+\i (00:18:04) FORM padedit geometry Null 
+\i (00:18:14) pse_save 
+\i (00:18:16) fillin yes 
+\i (00:18:18) pse_open 
+\i (00:18:21) fillin "c180h100.pad"
+\i (00:18:22) FORM padedit grid row pastemask_top 
+\i (00:18:24) FORM padedit geometry Null 
+\i (00:18:25) FORM padedit grid row pastemask_bottom 
+\i (00:18:27) FORM padedit geometry Null 
+\i (00:18:29) pse_save 
+\i (00:18:30) fillin yes 
+\i (00:18:32) pse_open 
+\i (00:18:34) fillin "c180h150.pad"
+\i (00:18:36) FORM padedit grid row pastemask_top 
+\i (00:18:37) FORM padedit geometry Null 
+\i (00:18:38) FORM padedit grid row pastemask_bottom 
+\i (00:18:39) FORM padedit geometry Null 
+\i (00:18:41) pse_save 
+\i (00:18:42) fillin yes 
+\i (00:18:44) pse_open 
+\i (00:18:46) fillin "h350.pad"
+\i (00:18:46) FORM padedit grid row end_layer 
+\i (00:18:49) FORM padedit grid row pastemask_top 
+\i (00:18:51) FORM padedit geometry Null 
+\i (00:18:51) FORM padedit grid row pastemask_bottom 
+\i (00:18:53) FORM padedit geometry Null 
+\i (00:19:41) FORM padedit grid row soldermask_top 
+\i (00:19:46) FORM padedit parameters  
+\i (00:19:52) FORM padedit layers  
+\i (00:20:13) FORM padedit geometry Null 
+\i (00:20:14) FORM padedit grid row soldermask_bottom 
+\i (00:20:15) FORM padedit geometry Null 
+\i (00:20:22) FORM padedit parameters  
+\i (00:20:29) pse_save 
+\i (00:20:36) setwindow text
+\i (00:20:36) close 
+\i (00:20:37) fillin yes 
+\i (00:20:38) fillin yes 
+\i (00:20:40) setwindow form.padedit
+\i (00:20:40) pse_open 
+\i (00:20:41) fillin "h350.pad"
+\i (00:20:42) FORM padedit layers  
+\i (00:20:43) FORM padedit parameters  
+\i (00:20:45) pse_open 
+\i (00:20:46) fillin "oc150h100.pad"
+\i (00:20:49) FORM padedit layers  
+\i (00:20:51) FORM padedit grid row pastemask_top 
+\i (00:20:57) FORM padedit grid row soldermask_bottom 
+\i (00:20:58) FORM padedit grid row pastemask_top 
+\i (00:20:59) FORM padedit geometry Null 
+\i (00:20:59) FORM padedit grid row pastemask_bottom 
+\i (00:21:01) FORM padedit geometry Null 
+\i (00:21:24) FORM padedit parameters  
+\i (00:22:03) FORM padedit layers  
+\i (00:22:26) FORM padedit parameters  
+\i (00:22:26) FORM padedit layers  
+\i (00:22:29) FORM padedit parameters  
+\i (00:22:31) pse_save 
+\i (00:22:32) fillin yes 
+\i (00:22:33) pse_open 
+\i (00:22:37) fillin "s180h100.pad"
+\i (00:22:39) FORM padedit layers  
+\i (00:22:41) FORM padedit grid row pastemask_top 
+\i (00:22:43) FORM padedit geometry Null 
+\i (00:22:43) FORM padedit grid row pastemask_bottom 
+\i (00:22:45) FORM padedit geometry Null 
+\i (00:22:47) pse_save 
+\i (00:22:48) fillin yes 
+\i (00:22:50) pse_open 
+\i (00:23:24) fillin "menu_cancel"
+\i (00:23:54) pse_open 
+\i (00:24:09) fillin "E:\cadence lib\foorprint\LED-3\c150h90.pad"
+\i (00:24:09) cd "E:\cadence lib\foorprint\LED-3"
+\t (00:24:09)     Journal end - Sun May 15 16:56:20 2016

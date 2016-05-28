@@ -1,0 +1,22 @@
+\t (00:00:07) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:07)     Journal start - Wed May 18 22:10:35 2016
+\t (00:00:07)         Host=PSAI-PC User=psai Pid=9352 CPUs=4
+\t (00:00:07) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:07) 
+\t (00:00:09) Opening existing design...
+\d (00:00:09) Design opened: E:/cadence lib/foorprint/MPU6050-QFN/MPU6050-QFN_Allegro/MPU6050-QFN.dra
+\i (00:00:09) trapsize 498
+\i (00:00:09) trapsize 484
+\i (00:00:09) trapsize 501
+\i (00:00:09) trapsize 411
+\i (00:00:09) trapsize 411
+\i (00:00:09) generaledit 
+\i (00:00:14) open 
+\i (00:00:40) fillin "E:\material\glass\workspace\pcb\5.glass v1.0\pcb\f429.brd"
+\i (00:00:40) cd "E:\material\glass\workspace\pcb\5.glass v1.0\pcb"
+\t (00:00:40) Opening existing design...
+\i (00:00:40) trapsize 1223
+\i (00:00:40) trapsize 1189
+\i (00:00:40) trapsize 1223
+\i (00:00:41) trapsize 1469
+\t (00:00:41)     Journal end - Wed May 18 22:11:09 2016

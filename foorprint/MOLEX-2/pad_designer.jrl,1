@@ -1,0 +1,53 @@
+\t (00:26:48) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:26:48)     Journal start - Sun May 15 16:58:59 2016
+\t (00:26:48)         Host=PSAI-PC User=psai Pid=9732 CPUs=4
+\t (00:26:48) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:26:48) 
+\i (00:26:49) FORM padedit layers  
+\i (00:26:51) FORM padedit grid row soldermask_top 
+\i (00:26:53) FORM padedit geometry Null 
+\i (00:26:54) FORM padedit grid row soldermask_bottom 
+\i (00:26:55) FORM padedit geometry Null 
+\i (00:26:55) FORM padedit grid row pastemask_top 
+\i (00:26:57) FORM padedit geometry Null 
+\i (00:26:57) FORM padedit grid row pastemask_bottom 
+\i (00:26:59) FORM padedit geometry Null 
+\i (00:27:02) FORM padedit parameters  
+\i (00:27:03) FORM padedit layers  
+\i (00:27:05) FORM padedit parameters  
+\i (00:27:12) FORM padedit layers  
+\i (00:27:17) pse_save 
+\i (00:27:18) setwindow text
+\i (00:27:18) close 
+\i (00:27:19) fillin yes 
+\i (00:27:20) fillin yes 
+\i (00:27:22) setwindow form.padedit
+\i (00:27:22) pse_open 
+\i (00:27:29) fillin "c150h100.pad"
+\i (00:27:30) FORM padedit grid row pastemask_top 
+\i (00:29:03) FORM padedit grid row pastemask_bottom 
+\i (00:29:03) FORM padedit grid row pastemask_top 
+\i (00:29:54) FORM padedit geometry Null 
+\i (00:29:55) FORM padedit grid row pastemask_bottom 
+\i (00:29:56) FORM padedit geometry Null 
+\i (00:29:59) pse_open 
+\i (00:30:03) fillin "s150h100.pad"
+\i (00:30:09) fillin no 
+\i (00:30:11) pse_save 
+\i (00:30:12) fillin yes 
+\i (00:30:15) pse_open 
+\i (00:30:18) fillin "s150h100.pad"
+\i (00:30:19) FORM padedit grid row pastemask_top 
+\i (00:30:22) FORM padedit geometry Null 
+\i (00:30:22) FORM padedit grid row pastemask_bottom 
+\i (00:30:24) FORM padedit geometry Null 
+\i (00:30:26) pse_save 
+\i (00:30:28) fillin yes 
+\i (00:30:29) pse_open 
+\i (00:30:31) fillin "c150h100.pad"
+\i (00:30:33) pse_open 
+\i (00:30:49) fillin "menu_cancel"
+\i (00:31:14) pse_open 
+\i (00:31:22) fillin "E:\cadence lib\foorprint\BNC\c240h140.pad"
+\i (00:31:22) cd "E:\cadence lib\foorprint\BNC"
+\t (00:31:22)     Journal end - Sun May 15 17:03:33 2016

@@ -1,0 +1,42 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Fri May 20 13:05:15 2016
+\t (00:00:01)         Host=PSAI-PC User=psai Pid=12120 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 1051
+\i (00:00:03) trapsize 1020
+\i (00:00:03) trapsize 1056
+\i (00:00:04) trapsize 868
+\i (00:00:04) trapsize 1121
+\i (00:00:04) generaledit 
+\i (00:00:05) new 
+\e (00:00:05) Do you want to save the changes you made to phonejack_3p.dra?
+\i (00:00:06) fillin no 
+\i (00:00:08) newdrawfillin "menu_cancel"
+\i (00:00:08) generaledit 
+\i (00:00:09) open 
+\e (00:00:09) Do you want to save the changes you made to phonejack_3p.dra?
+\i (00:00:11) fillin no 
+\i (00:00:14) fillin "phonejack-3p.dra"
+\t (00:00:14) Opening existing design...
+\i (00:00:14) trapsize 890
+\d (00:00:14) Design opened: E:/cadence lib/foorprint/PHONEJACK-3P/phonejack-3p.dra
+\i (00:00:14) generaledit 
+\i (00:00:18) roam start
+\i (00:00:18) roam x -64
+\i (00:00:18) roam y 32
+\i (00:00:18) roam x -32
+\i (00:00:18) roam y 32
+\i (00:00:18) roam end
+\i (00:00:22) move 
+\t (00:00:22) Select element(s) to move.
+\i (00:00:23) delete 
+\i (00:00:23) move 
+\t (00:00:23) Select element(s) to move.
+\i (00:00:24) save 
+\i (00:00:25) fillin yes 
+\t (00:00:26) Symbol 'phonejack-3p.psm' created.
+\i (00:00:26) generaledit 
+\i (00:00:30) exit 
+\t (00:00:31)     Journal end - Fri May 20 13:05:45 2016

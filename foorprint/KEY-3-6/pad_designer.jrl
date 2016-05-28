@@ -1,0 +1,11 @@
+\t (00:02:47) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:02:47)     Journal start - Sun May 15 17:52:29 2016
+\t (00:02:47)         Host=PSAI-PC User=psai Pid=9288 CPUs=4
+\t (00:02:47) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:02:47) 
+\i (00:02:50) FORM padedit parameters  
+\i (00:02:51) FORM padedit layers  
+\i (00:02:52) pse_open 
+\i (00:03:28) fillin "E:\cadence lib\foorprint\CC2540-MODULE\r70-60.pad"
+\i (00:03:28) cd "E:\cadence lib\foorprint\CC2540-MODULE"
+\t (00:03:28)     Journal end - Sun May 15 17:53:10 2016

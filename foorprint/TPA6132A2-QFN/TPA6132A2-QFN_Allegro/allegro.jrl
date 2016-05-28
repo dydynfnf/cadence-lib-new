@@ -1,0 +1,82 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Thu May 19 15:45:05 2016
+\t (00:00:01)         Host=PSAI-PC User=psai Pid=8516 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/cadence lib/foorprint/TPA6132A2-QFN/TPA6132A2-QFN_Allegro/TPA6132A2-QFN.dra
+\i (00:00:03) trapsize 839
+\i (00:00:03) trapsize 814
+\i (00:00:03) trapsize 843
+\i (00:00:04) trapsize 693
+\i (00:00:04) trapsize 693
+\i (00:00:04) generaledit 
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -0.4342 -0.9947
+\i (00:00:05) trapsize 346
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -0.5035 -0.9601
+\i (00:00:05) trapsize 173
+\i (00:00:05) zoom in 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom in -0.5484 -0.9324
+\i (00:00:05) trapsize 87
+\i (00:00:10) g 0.1 
+\i (00:00:10) replay ./grids.scr 
+\i (00:00:10) scriptmode +i +n 
+\i (00:00:10) version 15.5 
+\t (00:00:10) Script version: 15.5
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) trapsize 15382 
+\i (00:00:10) define grid 
+\t (00:00:10) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:10) setwindow form.grid 
+\i (00:00:10) FORM grid non_etch non_etch_x_grids 0.100000 
+\i (00:00:10) FORM grid non_etch non_etch_y_grids 0.100000 
+\i (00:00:10) FORM grid all_etch all_etch_x_grids 0.100000 
+\i (00:00:10) FORM grid all_etch all_etch_y_grids 0.100000 
+\i (00:00:10) FORM grid done 
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) trapsize 87
+\i (00:00:10) generaledit 
+\i (00:00:11) show measure 
+\i (00:00:13) pick grid -0.7441 -0.9670
+\t (00:00:13) last pick:  -0.7000 -1.0000
+\i (00:00:15) setwindow text
+\i (00:00:15) close 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) g 0.01 
+\i (00:00:18) replay ./grids.scr 
+\i (00:00:18) scriptmode +i +n 
+\i (00:00:18) version 15.5 
+\t (00:00:18) Script version: 15.5
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) trapsize 15382 
+\i (00:00:18) define grid 
+\t (00:00:18) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:00:18) setwindow form.grid 
+\i (00:00:18) FORM grid non_etch non_etch_x_grids 0.010000 
+\i (00:00:18) FORM grid non_etch non_etch_y_grids 0.010000 
+\i (00:00:18) FORM grid all_etch all_etch_x_grids 0.010000 
+\i (00:00:18) FORM grid all_etch all_etch_y_grids 0.010000 
+\i (00:00:18) FORM grid done 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) trapsize 87
+\i (00:00:18) generaledit 
+\i (00:00:19) show measure 
+\i (00:00:21) setwindow form.find
+\i (00:00:21) FORM find all_off  
+\i (00:00:23) setwindow pcb
+\i (00:00:23) pick grid -0.7614 -0.8025
+\t (00:00:23) last pick:  -0.7600 -0.8000
+\i (00:00:24) pick grid -0.7510 -0.9687
+\t (00:00:24) last pick:  -0.7500 -0.9700
+\i (00:00:29) setwindow text
+\i (00:00:29) close 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) exit 
+\e (00:00:31) Do you want to save the changes you made to TPA6132A2-QFN.dra?
+\i (00:00:36) fillin no 
+\t (00:00:37)     Journal end - Thu May 19 15:45:41 2016

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : spu0410hr5h-pb.dra                            )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Thu May 19 14:01:48 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/SPU0410HR5H-PB
+    Name      = spu0410hr5h-pb.psm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

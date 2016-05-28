@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : dummy.dra                                     )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Sat May 14 20:56:13 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = E:/cadence lib/foorprint/RT5002-QFN40/RT5002-QFN40_Allegro
+    Name      = dummy.ssm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

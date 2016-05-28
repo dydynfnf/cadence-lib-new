@@ -1,0 +1,22 @@
+\t (00:00:09) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:09)     Journal start - Sat May 21 10:24:10 2016
+\t (00:00:09)         Host=PSAI-PC User=psai Pid=8944 CPUs=4
+\t (00:00:09) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:09) 
+\t (00:00:10) Opening existing design...
+\d (00:00:11) Design opened: E:/cadence lib/foorprint/PHONEJACK-3P/phonejack-3p.dra
+\i (00:00:11) trapsize 1078
+\i (00:00:11) trapsize 1047
+\i (00:00:11) trapsize 1083
+\i (00:00:12) trapsize 890
+\i (00:00:12) trapsize 890
+\i (00:00:12) generaledit 
+\i (00:00:15) open 
+\i (00:00:37) fillin "E:\material\lool Inds Vibration\hardware\v1.0\pcb\vibration.brd"
+\i (00:00:37) cd "E:\material\lool Inds Vibration\hardware\v1.0\pcb"
+\t (00:00:38) Opening existing design...
+\i (00:00:39) trapsize 32982
+\i (00:00:39) trapsize 32054
+\i (00:00:39) trapsize 32982
+\i (00:00:40) trapsize 32982
+\t (00:00:40)     Journal end - Sat May 21 10:24:41 2016

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : W25Q256-SON.dra                               )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Wed May 18 17:38:45 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/W25Q256-SON/W25Q256-SON_Allegro
+    Name      = w25q256-son.psm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

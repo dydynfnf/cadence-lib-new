@@ -1,41 +1,11 @@
-\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
-\t (00:00:00)     Journal start - Tue Apr 19 21:05:48 2016
-\t (00:00:00)         Host=PSAI-LENOVO User=psai Pid=7348 CPUs=4
-\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:00:00) 
-\i (00:00:05) setwindow form.padedit
-\i (00:00:05) pse_new 
-\i (00:00:23) fillin "s150h90.pad"
-\i (00:00:25) FORM padedit units Millimeter 
-\i (00:00:26) fillin yes 
-\w (00:00:26) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:00:30) FORM padedit hole_size_x 0.9 
-\i (00:02:01) FORM padedit drill_fig Hexagon X 
-\i (00:02:05) FORM padedit characters A 
-\i (00:02:10) FORM padedit drill_width 0.9 
-\i (00:02:15) FORM padedit drill_height 0.9 
-\i (00:02:23) FORM padedit layers  
-\i (00:02:30) FORM padedit geometry Square 
-\i (00:02:35) FORM padedit width 1.5 
-\i (00:03:56) FORM padedit grid row begin_layer 
-\i (00:03:58) FORM padedit grid rpopup begin_layer Copy 
-\i (00:03:59) FORM padedit grid rpopup default_internal Paste 
-\i (00:04:01) FORM padedit grid rpopup end_layer Paste 
-\i (00:04:03) FORM padedit grid rpopup soldermask_top Paste 
-\i (00:04:04) FORM padedit grid rpopup soldermask_bottom Paste 
-\i (00:04:05) FORM padedit grid rpopup pastemask_top Paste 
-\i (00:04:07) FORM padedit grid rpopup pastemask_bottom Paste 
-\i (00:04:15) FORM padedit parameters  
-\i (00:04:20) FORM padedit layers  
-\i (00:04:28) pse_save 
-\i (00:04:29) FORM padedit parameters  
-\i (00:04:32) FORM padedit layers  
-\i (00:04:34) FORM padedit grid row default_internal 
-\i (00:04:35) FORM padedit grid row end_layer 
-\i (00:04:35) FORM padedit grid row soldermask_top 
-\i (00:04:36) FORM padedit grid row soldermask_bottom 
-\i (00:04:36) FORM padedit grid row pastemask_top 
-\i (00:04:37) FORM padedit grid row pastemask_bottom 
-\i (00:04:38) FORM padedit parameters  
-\i (00:04:41) pse_exit
-\t (00:04:41)     Journal end - Tue Apr 19 21:10:29 2016
+\t (00:03:39) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:03:39)     Journal start - Sun May 15 17:53:20 2016
+\t (00:03:39)         Host=PSAI-PC User=psai Pid=9288 CPUs=4
+\t (00:03:39) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:03:39) 
+\i (00:03:40) pse_open 
+\i (00:03:41) fillin "s150h90.pad"
+\i (00:03:43) pse_open 
+\i (00:03:55) fillin "E:\cadence lib\foorprint\MINI-KEY\r150_80.pad"
+\i (00:03:55) cd "E:\cadence lib\foorprint\MINI-KEY"
+\t (00:03:55)     Journal end - Sun May 15 17:53:37 2016

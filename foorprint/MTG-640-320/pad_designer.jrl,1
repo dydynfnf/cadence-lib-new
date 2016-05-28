@@ -1,0 +1,9 @@
+\t (00:06:24) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:06:24)     Journal start - Sun May 15 17:56:06 2016
+\t (00:06:24)         Host=PSAI-PC User=psai Pid=9288 CPUs=4
+\t (00:06:24) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:06:24) 
+\i (00:06:27) pse_open 
+\i (00:06:50) fillin "menu_cancel"
+\i (00:06:54) pse_exit
+\t (00:06:55)     Journal end - Sun May 15 17:56:36 2016

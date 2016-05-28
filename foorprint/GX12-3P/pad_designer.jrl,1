@@ -1,0 +1,17 @@
+\t (00:32:30) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:32:30)     Journal start - Sun May 15 17:04:41 2016
+\t (00:32:30)         Host=PSAI-PC User=psai Pid=9732 CPUs=4
+\t (00:32:30) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:32:30) 
+\i (00:32:31) FORM padedit grid row pastemask_top 
+\i (00:32:32) FORM padedit geometry Null 
+\i (00:32:33) FORM padedit grid row pastemask_bottom 
+\i (00:32:34) FORM padedit geometry Null 
+\i (00:32:37) pse_save 
+\i (00:32:38) fillin yes 
+\i (00:32:39) pse_open 
+\i (00:32:45) fillin "menu_cancel"
+\i (00:34:14) pse_open 
+\i (00:34:31) fillin "E:\cadence lib\foorprint\MTG\c640h320.pad"
+\i (00:34:31) cd "E:\cadence lib\foorprint\MTG"
+\t (00:34:31)     Journal end - Sun May 15 17:06:42 2016

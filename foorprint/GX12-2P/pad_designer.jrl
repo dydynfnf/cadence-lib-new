@@ -1,36 +1,12 @@
-\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
-\t (00:00:00)     Journal start - Tue Apr 19 15:14:56 2016
-\t (00:00:00)         Host=PSAI-PC User=psai Pid=5612 CPUs=4
-\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:00:00) 
-\i (00:00:02) setwindow form.padedit
-\i (00:00:02) pse_new 
-\i (00:00:16) fillin "s250h170.pad"
-\i (00:00:19) FORM padedit units Millimeter 
-\i (00:00:20) fillin yes 
-\w (00:00:20) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:00:25) FORM padedit hole_size_x 1.7 
-\i (00:00:30) FORM padedit drill_fig Hexagon X 
-\i (00:00:34) FORM padedit characters A 
-\i (00:00:35) FORM padedit drill_width 1.7 
-\i (00:00:38) FORM padedit drill_height 1.7 
-\i (00:00:41) FORM padedit layers  
-\i (00:00:42) FORM padedit grid row begin_layer 
-\i (00:00:45) FORM padedit geometry Square 
-\i (00:00:47) FORM padedit width 2.5 
-\i (00:00:49) FORM padedit parameters  
-\i (00:00:49) FORM padedit layers  
-\i (00:00:52) FORM padedit grid rpopup begin_layer Copy 
-\i (00:00:53) FORM padedit grid rpopup default_internal Paste 
-\i (00:00:54) FORM padedit grid row end_layer 
-\i (00:00:56) FORM padedit grid rpopup end_layer Paste 
-\i (00:00:58) FORM padedit grid rpopup soldermask_top Paste 
-\i (00:00:59) FORM padedit grid rpopup soldermask_bottom Paste 
-\i (00:01:00) FORM padedit grid rpopup pastemask_top Paste 
-\i (00:01:02) FORM padedit grid rpopup pastemask_bottom Paste 
-\i (00:01:06) FORM padedit parameters  
-\i (00:01:08) FORM padedit layers  
-\i (00:01:13) pse_save 
-\i (00:01:17) FORM padedit parameters  
-\i (00:01:19) pse_exit
-\t (00:01:19)     Journal end - Tue Apr 19 15:16:15 2016
+\t (00:00:18) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:18)     Journal start - Sun May 15 17:49:59 2016
+\t (00:00:18)         Host=PSAI-PC User=psai Pid=9288 CPUs=4
+\t (00:00:18) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:18) 
+\i (00:00:19) FORM padedit layers  
+\i (00:00:21) pse_open 
+\i (00:00:22) fillin "s250h170.pad"
+\i (00:00:24) pse_open 
+\i (00:00:29) fillin "E:\cadence lib\foorprint\GX12-3P\c250h170.pad"
+\i (00:00:29) cd "E:\cadence lib\foorprint\GX12-3P"
+\t (00:00:29)     Journal end - Sun May 15 17:50:10 2016

@@ -1,0 +1,32 @@
+\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:00)     Journal start - Thu May 19 13:43:04 2016
+\t (00:00:00)         Host=PSAI-PC User=psai Pid=7700 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:10) setwindow form.padedit
+\i (00:00:10) FORM padedit layers  
+\i (00:00:10) FORM padedit single YES 
+\i (00:00:12) FORM padedit grid row begin_layer 
+\i (00:00:14) FORM padedit grid row soldermask_top 
+\i (00:00:14) FORM padedit grid row soldermask_bottom 
+\i (00:00:15) FORM padedit grid row begin_layer 
+\i (00:00:17) FORM padedit grid row soldermask_top 
+\i (00:00:18) FORM padedit grid row begin_layer 
+\i (00:00:20) FORM padedit geometry Circle 
+\i (00:00:29) FORM padedit width 0.9 
+\i (00:00:30) FORM padedit grid row soldermask_top 
+\i (00:00:33) FORM padedit grid rpopup begin_layer Copy 
+\i (00:00:44) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:00:47) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:00:54) FORM padedit parameters  
+\i (00:00:54) FORM padedit grid row begin_layer 
+\i (00:01:00) pse_save_as 
+\i (00:01:38) fillin "E:\cadence lib\foorprint\SPU0410HR5H-PB\c90.pad"
+\i (00:06:45) FORM padedit units Millimeter 
+\i (00:06:47) fillin yes 
+\w (00:06:47) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:06:49) pse_open 
+\i (00:06:51) fillin "E:\cadence lib\foorprint\SPU0410HR5H-PB\c90.pad"
+\i (00:06:51) cd "E:\cadence lib\foorprint\SPU0410HR5H-PB"
+\i (00:06:53) fillin yes 
+\t (00:06:53)     Journal end - Thu May 19 13:49:57 2016

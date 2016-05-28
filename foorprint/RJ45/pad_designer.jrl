@@ -1,9 +1,9 @@
-\t (00:00:19) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
-\t (00:00:19)     Journal start - Wed Apr 27 14:21:23 2016
-\t (00:00:19)         Host=PSAI-PC User=psai Pid=5532 CPUs=4
-\t (00:00:19) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:00:19) 
-\i (00:00:21) FORM padedit layers  
-\i (00:00:24) FORM padedit parameters  
-\i (00:00:26) pse_exit
-\t (00:00:26)     Journal end - Wed Apr 27 14:21:30 2016
+\t (00:08:56) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:08:56)     Journal start - Thu May 19 17:57:09 2016
+\t (00:08:56)         Host=PSAI-PC User=psai Pid=1720 CPUs=4
+\t (00:08:56) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:08:56) 
+\i (00:08:58) pse_open 
+\i (00:09:10) fillin "E:\cadence lib\foorprint\MICRO-USB\h50.pad"
+\i (00:09:10) cd "E:\cadence lib\foorprint\MICRO-USB"
+\t (00:09:10)     Journal end - Thu May 19 17:57:23 2016

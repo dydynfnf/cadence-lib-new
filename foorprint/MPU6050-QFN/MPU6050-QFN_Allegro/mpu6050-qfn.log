@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MPU6050-QFN.dra                               )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Wed May 18 20:09:16 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/MPU6050-QFN/MPU6050-QFN_Allegro
+    Name      = mpu6050-qfn.psm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,13 @@
+\t (00:03:56) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:03:56)     Journal start - Sun May 22 13:30:14 2016
+\t (00:03:56)         Host=PSAI-PC User=psai Pid=7028 CPUs=4
+\t (00:03:56) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -s E:/cadence lib/foorprint/OSC-2012/OSC-2012_Allegro/OSC-2012.scr.txt
+\t (00:03:56) 
+\d (00:03:56) Design opened: E:/cadence lib/foorprint/0402/0402_Allegro/0402.dra
+\i (00:03:56) generaledit 
+\i (00:03:58) open 
+\i (00:04:02) fillin "E:\cadence lib\foorprint\0201\0201_Allegro\0201.dra"
+\i (00:04:02) cd "E:\cadence lib\foorprint\0201\0201_Allegro"
+\t (00:04:02) Opening existing design...
+\i (00:04:02) trapsize 248
+\t (00:04:02)     Journal end - Sun May 22 13:30:20 2016

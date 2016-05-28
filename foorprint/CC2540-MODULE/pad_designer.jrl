@@ -1,10 +1,9 @@
-\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
-\t (00:00:00)     Journal start - Wed Dec 30 10:52:46 2015
-\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=12292 CPUs=4
-\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:00:00) 
-\i (00:00:02) setwindow form.padedit
-\i (00:00:02) pse_open 
-\i (00:00:10) fillin "E:\candence lib\PAD\via-8-11.pad"
-\i (00:00:10) cd "E:\candence lib\PAD"
-\t (00:00:10)     Journal end - Wed Dec 30 10:52:57 2015
+\t (00:03:28) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:03:28)     Journal start - Sun May 15 17:53:10 2016
+\t (00:03:28)         Host=PSAI-PC User=psai Pid=9288 CPUs=4
+\t (00:03:28) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:03:28) 
+\i (00:03:31) pse_open 
+\i (00:03:39) fillin "E:\cadence lib\foorprint\LED-3\c150h90.pad"
+\i (00:03:39) cd "E:\cadence lib\foorprint\LED-3"
+\t (00:03:39)     Journal end - Sun May 15 17:53:20 2016

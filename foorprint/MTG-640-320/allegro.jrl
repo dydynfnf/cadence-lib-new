@@ -1,0 +1,16 @@
+\t (00:00:05) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:05)     Journal start - Tue May 24 11:12:26 2016
+\t (00:00:05)         Host=PSAI-PC User=psai Pid=6568 CPUs=4
+\t (00:00:05) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:05) 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: E:/cadence lib/foorprint/MTG-640-320/mtg-640-320.dra
+\i (00:00:07) trapsize 1395
+\i (00:00:07) trapsize 1354
+\i (00:00:07) trapsize 1402
+\i (00:00:08) trapsize 1152
+\i (00:00:08) trapsize 1152
+\i (00:00:08) generaledit 
+\i (00:00:10) new 
+\i (00:00:37) newdrawfillin "mtg-100.dra" "Package Symbol"
+\t (00:00:37)     Journal end - Tue May 24 11:12:58 2016

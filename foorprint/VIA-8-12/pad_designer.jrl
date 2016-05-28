@@ -1,0 +1,17 @@
+\t (00:00:15) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:15)     Journal start - Tue May 24 11:52:41 2016
+\t (00:00:15)         Host=PSAI-PC User=psai Pid=7176 CPUs=4
+\t (00:00:15) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:15) 
+\i (00:00:17) FORM padedit layers  
+\i (00:00:19) FORM padedit grid row begin_layer 
+\i (00:00:23) FORM padedit width 12.0 
+\i (00:00:26) FORM padedit grid rpopup begin_layer Copy 
+\i (00:00:27) FORM padedit grid rpopup default_internal Paste 
+\i (00:00:29) FORM padedit grid rpopup end_layer Paste 
+\i (00:00:34) pse_save 
+\i (00:00:35) fillin yes 
+\i (00:00:37) pse_open 
+\i (00:00:42) fillin "E:\cadence lib\foorprint\VIA-12-16\via-12-16.pad"
+\i (00:00:42) cd "E:\cadence lib\foorprint\VIA-12-16"
+\t (00:00:42)     Journal end - Tue May 24 11:53:08 2016

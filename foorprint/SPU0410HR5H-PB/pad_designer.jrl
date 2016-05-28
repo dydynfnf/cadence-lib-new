@@ -1,0 +1,22 @@
+\t (00:06:53) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:06:53)     Journal start - Thu May 19 13:49:57 2016
+\t (00:06:53)         Host=PSAI-PC User=psai Pid=7700 CPUs=4
+\t (00:06:53) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:06:53) 
+\i (00:06:55) FORM padedit units Millimeter 
+\i (00:06:56) fillin yes 
+\w (00:06:56) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:06:58) FORM padedit layers  
+\i (00:06:59) FORM padedit grid row begin_layer 
+\i (00:07:03) FORM padedit width 0.9 
+\i (00:07:07) FORM padedit grid rpopup begin_layer Copy 
+\i (00:07:09) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:07:11) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:07:17) FORM padedit parameters  
+\i (00:07:19) pse_save 
+\i (00:07:20) fillin yes 
+\i (00:31:05) pse_new 
+\i (00:31:50) fillin "menu_cancel"
+\i (00:31:52) pse_new 
+\i (00:33:01) fillin "r160_80.pad"
+\t (00:33:01)     Journal end - Thu May 19 14:16:05 2016

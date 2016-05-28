@@ -1,0 +1,46 @@
+\t (00:02:43) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:02:43)     Journal start - Tue May 24 11:22:48 2016
+\t (00:02:43)         Host=PSAI-PC User=psai Pid=10164 CPUs=4
+\t (00:02:43) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:02:43) 
+\d (00:02:43) Design opened: E:/cadence lib/foorprint/MTG-100/mtg-100.dra
+\i (00:02:43) generaledit 
+\i (00:02:47) pick grid -0.3219 0.3900
+\t (00:02:47) last pick:  -0.3000 0.4000
+\i (00:02:49) pick grid -0.4083 1.0638
+\t (00:02:49) last pick:  -0.4000 1.1000
+\i (00:02:51) pick grid -0.3968 0.4476
+\t (00:02:51) last pick:  -0.4000 0.4000
+\i (00:02:53) add pin 
+\t (00:02:53) Using 'H100.pad'.
+\i (00:03:00) delete 
+\t (00:03:00) Exiting from Add Pin.
+\i (00:03:00) generaledit 
+\i (00:03:02) add pin 
+\t (00:03:02) Using 'H100.pad'.
+\i (00:03:09) pick 0 0 
+\t (00:03:09) last pick:  0.0000 0.0000
+\t (00:03:09) Using 'H100.pad'.
+\i (00:03:10) prepopup -1.0648 1.6513
+\i (00:03:10) done 
+\t (00:03:10) Exiting from Add Pin.
+\i (00:03:10) generaledit 
+\i (00:03:13) text edit 
+\i (00:03:13) pick grid -1.4738 0.3093
+\t (00:03:13) last pick:  -1.5000 0.3000
+\i (00:03:15) setwindow pcb
+\i (00:03:15) prepopup -1.1052 1.2078
+\i (00:03:16) done 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) pick -1.4738 0.3093
+\t (00:03:16) Pick text to edit.
+\i (00:03:16) setwindow pcb
+\i (00:03:16) generaledit 
+\i (00:03:16) pick grid -1.3931 1.3575
+\t (00:03:16) last pick:  -1.4000 1.4000
+\i (00:03:18) save 
+\i (00:03:19) fillin yes 
+\t (00:03:19) Symbol 'mtg-100.psm' created.
+\i (00:03:19) generaledit 
+\i (00:03:25) exit 
+\t (00:03:25)     Journal end - Tue May 24 11:23:29 2016

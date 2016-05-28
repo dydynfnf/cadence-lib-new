@@ -1,0 +1,49 @@
+\t (00:00:44) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:44)     Journal start - Tue May 24 11:08:50 2016
+\t (00:00:44)         Host=PSAI-PC User=psai Pid=7388 CPUs=4
+\t (00:00:44) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:44) 
+\i (00:00:45) FORM padedit units Millimeter 
+\i (00:00:46) fillin yes 
+\w (00:00:46) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:50) FORM padedit plating Non-Plated 
+\i (00:01:01) FORM padedit hole_size_x 1 
+\i (00:01:08) FORM padedit drill_fig Hexagon X 
+\i (00:01:10) FORM padedit characters A 
+\i (00:01:11) FORM padedit drill_width 1 
+\i (00:01:12) FORM padedit drill_height 1 
+\i (00:01:13) FORM padedit layers  
+\i (00:01:14) FORM padedit grid row begin_layer 
+\i (00:01:16) FORM padedit geometry Circle 
+\i (00:01:20) FORM padedit width 1 
+\i (00:01:20) FORM padedit grid row default_internal 
+\i (00:01:21) FORM padedit grid row begin_layer 
+\i (00:01:25) FORM padedit grid rpopup begin_layer Copy 
+\i (00:01:27) FORM padedit grid rpopup default_internal Paste 
+\i (00:01:28) FORM padedit grid rpopup end_layer Paste 
+\i (00:01:37) FORM padedit width 0.1000 
+\i (00:01:40) FORM padedit grid rpopup begin_layer Copy 
+\i (00:01:42) FORM padedit grid rpopup default_internal Paste 
+\i (00:01:43) FORM padedit grid rpopup end_layer Paste 
+\i (00:02:28) FORM padedit parameters  
+\i (00:02:29) FORM padedit layers  
+\i (00:02:30) FORM padedit parameters  
+\i (00:02:57) FORM padedit layers  
+\i (00:02:58) FORM padedit parameters  
+\i (00:03:04) pse_save 
+\i (00:03:05) setwindow text
+\i (00:03:05) close 
+\i (00:03:06) fillin yes 
+\i (00:03:10) setwindow form.padedit
+\i (00:03:10) FORM padedit layers  
+\i (00:03:12) FORM padedit parameters  
+\i (00:03:22) FORM padedit layers  
+\i (00:03:58) FORM padedit parameters  
+\i (00:04:03) pse_save 
+\i (00:04:04) setwindow text
+\i (00:04:04) close 
+\i (00:04:05) fillin yes 
+\i (00:04:06) fillin yes 
+\i (00:04:07) setwindow form.padedit
+\i (00:04:07) pse_exit
+\t (00:04:07)     Journal end - Tue May 24 11:12:14 2016

@@ -1,0 +1,27 @@
+\t (00:00:55) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:55)     Journal start - Tue Apr 19 17:22:11 2016
+\t (00:00:55)         Host=PSAI-PC User=psai Pid=8644 CPUs=4
+\t (00:00:55) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:55) 
+\i (00:00:56) FORM padedit grid row begin_layer 
+\i (00:01:08) FORM padedit grid row soldermask_top 
+\i (00:01:09) FORM padedit grid row begin_layer 
+\i (00:01:13) FORM padedit height 0.8000 
+\i (00:01:15) FORM padedit grid rpopup begin_layer Copy 
+\i (00:01:17) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:01:19) FORM padedit grid rpopup pastemask_top Copy 
+\i (00:01:19) FORM padedit grid row pastemask_top 
+\i (00:01:21) FORM padedit grid row soldermask_top 
+\i (00:01:21) FORM padedit grid row begin_layer 
+\i (00:01:25) FORM padedit grid rpopup begin_layer Copy 
+\i (00:01:26) FORM padedit grid rpopup pastemask_top Paste 
+\i (00:01:27) FORM padedit grid row pastemask_top 
+\i (00:01:28) FORM padedit grid row soldermask_top 
+\i (00:01:28) FORM padedit grid row begin_layer 
+\i (00:01:29) FORM padedit parameters  
+\i (00:01:32) FORM padedit layers  
+\i (00:01:33) FORM padedit parameters  
+\i (00:01:39) pse_save 
+\i (00:01:40) fillin yes 
+\i (00:01:45) pse_exit
+\t (00:01:45)     Journal end - Tue Apr 19 17:23:01 2016

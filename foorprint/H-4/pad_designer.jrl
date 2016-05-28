@@ -1,11 +1,15 @@
-\t (00:00:00) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
-\t (00:00:00)     Journal start - Tue Dec 29 12:08:16 2015
-\t (00:00:00)         Host=HFP-20120615TNE User=Administrator Pid=11432 CPUs=4
-\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:00:00) 
-\i (00:00:02) setwindow form.padedit
-\i (00:00:02) pse_open 
-\i (00:00:04) fillin "s160h105t155_190_40.pad"
-\i (00:00:04) FORM padedit layers  
-\i (00:00:08) pse_exit
-\t (00:00:08)     Journal end - Tue Dec 29 12:08:24 2015
+\t (00:00:56) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:56)     Journal start - Sun May 15 17:50:38 2016
+\t (00:00:56)         Host=PSAI-PC User=psai Pid=9288 CPUs=4
+\t (00:00:56) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:56) 
+\i (00:00:57) FORM padedit grid row pastemask_top 
+\i (00:01:00) FORM padedit geometry Null 
+\i (00:01:00) FORM padedit grid row pastemask_bottom 
+\i (00:01:02) FORM padedit geometry Null 
+\i (00:01:04) pse_save 
+\i (00:01:05) fillin yes 
+\i (00:01:07) pse_open 
+\i (00:01:11) fillin "E:\cadence lib\foorprint\H-8\c160h105t155_190_40.pad"
+\i (00:01:11) cd "E:\cadence lib\foorprint\H-8"
+\t (00:01:11)     Journal end - Sun May 15 17:50:52 2016

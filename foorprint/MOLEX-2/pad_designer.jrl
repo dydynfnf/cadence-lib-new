@@ -1,30 +1,15 @@
-\t (00:10:30) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
-\t (00:10:30)     Journal start - Wed Apr 27 13:15:00 2016
-\t (00:10:30)         Host=PSAI-PC User=psai Pid=35628 CPUs=4
-\t (00:10:30) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:10:30) 
-\i (00:10:35) FORM padedit layers  
-\i (00:10:37) FORM padedit grid row begin_layer 
-\i (00:10:41) FORM padedit width 0.5 
-\i (00:10:44) FORM padedit grid rpopup begin_layer Copy 
-\i (00:10:45) FORM padedit grid rpopup default_internal Paste 
-\i (00:10:46) FORM padedit grid rpopup end_layer Copy 
-\i (00:10:49) FORM padedit grid rpopup begin_layer Copy 
-\i (00:10:52) FORM padedit grid rpopup end_layer Paste 
-\i (00:10:54) FORM padedit grid rpopup soldermask_top Paste 
-\i (00:10:55) FORM padedit grid row soldermask_bottom 
-\i (00:10:57) FORM padedit grid row pastemask_top 
-\i (00:10:59) FORM padedit grid rpopup soldermask_bottom Paste 
-\i (00:11:00) FORM padedit grid rpopup pastemask_top Paste 
-\i (00:11:02) FORM padedit grid rpopup pastemask_bottom Paste 
-\i (00:11:04) FORM padedit parameters  
-\i (00:11:08) pse_save 
-\i (00:11:09) setwindow text
-\i (00:11:09) close 
-\i (00:11:10) fillin yes 
-\i (00:11:12) fillin yes 
-\i (00:11:23) setwindow form.padedit
-\i (00:11:23) pse_open 
-\i (00:11:29) fillin "E:\cadence lib\foorprint\MOLEX-2-2\h100.pad"
-\i (00:11:29) cd "E:\cadence lib\foorprint\MOLEX-2-2"
-\t (00:11:29)     Journal end - Wed Apr 27 13:15:59 2016
+\t (00:04:54) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:04:54)     Journal start - Sun May 15 17:54:35 2016
+\t (00:04:54)         Host=PSAI-PC User=psai Pid=9288 CPUs=4
+\t (00:04:54) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:04:54) 
+\i (00:04:55) FORM padedit layers  
+\i (00:04:57) pse_open 
+\i (00:04:58) fillin "h100.pad"
+\i (00:05:01) pse_open 
+\i (00:05:02) fillin "s150h100.pad"
+\i (00:05:02) FORM padedit grid row default_internal 
+\i (00:05:04) pse_open 
+\i (00:05:09) fillin "E:\cadence lib\foorprint\MOLEX-2-2\c150h100.pad"
+\i (00:05:09) cd "E:\cadence lib\foorprint\MOLEX-2-2"
+\t (00:05:09)     Journal end - Sun May 15 17:54:50 2016

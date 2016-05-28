@@ -1,0 +1,52 @@
+\t (00:37:16) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:37:16)     Journal start - Tue May 24 10:05:17 2016
+\t (00:37:16)         Host=PSAI-PC User=psai Pid=4420 CPUs=4
+\t (00:37:16) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:37:16) 
+\d (00:37:16) Design opened: E:/cadence lib/foorprint/BK8000L-MODULE/bk8000l-module.dra
+\i (00:37:16) generaledit 
+\i (00:37:17) zoom in 1 
+\i (00:37:17) setwindow pcb
+\i (00:37:17) zoom in 6.6545 5.9911
+\i (00:37:17) trapsize 1508
+\i (00:37:18) zoom out 1 
+\i (00:37:18) setwindow pcb
+\i (00:37:18) zoom out 6.6545 7.0768
+\i (00:37:18) trapsize 3016
+\i (00:37:19) roam start
+\i (00:37:19) roam x -16
+\i (00:37:19) roam y 64
+\i (00:37:20) roam x -16
+\i (00:37:20) roam y 32
+\i (00:37:20) roam y 32
+\i (00:37:20) roam y -16
+\i (00:37:20) roam x 16
+\i (00:37:20) roam y -16
+\i (00:37:20) roam x 16
+\i (00:37:20) roam y -32
+\i (00:37:20) roam end
+\i (00:37:28) zoom in 1 
+\i (00:37:28) setwindow pcb
+\i (00:37:28) zoom in 14.4354 -0.4025
+\i (00:37:28) trapsize 1508
+\i (00:37:29) zoom out 1 
+\i (00:37:29) setwindow pcb
+\i (00:37:29) zoom out 14.4354 -0.4025
+\i (00:37:29) trapsize 3016
+\i (00:37:31) show measure 
+\i (00:37:34) pick grid 14.5559 -0.3422
+\t (00:37:34) last pick:  14.6000 -0.3000
+\i (00:37:37) pick grid -1.1868 25.4734
+\t (00:37:37) last pick:  -1.2000 25.5000
+\i (00:37:46) setwindow text
+\i (00:37:46) close 
+\i (00:37:50) setwindow pcb
+\i (00:37:50) open 
+\i (00:38:12) fillin "E:\material\glass\workspace\hardware\5.glass v1.0\core-pcb\core.brd"
+\i (00:38:12) cd "E:\material\glass\workspace\hardware\5.glass v1.0\core-pcb"
+\t (00:38:12) Opening existing design...
+\i (00:38:12) trapsize 16537
+\i (00:38:12) trapsize 16073
+\i (00:38:12) trapsize 16537
+\i (00:38:12) trapsize 16537
+\t (00:38:13)     Journal end - Tue May 24 10:06:14 2016

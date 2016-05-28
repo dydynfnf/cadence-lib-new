@@ -1,28 +1,11 @@
-\t (00:04:34) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
-\t (00:04:34)     Journal start - Wed Apr 27 13:29:47 2016
-\t (00:04:34)         Host=PSAI-PC User=psai Pid=5156 CPUs=4
-\t (00:04:34) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:04:34) 
-\i (00:04:37) FORM padedit layers  
-\i (00:04:37) FORM padedit grid row begin_layer 
-\i (00:04:41) FORM padedit width 0.1000 
-\i (00:04:43) FORM padedit parameters  
-\i (00:04:44) FORM padedit layers  
-\i (00:04:48) FORM padedit grid rpopup begin_layer Copy 
-\i (00:04:49) FORM padedit grid rpopup default_internal Paste 
-\i (00:04:50) FORM padedit grid rpopup end_layer Paste 
-\i (00:04:51) FORM padedit grid rpopup soldermask_top Paste 
-\i (00:04:53) FORM padedit grid rpopup soldermask_bottom Paste 
-\i (00:04:54) FORM padedit grid rpopup pastemask_top Paste 
-\i (00:04:56) FORM padedit grid rpopup pastemask_bottom Paste 
-\i (00:04:58) FORM padedit parameters  
-\i (00:05:04) pse_save 
-\i (00:05:05) setwindow text
-\i (00:05:05) close 
-\i (00:05:06) fillin yes 
-\i (00:05:06) fillin yes 
-\i (00:05:09) setwindow form.padedit
-\i (00:05:09) pse_open 
-\i (00:05:20) fillin "E:\cadence lib\foorprint\RJ45\h350.pad"
-\i (00:05:20) cd "E:\cadence lib\foorprint\RJ45"
-\t (00:05:20)     Journal end - Wed Apr 27 13:30:33 2016
+\t (00:05:28) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:05:28)     Journal start - Wed Apr 27 13:30:41 2016
+\t (00:05:28)         Host=PSAI-PC User=psai Pid=5156 CPUs=4
+\t (00:05:28) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:05:28) 
+\i (00:05:29) FORM padedit layers  
+\i (00:05:30) FORM padedit parameters  
+\i (00:05:32) pse_open 
+\i (00:05:49) fillin "E:\cadence lib\foorprint\KEY-HD11\h85.pad"
+\i (00:05:49) cd "E:\cadence lib\foorprint\KEY-HD11"
+\t (00:05:49)     Journal end - Wed Apr 27 13:31:02 2016

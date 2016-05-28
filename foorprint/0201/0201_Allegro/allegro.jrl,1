@@ -1,0 +1,17 @@
+\t (00:04:02) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:04:02)     Journal start - Sun May 22 13:30:20 2016
+\t (00:04:02)         Host=PSAI-PC User=psai Pid=7028 CPUs=4
+\t (00:04:02) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -s E:/cadence lib/foorprint/OSC-2012/OSC-2012_Allegro/OSC-2012.scr.txt
+\t (00:04:02) 
+\d (00:04:02) Design opened: E:/cadence lib/foorprint/0201/0201_Allegro/0201.dra
+\i (00:04:02) generaledit 
+\e (00:05:54) Command not found: xhilite
+\i (00:05:54) xname_flush 
+\i (00:05:54) done 
+\i (00:05:54) generaledit 
+\e (00:07:30) Command not found: xhilite
+\i (00:07:30) xname_flush 
+\i (00:07:30) done 
+\i (00:07:30) generaledit 
+\i (00:14:47) exit 
+\t (00:14:48)     Journal end - Sun May 22 13:41:05 2016

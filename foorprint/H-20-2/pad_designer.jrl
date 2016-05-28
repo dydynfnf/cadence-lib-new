@@ -1,11 +1,23 @@
-\t (00:04:49) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
-\t (00:04:49)     Journal start - Sun Apr 17 11:24:23 2016
-\t (00:04:49)         Host=PSAI-PC User=psai Pid=6292 CPUs=4
-\t (00:04:49) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:04:49) 
-\i (00:04:53) pse_new 
-\i (00:05:06) fillin "menu_cancel"
-\i (00:05:08) pse_open 
-\i (00:05:25) fillin "E:\cadence lib\foorprint\RJ45\c150h100.pad"
-\i (00:05:25) cd "E:\cadence lib\foorprint\RJ45"
-\t (00:05:25)     Journal end - Sun Apr 17 11:24:59 2016
+\t (00:02:15) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:02:15)     Journal start - Sun May 15 17:51:57 2016
+\t (00:02:15)         Host=PSAI-PC User=psai Pid=9288 CPUs=4
+\t (00:02:15) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:02:15) 
+\i (00:02:16) FORM padedit grid row pastemask_top 
+\i (00:02:19) FORM padedit geometry Null 
+\i (00:02:19) FORM padedit grid row pastemask_bottom 
+\i (00:02:20) FORM padedit geometry Null 
+\i (00:02:24) pse_save 
+\i (00:02:25) fillin yes 
+\i (00:02:27) pse_open 
+\i (00:02:29) fillin "s160h105t155_190_40.pad"
+\i (00:02:30) FORM padedit grid row pastemask_top 
+\i (00:02:32) FORM padedit geometry Null 
+\i (00:02:33) FORM padedit grid row pastemask_bottom 
+\i (00:02:34) FORM padedit geometry Null 
+\i (00:02:37) pse_save 
+\i (00:02:38) fillin yes 
+\i (00:02:39) pse_open 
+\i (00:02:47) fillin "E:\cadence lib\foorprint\KEY-3-6\r200_127.pad"
+\i (00:02:47) cd "E:\cadence lib\foorprint\KEY-3-6"
+\t (00:02:47)     Journal end - Sun May 15 17:52:29 2016
