@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ADBS-A320-QFN.dra                             )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Fri Jun 03 14:07:03 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/ADBS-A320-QFN/ADBS-A320-QFN_Allegro
+    Name      = adbs-a320-qfn.psm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

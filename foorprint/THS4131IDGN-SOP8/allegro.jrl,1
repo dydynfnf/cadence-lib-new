@@ -1,0 +1,21 @@
+\t (00:00:31) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:31)     Journal start - Mon Jun 06 15:45:30 2016
+\t (00:00:31)         Host=PSAI-PC User=psai Pid=3984 CPUs=4
+\t (00:00:31) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:31) 
+\d (00:00:31) Design opened: E:/cadence lib/foorprint/THS4131IDGN-SOP8/ths4131idgn-sop8.dra
+\i (00:00:31) generaledit 
+\i (00:00:33) pick grid 0.5166 6.5752
+\t (00:00:33) last pick:  0.0000 7.6200
+\i (00:00:34) move 
+\t (00:00:34) Select element(s) to move.
+\i (00:00:34) delete 
+\i (00:00:34) move 
+\t (00:00:34) Select element(s) to move.
+\i (00:00:34) delete 
+\i (00:00:36) save 
+\i (00:00:37) fillin yes 
+\t (00:00:40) Symbol 'ths4131idgn-sop8.psm' created.
+\i (00:00:40) generaledit 
+\i (00:00:42) exit 
+\t (00:00:42)     Journal end - Mon Jun 06 15:45:41 2016

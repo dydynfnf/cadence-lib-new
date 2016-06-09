@@ -1,8 +1,9 @@
-\t (00:00:08) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
-\t (00:00:08)     Journal start - Wed May 25 10:17:27 2016
-\t (00:00:08)         Host=PSAI-PC User=psai Pid=4504 CPUs=4
-\t (00:00:08) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
-\t (00:00:08) 
-\i (00:00:10) FORM padedit layers  
-\i (00:00:12) pse_exit
-\t (00:00:12)     Journal end - Wed May 25 10:17:31 2016
+\t (00:00:00) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:00)     Journal start - Wed Jun 08 12:18:52 2016
+\t (00:00:00)         Host=PSAI-PC User=psai Pid=8448 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:01:29) setwindow form.padedit
+\i (00:01:29) pse_new 
+\i (00:04:28) fillin "c80h60.pad"
+\t (00:04:28)     Journal end - Wed Jun 08 12:23:21 2016

@@ -1,0 +1,28 @@
+\t (00:01:07) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:01:07)     Journal start - Sun May 15 16:33:18 2016
+\t (00:01:07)         Host=PSAI-PC User=psai Pid=9732 CPUs=4
+\t (00:01:07) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:01:07) 
+\i (00:01:08) FORM padedit layers  
+\i (00:01:12) FORM padedit grid row pastemask_top 
+\i (00:01:15) FORM padedit geometry Null 
+\i (00:01:16) FORM padedit grid row pastemask_bottom 
+\i (00:01:17) FORM padedit geometry Null 
+\i (00:01:21) FORM padedit parameters  
+\i (00:01:24) pse_save 
+\i (00:01:41) fillin yes 
+\i (00:09:08) pse_open 
+\i (00:09:26) fillin "s160h105t155_190_40.pad"
+\i (00:09:28) FORM padedit layers  
+\i (00:09:30) FORM padedit grid row pastemask_top 
+\i (00:09:31) FORM padedit geometry Null 
+\i (00:09:32) FORM padedit grid row pastemask_bottom 
+\i (00:09:33) FORM padedit geometry Null 
+\i (00:09:35) pse_save 
+\i (00:09:37) fillin yes 
+\i (00:09:40) pse_open 
+\i (00:10:02) fillin "menu_cancel"
+\i (00:10:47) pse_open 
+\i (00:10:54) fillin "E:\cadence lib\foorprint\VIA-8-11\via-8-11.pad"
+\i (00:10:54) cd "E:\cadence lib\foorprint\VIA-8-11"
+\t (00:10:54)     Journal end - Sun May 15 16:43:05 2016

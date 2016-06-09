@@ -1,0 +1,1171 @@
+\t (00:00:05) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:05)     Journal start - Fri Jun 03 14:06:47 2016
+\t (00:00:05)         Host=PSAI-PC User=psai Pid=6544 CPUs=4
+\t (00:00:05) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe -s E:/cadence lib/foorprint/ADBS-A320-QFN/ADBS-A320-QFN_Allegro/ADBS-A320-QFN.scr.txt
+\t (00:00:05) 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 868
+\i (00:00:05) trapsize 843
+\i (00:00:05) trapsize 868
+\i (00:00:06) trapsize 1121
+\i (00:00:06) trapsize 1121
+\i (00:00:06) generaledit 
+\i (00:00:06) prmed 
+\i (00:00:06) setwindow Form.prmedit 
+\i (00:00:06) FORM prmedit design 
+\i (00:00:06) FORM prmedit lock_direction Off 
+\i (00:00:06) FORM prmedit units Millimeter 
+\e (00:00:06) Change may cause round-off; run dbcheck.
+\i (00:00:06) FORM prmedit accuracy 4 
+\i (00:00:06) FORM prmedit size Other 
+\i (00:00:06) FORM prmedit x -15.8500 
+\i (00:00:06) FORM prmedit y -14.4750 
+\i (00:00:06) FORM prmedit width 31.4000 
+\i (00:00:06) FORM prmedit height 29.2000 
+\i (00:00:06) FORM prmedit done 
+\w (00:00:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:06) trapsize 1926
+\t (00:00:06) Performing DRC...
+\t (00:00:06) No DRC errors detected.
+\i (00:00:06) shape add 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) setwindow Form.mini 
+\i (00:00:06) FORM mini dyns_fill_type Static solid 
+\i (00:00:06) FORM mini dyns_grid None 
+\i (00:00:06) FORM mini dyns_lock_mode Line 
+\i (00:00:06) setwindow pcb 
+\i (00:00:06) pick -1.6000 1.1000 
+\t (00:00:06) last pick:  -1.6000 1.1000
+\i (00:00:06) pick -1.4000 1.3000 
+\t (00:00:06) last pick:  -1.4000 1.3000
+\i (00:00:06) pick 1.6000 1.3000 
+\t (00:00:06) last pick:  1.6000 1.3000
+\i (00:00:06) pick 1.6000 -1.3000 
+\t (00:00:06) last pick:  1.6000 -1.3000
+\i (00:00:06) pick -1.6000 -1.3000 
+\t (00:00:06) last pick:  -1.6000 -1.3000
+\i (00:00:06) pick -1.6000 1.1000 
+\t (00:00:06) last pick:  -1.6000 1.1000
+\i (00:00:06) done 
+\i (00:00:06) save_as 
+\i (00:00:06) fillin dummy 
+\t (00:00:09) Symbol 'dummy.ssm' created.
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) new r320_260c20_TOP.dra 'Shape Symbol' 
+\t (00:00:09) Starting new design...
+\i (00:00:09) trapsize 1926
+\i (00:00:09) trapsize 1926
+\i (00:00:09) generaledit 
+\i (00:00:09) prmed 
+\i (00:00:09) setwindow Form.prmedit 
+\i (00:00:09) FORM prmedit design 
+\i (00:00:09) FORM prmedit lock_direction Off 
+\i (00:00:09) FORM prmedit units Millimeter 
+\i (00:00:09) FORM prmedit accuracy 4 
+\i (00:00:09) FORM prmedit size Other 
+\i (00:00:09) FORM prmedit x -15.8500 
+\i (00:00:09) FORM prmedit y -14.4750 
+\i (00:00:09) FORM prmedit width 31.4000 
+\i (00:00:09) FORM prmedit height 29.2000 
+\i (00:00:09) FORM prmedit done 
+\i (00:00:09) shape add 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) setwindow Form.mini 
+\i (00:00:09) FORM mini dyns_fill_type Static solid 
+\i (00:00:09) FORM mini dyns_grid None 
+\i (00:00:09) FORM mini dyns_lock_mode Line 
+\i (00:00:09) setwindow pcb 
+\i (00:00:09) pick -1.6000 1.1000 
+\t (00:00:09) last pick:  -1.6000 1.1000
+\i (00:00:09) pick -1.4000 1.3000 
+\t (00:00:09) last pick:  -1.4000 1.3000
+\i (00:00:09) pick 1.6000 1.3000 
+\t (00:00:09) last pick:  1.6000 1.3000
+\i (00:00:09) pick 1.6000 -1.3000 
+\t (00:00:09) last pick:  1.6000 -1.3000
+\i (00:00:09) pick -1.6000 -1.3000 
+\t (00:00:09) last pick:  -1.6000 -1.3000
+\i (00:00:09) pick -1.6000 1.1000 
+\t (00:00:09) last pick:  -1.6000 1.1000
+\i (00:00:09) done 
+\i (00:00:09) save_as 
+\i (00:00:09) fillin r320_260c20_TOP 
+\t (00:00:10) Symbol 'r320_260c20_top.ssm' created.
+\i (00:00:10) setwindow pcb 
+\i (00:00:10) new r320_260c20_SM.dra 'Shape Symbol' 
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 1926
+\i (00:00:10) trapsize 1926
+\i (00:00:10) generaledit 
+\i (00:00:10) prmed 
+\i (00:00:11) setwindow Form.prmedit 
+\i (00:00:11) FORM prmedit design 
+\i (00:00:11) FORM prmedit lock_direction Off 
+\i (00:00:11) FORM prmedit units Millimeter 
+\i (00:00:11) FORM prmedit accuracy 4 
+\i (00:00:11) FORM prmedit size Other 
+\i (00:00:11) FORM prmedit x -15.8500 
+\i (00:00:11) FORM prmedit y -14.4750 
+\i (00:00:11) FORM prmedit width 31.4000 
+\i (00:00:11) FORM prmedit height 29.2000 
+\i (00:00:11) FORM prmedit done 
+\i (00:00:11) shape add 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) setwindow Form.mini 
+\i (00:00:11) FORM mini dyns_fill_type Static solid 
+\i (00:00:11) FORM mini dyns_grid None 
+\i (00:00:11) FORM mini dyns_lock_mode Line 
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) pick -1.6000 1.1000 
+\t (00:00:11) last pick:  -1.6000 1.1000
+\i (00:00:11) pick -1.4000 1.3000 
+\t (00:00:11) last pick:  -1.4000 1.3000
+\i (00:00:11) pick 1.6000 1.3000 
+\t (00:00:11) last pick:  1.6000 1.3000
+\i (00:00:11) pick 1.6000 -1.3000 
+\t (00:00:11) last pick:  1.6000 -1.3000
+\i (00:00:11) pick -1.6000 -1.3000 
+\t (00:00:11) last pick:  -1.6000 -1.3000
+\i (00:00:11) pick -1.6000 1.1000 
+\t (00:00:11) last pick:  -1.6000 1.1000
+\i (00:00:11) done 
+\i (00:00:11) save_as 
+\i (00:00:11) fillin r320_260c20_SM 
+\t (00:00:11) Symbol 'r320_260c20_sm.ssm' created.
+\i (00:00:11) setwindow pcb 
+\i (00:00:11) new r320_260c20_PM.dra 'Shape Symbol' 
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 1926
+\i (00:00:11) trapsize 1926
+\i (00:00:11) generaledit 
+\i (00:00:11) prmed 
+\i (00:00:11) setwindow Form.prmedit 
+\i (00:00:11) FORM prmedit design 
+\i (00:00:11) FORM prmedit lock_direction Off 
+\i (00:00:11) FORM prmedit units Millimeter 
+\i (00:00:11) FORM prmedit accuracy 4 
+\i (00:00:11) FORM prmedit size Other 
+\i (00:00:11) FORM prmedit x -15.8500 
+\i (00:00:11) FORM prmedit y -14.4750 
+\i (00:00:11) FORM prmedit width 31.4000 
+\i (00:00:11) FORM prmedit height 29.2000 
+\i (00:00:11) FORM prmedit done 
+\i (00:00:12) shape add 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) setwindow Form.mini 
+\i (00:00:12) FORM mini dyns_fill_type Static solid 
+\i (00:00:12) FORM mini dyns_grid None 
+\i (00:00:12) FORM mini dyns_lock_mode Line 
+\i (00:00:12) setwindow pcb 
+\i (00:00:12) pick -1.6000 1.1000 
+\t (00:00:12) last pick:  -1.6000 1.1000
+\i (00:00:12) pick -1.4000 1.3000 
+\t (00:00:12) last pick:  -1.4000 1.3000
+\i (00:00:12) pick 1.6000 1.3000 
+\t (00:00:12) last pick:  1.6000 1.3000
+\i (00:00:12) pick 1.6000 -1.3000 
+\t (00:00:12) last pick:  1.6000 -1.3000
+\i (00:00:12) pick -1.6000 -1.3000 
+\t (00:00:12) last pick:  -1.6000 -1.3000
+\i (00:00:12) pick -1.6000 1.1000 
+\t (00:00:12) last pick:  -1.6000 1.1000
+\i (00:00:12) done 
+\i (00:00:12) save_as 
+\i (00:00:12) fillin r320_260c20_PM 
+\t (00:00:13) Symbol 'r320_260c20_pm.ssm' created.
+\i (00:00:13) padeditlib 
+\i (00:00:13) fillin r320_260c20.pad 
+\i (00:00:13) setwindow form.padedit 
+\i (00:00:13) pse_new 
+\i (00:00:13) fillin r320_260c20.pad 
+\i (00:00:13) FORM padedit parameters 
+\i (00:00:13) FORM padedit decimal_places 4 
+\i (00:00:13) FORM padedit units Millimeter 
+\i (00:00:13) fillin yes 
+\w (00:00:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:13) FORM padedit inner_layer_opt YES 
+\e (00:00:13) Form field label not found
+\i (00:00:13) FORM padedit single YES 
+\i (00:00:13) setwindow Form.padedit 
+\i (00:00:13) FORM padedit layers 
+\i (00:00:13) FORM padedit grid row begin_layer 
+\i (00:00:13) FORM padedit grid change begin_layer,begin_layer TOP 
+\e (00:00:13) Row,Column value is not valid for field.
+\i (00:00:13) FORM padedit geometry Shape 
+\i (00:00:13) FORM padedit shapebutton 
+\i (00:00:13) fillin r320_260c20_TOP 
+\i (00:00:13) FORM padedit grid row SOLDERMASK_TOP 
+\i (00:00:13) FORM padedit geometry Shape 
+\i (00:00:13) FORM padedit shapename r320_260c20_SM 
+\i (00:00:13) FORM padedit grid row PASTEMASK_TOP 
+\i (00:00:13) FORM padedit geometry Shape 
+\i (00:00:13) FORM padedit shapename r320_260c20_PM 
+\i (00:00:13) pse_check 
+\i (00:00:13) pse_save 
+\e (00:00:13) Window is disabled, command may not be allowed: fillin yes
+\i (00:00:13) pse_exit 
+\i (00:00:13) fillin menu_cancel 
+\i (00:00:13) fillin yes 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) generaledit 
+\i (00:00:13) setwindow pcb 
+\i (00:00:13) trapsize 437 
+\i (00:00:13) generaledit 
+\i (00:00:13) prmed 
+\i (00:00:14) setwindow form.prmedit 
+\i (00:00:14) FORM prmedit type Mechanical 
+\i (00:00:14) FORM prmedit apply 
+\i (00:00:14) FORM prmedit type Package 
+\i (00:00:14) FORM prmedit apply 
+\i (00:00:14) FORM prmedit done 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) generaledit 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) new ADBS-A320-QFN.dra 'Package Symbol' 
+\t (00:00:14) Starting new design...
+\i (00:00:14) trapsize 1926
+\i (00:00:14) trapsize 1926
+\i (00:00:14) setwindow Form.vf_vis 
+\i (00:00:14) FORM vf_vis 1 all_colorvisible YES 
+\i (00:00:14) FORM vf_vis 2 all_colorvisible YES 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) Color 
+\i (00:00:14) setwindow form.cvf_main
+\i (00:00:14) FORM cvf_main class_list Geometry
+\i (00:00:14) setwindow Form.cvf_main 
+\i (00:00:14) FORM cvf_main class_list Components 
+\i (00:00:14) FORM cvf_main all_visible1 YES 
+\i (00:00:14) FORM cvf_main all_visible2 YES 
+\i (00:00:14) FORM cvf_main all_visible3 YES 
+\i (00:00:14) FORM cvf_main class_list Geometry 
+\i (00:00:14) FORM cvf_main all_visible5 YES 
+\i (00:00:14) FORM cvf_main package_geometry/pin_number/visible NO 
+\i (00:00:14) FORM cvf_main class_list Stack-Up 
+\i (00:00:14) FORM cvf_main all_visible1 YES 
+\i (00:00:14) FORM cvf_main ok 
+\i (00:00:14) setwindow pcb 
+\i (00:00:14) generaledit 
+\i (00:00:14) color192 
+\i (00:00:15) setwindow cvf.dialog
+\i (00:00:15) cvf layer_mode
+\i (00:00:15) setwindow cvf.dialog 
+\i (00:00:15) cvf layer_mode 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) generaledit 
+\i (00:00:15) setwindow cvf.dialog 
+\i (00:00:15) cvf layer_tree_item Manufacturing 
+\i (00:00:15) cvf layer_tree_item 'Manufacturing'
+\i (00:00:15) cvf layer_tree_item 'Manufacturing'
+\i (00:00:15) cvf layers_visible manufacturing/no_probe_top FALSE 
+\i (00:00:15) cvf layers_visible manufacturing/no_probe_top FALSE
+\i (00:00:15) cvf layers_visible manufacturing/no_probe_bottom FALSE 
+\i (00:00:15) cvf layers_visible manufacturing/no_probe_bottom FALSE
+\i (00:00:15) cvf apply 
+\i (00:00:15) cvf apply
+\i (00:00:15) cvf okay 
+\i (00:00:15) cvf okay
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) generaledit 
+\i (00:00:15) prmed 
+\i (00:00:15) setwindow Form.prmedit 
+\i (00:00:15) FORM prmedit design 
+\i (00:00:15) FORM prmedit lock_direction Off 
+\i (00:00:15) FORM prmedit units Millimeter 
+\i (00:00:15) FORM prmedit accuracy 4 
+\i (00:00:15) FORM prmedit size Other 
+\i (00:00:15) FORM prmedit x -15.8500 
+\i (00:00:15) FORM prmedit y -14.4750 
+\i (00:00:15) FORM prmedit width 31.4000 
+\i (00:00:15) FORM prmedit height 29.2000 
+\i (00:00:15) FORM prmedit done 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) add pin 
+\i (00:00:15) setwindow Form.mini 
+\i (00:00:15) FORM mini pad_name b77_40 
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) FORM mini next_pin_number 1 
+\i (00:00:15) rotate 
+\t (00:00:15) Spin the element(s).
+\i (00:00:15) iangle 0 
+\t (00:00:15) last angle:  +0.000 Degrees
+\t (00:00:15) Pin rotated by '0.000' degrees.
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) FORM mini pintype_mechanical NO 
+\i (00:00:15) FORM mini offsetx 0 
+\i (00:00:15) FORM mini offsety 0 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -2.8875 1.9500 
+\t (00:00:15) last pick:  -2.8875 1.9500
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) done 
+\t (00:00:15) Exiting from Add Pin.
+\i (00:00:15) add pin 
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) setwindow Form.mini 
+\i (00:00:15) FORM mini pad_name b77_40 
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) FORM mini next_pin_number 2 
+\i (00:00:15) rotate 
+\t (00:00:15) Spin the element(s).
+\i (00:00:15) iangle 0 
+\t (00:00:15) last angle:  +0.000 Degrees
+\t (00:00:15) Pin rotated by '0.000' degrees.
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) FORM mini pintype_mechanical NO 
+\i (00:00:15) FORM mini offsetx 0 
+\i (00:00:15) FORM mini offsety 0 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -2.8875 1.3000 
+\t (00:00:15) last pick:  -2.8875 1.3000
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) done 
+\t (00:00:15) Exiting from Add Pin.
+\i (00:00:15) add pin 
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) setwindow Form.mini 
+\i (00:00:15) FORM mini pad_name b77_40 
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) FORM mini next_pin_number 3 
+\i (00:00:15) rotate 
+\t (00:00:15) Spin the element(s).
+\i (00:00:15) iangle 0 
+\t (00:00:15) last angle:  +0.000 Degrees
+\t (00:00:15) Pin rotated by '0.000' degrees.
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) FORM mini pintype_mechanical NO 
+\i (00:00:15) FORM mini offsetx 0 
+\i (00:00:15) FORM mini offsety 0 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -2.8875 0.6500 
+\t (00:00:15) last pick:  -2.8875 0.6500
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) done 
+\t (00:00:15) Exiting from Add Pin.
+\i (00:00:15) add pin 
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) setwindow Form.mini 
+\i (00:00:15) FORM mini pad_name b77_40 
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) FORM mini next_pin_number 4 
+\i (00:00:15) rotate 
+\t (00:00:15) Spin the element(s).
+\i (00:00:15) iangle 0 
+\t (00:00:15) last angle:  +0.000 Degrees
+\t (00:00:15) Pin rotated by '0.000' degrees.
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) FORM mini pintype_mechanical NO 
+\i (00:00:15) FORM mini offsetx 0 
+\i (00:00:15) FORM mini offsety 0 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -2.8875 0.0000 
+\t (00:00:15) last pick:  -2.8875 0.0000
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) done 
+\t (00:00:15) Exiting from Add Pin.
+\i (00:00:15) add pin 
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) setwindow Form.mini 
+\i (00:00:15) FORM mini pad_name b77_40 
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) FORM mini next_pin_number 5 
+\i (00:00:15) rotate 
+\t (00:00:15) Spin the element(s).
+\i (00:00:15) iangle 0 
+\t (00:00:15) last angle:  +0.000 Degrees
+\t (00:00:15) Pin rotated by '0.000' degrees.
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) FORM mini pintype_mechanical NO 
+\i (00:00:15) FORM mini offsetx 0 
+\i (00:00:15) FORM mini offsety 0 
+\i (00:00:15) setwindow pcb 
+\i (00:00:15) pick -2.8875 -0.6500 
+\t (00:00:15) last pick:  -2.8875 -0.6500
+\t (00:00:15) Using 'B77_40.pad'.
+\i (00:00:15) done 
+\t (00:00:15) Exiting from Add Pin.
+\i (00:00:16) add pin 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini pad_name b77_40 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini next_pin_number 6 
+\i (00:00:16) rotate 
+\t (00:00:16) Spin the element(s).
+\i (00:00:16) iangle 0 
+\t (00:00:16) last angle:  +0.000 Degrees
+\t (00:00:16) Pin rotated by '0.000' degrees.
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini pintype_mechanical NO 
+\i (00:00:16) FORM mini offsetx 0 
+\i (00:00:16) FORM mini offsety 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -2.8875 -1.3000 
+\t (00:00:16) last pick:  -2.8875 -1.3000
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) done 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) add pin 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini pad_name b77_40 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini next_pin_number 7 
+\i (00:00:16) rotate 
+\t (00:00:16) Spin the element(s).
+\i (00:00:16) iangle 0 
+\t (00:00:16) last angle:  +0.000 Degrees
+\t (00:00:16) Pin rotated by '0.000' degrees.
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini pintype_mechanical NO 
+\i (00:00:16) FORM mini offsetx 0 
+\i (00:00:16) FORM mini offsety 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -2.8875 -1.9500 
+\t (00:00:16) last pick:  -2.8875 -1.9500
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) done 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) add pin 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini pad_name b77_40 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini next_pin_number 8 
+\i (00:00:16) rotate 
+\t (00:00:16) Spin the element(s).
+\i (00:00:16) iangle 90 
+\t (00:00:16) last angle:  +90.000 Degrees
+\t (00:00:16) Pin rotated by '90.000' degrees.
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini pintype_mechanical NO 
+\i (00:00:16) FORM mini offsetx 0 
+\i (00:00:16) FORM mini offsety 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -1.9500 -2.8875 
+\t (00:00:16) last pick:  -1.9500 -2.8875
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) done 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) add pin 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini pad_name b77_40 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini next_pin_number 9 
+\i (00:00:16) rotate 
+\t (00:00:16) Spin the element(s).
+\i (00:00:16) iangle 90 
+\t (00:00:16) last angle:  +90.000 Degrees
+\t (00:00:16) Pin rotated by '90.000' degrees.
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini pintype_mechanical NO 
+\i (00:00:16) FORM mini offsetx 0 
+\i (00:00:16) FORM mini offsety 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -1.3000 -2.8875 
+\t (00:00:16) last pick:  -1.3000 -2.8875
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) done 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) add pin 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini pad_name b77_40 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini next_pin_number 10 
+\i (00:00:16) rotate 
+\t (00:00:16) Spin the element(s).
+\i (00:00:16) iangle 90 
+\t (00:00:16) last angle:  +90.000 Degrees
+\t (00:00:16) Pin rotated by '90.000' degrees.
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini pintype_mechanical NO 
+\i (00:00:16) FORM mini offsetx 0 
+\i (00:00:16) FORM mini offsety 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick -0.6500 -2.8875 
+\t (00:00:16) last pick:  -0.6500 -2.8875
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) done 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) add pin 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini pad_name b77_40 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini next_pin_number 11 
+\i (00:00:16) rotate 
+\t (00:00:16) Spin the element(s).
+\i (00:00:16) iangle 90 
+\t (00:00:16) last angle:  +90.000 Degrees
+\t (00:00:16) Pin rotated by '90.000' degrees.
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini pintype_mechanical NO 
+\i (00:00:16) FORM mini offsetx 0 
+\i (00:00:16) FORM mini offsety 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 0.0000 -2.8875 
+\t (00:00:16) last pick:  0.0000 -2.8875
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) done 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) add pin 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) setwindow Form.mini 
+\i (00:00:16) FORM mini pad_name b77_40 
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini next_pin_number 12 
+\i (00:00:16) rotate 
+\t (00:00:16) Spin the element(s).
+\i (00:00:16) iangle 90 
+\t (00:00:16) last angle:  +90.000 Degrees
+\t (00:00:16) Pin rotated by '90.000' degrees.
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) FORM mini pintype_mechanical NO 
+\i (00:00:16) FORM mini offsetx 0 
+\i (00:00:16) FORM mini offsety 0 
+\i (00:00:16) setwindow pcb 
+\i (00:00:16) pick 0.6500 -2.8875 
+\t (00:00:16) last pick:  0.6500 -2.8875
+\t (00:00:16) Using 'B77_40.pad'.
+\i (00:00:16) done 
+\t (00:00:16) Exiting from Add Pin.
+\i (00:00:16) add pin 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini pad_name b77_40 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini next_pin_number 13 
+\i (00:00:17) rotate 
+\t (00:00:17) Spin the element(s).
+\i (00:00:17) iangle 90 
+\t (00:00:17) last angle:  +90.000 Degrees
+\t (00:00:17) Pin rotated by '90.000' degrees.
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini pintype_mechanical NO 
+\i (00:00:17) FORM mini offsetx 0 
+\i (00:00:17) FORM mini offsety 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 1.3000 -2.8875 
+\t (00:00:17) last pick:  1.3000 -2.8875
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) add pin 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini pad_name b77_40 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini next_pin_number 14 
+\i (00:00:17) rotate 
+\t (00:00:17) Spin the element(s).
+\i (00:00:17) iangle 90 
+\t (00:00:17) last angle:  +90.000 Degrees
+\t (00:00:17) Pin rotated by '90.000' degrees.
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini pintype_mechanical NO 
+\i (00:00:17) FORM mini offsetx 0 
+\i (00:00:17) FORM mini offsety 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 1.9500 -2.8875 
+\t (00:00:17) last pick:  1.9500 -2.8875
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) add pin 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini pad_name b77_40 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini next_pin_number 15 
+\i (00:00:17) rotate 
+\t (00:00:17) Spin the element(s).
+\i (00:00:17) iangle 180 
+\t (00:00:17) last angle:  +180.000 Degrees
+\t (00:00:17) Pin rotated by '180.000' degrees.
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini pintype_mechanical NO 
+\i (00:00:17) FORM mini offsetx 0 
+\i (00:00:17) FORM mini offsety 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 2.8875 -1.9500 
+\t (00:00:17) last pick:  2.8875 -1.9500
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) add pin 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini pad_name b77_40 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini next_pin_number 16 
+\i (00:00:17) rotate 
+\t (00:00:17) Spin the element(s).
+\i (00:00:17) iangle 180 
+\t (00:00:17) last angle:  +180.000 Degrees
+\t (00:00:17) Pin rotated by '180.000' degrees.
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini pintype_mechanical NO 
+\i (00:00:17) FORM mini offsetx 0 
+\i (00:00:17) FORM mini offsety 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 2.8875 -1.3000 
+\t (00:00:17) last pick:  2.8875 -1.3000
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) add pin 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini pad_name b77_40 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini next_pin_number 17 
+\i (00:00:17) rotate 
+\t (00:00:17) Spin the element(s).
+\i (00:00:17) iangle 180 
+\t (00:00:17) last angle:  +180.000 Degrees
+\t (00:00:17) Pin rotated by '180.000' degrees.
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini pintype_mechanical NO 
+\i (00:00:17) FORM mini offsetx 0 
+\i (00:00:17) FORM mini offsety 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 2.8875 -0.6500 
+\t (00:00:17) last pick:  2.8875 -0.6500
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) add pin 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini pad_name b77_40 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini next_pin_number 18 
+\i (00:00:17) rotate 
+\t (00:00:17) Spin the element(s).
+\i (00:00:17) iangle 180 
+\t (00:00:17) last angle:  +180.000 Degrees
+\t (00:00:17) Pin rotated by '180.000' degrees.
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini pintype_mechanical NO 
+\i (00:00:17) FORM mini offsetx 0 
+\i (00:00:17) FORM mini offsety 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 2.8875 0.0000 
+\t (00:00:17) last pick:  2.8875 0.0000
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) add pin 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini pad_name b77_40 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini next_pin_number 19 
+\i (00:00:17) rotate 
+\t (00:00:17) Spin the element(s).
+\i (00:00:17) iangle 180 
+\t (00:00:17) last angle:  +180.000 Degrees
+\t (00:00:17) Pin rotated by '180.000' degrees.
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini pintype_mechanical NO 
+\i (00:00:17) FORM mini offsetx 0 
+\i (00:00:17) FORM mini offsety 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 2.8875 0.6500 
+\t (00:00:17) last pick:  2.8875 0.6500
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) add pin 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini pad_name b77_40 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini next_pin_number 20 
+\i (00:00:17) rotate 
+\t (00:00:17) Spin the element(s).
+\i (00:00:17) iangle 180 
+\t (00:00:17) last angle:  +180.000 Degrees
+\t (00:00:17) Pin rotated by '180.000' degrees.
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini pintype_mechanical NO 
+\i (00:00:17) FORM mini offsetx 0 
+\i (00:00:17) FORM mini offsety 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 2.8875 1.3000 
+\t (00:00:17) last pick:  2.8875 1.3000
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) add pin 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) setwindow Form.mini 
+\i (00:00:17) FORM mini pad_name b77_40 
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini next_pin_number 21 
+\i (00:00:17) rotate 
+\t (00:00:17) Spin the element(s).
+\i (00:00:17) iangle 180 
+\t (00:00:17) last angle:  +180.000 Degrees
+\t (00:00:17) Pin rotated by '180.000' degrees.
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) FORM mini pintype_mechanical NO 
+\i (00:00:17) FORM mini offsetx 0 
+\i (00:00:17) FORM mini offsety 0 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) pick 2.8875 1.9500 
+\t (00:00:17) last pick:  2.8875 1.9500
+\t (00:00:17) Using 'B77_40.pad'.
+\i (00:00:17) done 
+\t (00:00:17) Exiting from Add Pin.
+\i (00:00:17) add pin 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini pad_name b77_40 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini next_pin_number 22 
+\i (00:00:18) rotate 
+\t (00:00:18) Spin the element(s).
+\i (00:00:18) iangle 270 
+\t (00:00:18) last angle:  +270.000 Degrees
+\t (00:00:18) Pin rotated by '270.000' degrees.
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini pintype_mechanical NO 
+\i (00:00:18) FORM mini offsetx 0 
+\i (00:00:18) FORM mini offsety 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 1.9500 2.8875 
+\t (00:00:18) last pick:  1.9500 2.8875
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) done 
+\t (00:00:18) Exiting from Add Pin.
+\i (00:00:18) add pin 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini pad_name b77_40 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini next_pin_number 23 
+\i (00:00:18) rotate 
+\t (00:00:18) Spin the element(s).
+\i (00:00:18) iangle 270 
+\t (00:00:18) last angle:  +270.000 Degrees
+\t (00:00:18) Pin rotated by '270.000' degrees.
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini pintype_mechanical NO 
+\i (00:00:18) FORM mini offsetx 0 
+\i (00:00:18) FORM mini offsety 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 1.3000 2.8875 
+\t (00:00:18) last pick:  1.3000 2.8875
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) done 
+\t (00:00:18) Exiting from Add Pin.
+\i (00:00:18) add pin 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini pad_name b77_40 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini next_pin_number 24 
+\i (00:00:18) rotate 
+\t (00:00:18) Spin the element(s).
+\i (00:00:18) iangle 270 
+\t (00:00:18) last angle:  +270.000 Degrees
+\t (00:00:18) Pin rotated by '270.000' degrees.
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini pintype_mechanical NO 
+\i (00:00:18) FORM mini offsetx 0 
+\i (00:00:18) FORM mini offsety 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 0.6500 2.8875 
+\t (00:00:18) last pick:  0.6500 2.8875
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) done 
+\t (00:00:18) Exiting from Add Pin.
+\i (00:00:18) add pin 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini pad_name b77_40 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini next_pin_number 25 
+\i (00:00:18) rotate 
+\t (00:00:18) Spin the element(s).
+\i (00:00:18) iangle 270 
+\t (00:00:18) last angle:  +270.000 Degrees
+\t (00:00:18) Pin rotated by '270.000' degrees.
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini pintype_mechanical NO 
+\i (00:00:18) FORM mini offsetx 0 
+\i (00:00:18) FORM mini offsety 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 0.0000 2.8875 
+\t (00:00:18) last pick:  0.0000 2.8875
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) done 
+\t (00:00:18) Exiting from Add Pin.
+\i (00:00:18) add pin 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini pad_name b77_40 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini next_pin_number 26 
+\i (00:00:18) rotate 
+\t (00:00:18) Spin the element(s).
+\i (00:00:18) iangle 270 
+\t (00:00:18) last angle:  +270.000 Degrees
+\t (00:00:18) Pin rotated by '270.000' degrees.
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini pintype_mechanical NO 
+\i (00:00:18) FORM mini offsetx 0 
+\i (00:00:18) FORM mini offsety 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -0.6500 2.8875 
+\t (00:00:18) last pick:  -0.6500 2.8875
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) done 
+\t (00:00:18) Exiting from Add Pin.
+\i (00:00:18) add pin 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini pad_name b77_40 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini next_pin_number 27 
+\i (00:00:18) rotate 
+\t (00:00:18) Spin the element(s).
+\i (00:00:18) iangle 270 
+\t (00:00:18) last angle:  +270.000 Degrees
+\t (00:00:18) Pin rotated by '270.000' degrees.
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini pintype_mechanical NO 
+\i (00:00:18) FORM mini offsetx 0 
+\i (00:00:18) FORM mini offsety 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -1.3000 2.8875 
+\t (00:00:18) last pick:  -1.3000 2.8875
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) done 
+\t (00:00:18) Exiting from Add Pin.
+\i (00:00:18) add pin 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini pad_name b77_40 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini next_pin_number 28 
+\i (00:00:18) rotate 
+\t (00:00:18) Spin the element(s).
+\i (00:00:18) iangle 270 
+\t (00:00:18) last angle:  +270.000 Degrees
+\t (00:00:18) Pin rotated by '270.000' degrees.
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) FORM mini pintype_mechanical NO 
+\i (00:00:18) FORM mini offsetx 0 
+\i (00:00:18) FORM mini offsety 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -1.9500 2.8875 
+\t (00:00:18) last pick:  -1.9500 2.8875
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) done 
+\t (00:00:18) Exiting from Add Pin.
+\i (00:00:18) add pin 
+\t (00:00:18) Using 'B77_40.pad'.
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini pad_name r320_260c20 
+\t (00:00:18) Using 'R320_260C20.pad'.
+\i (00:00:18) FORM mini next_pin_number 29 
+\i (00:00:18) rotate 
+\t (00:00:18) Spin the element(s).
+\i (00:00:18) iangle 0 
+\t (00:00:18) last angle:  +0.000 Degrees
+\t (00:00:18) Pin rotated by '0.000' degrees.
+\t (00:00:18) Using 'R320_260C20.pad'.
+\i (00:00:18) FORM mini pintype_mechanical NO 
+\i (00:00:18) FORM mini offsetx 0 
+\i (00:00:18) FORM mini offsety 0 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick 0.0000 0.0000 
+\t (00:00:18) last pick:  0.0000 0.0000
+\t (00:00:18) Using 'R320_260C20.pad'.
+\i (00:00:18) done 
+\t (00:00:18) Exiting from Add Pin.
+\i (00:00:18) shape add 
+\i (00:00:18) setwindow Form.mini 
+\i (00:00:18) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:18) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:00:18) FORM mini dyns_fill_type Static solid 
+\i (00:00:18) FORM mini dyns_grid None 
+\i (00:00:18) FORM mini dyns_lock_mode Line 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) pick -3.3250 -3.3250 
+\t (00:00:18) last pick:  -3.3250 -3.3250
+\i (00:00:18) pick -3.3250 3.3250 
+\t (00:00:18) last pick:  -3.3250 3.3250
+\i (00:00:18) pick 3.3250 3.3250 
+\t (00:00:18) last pick:  3.3250 3.3250
+\i (00:00:18) pick 3.3250 -3.3250 
+\t (00:00:18) last pick:  3.3250 -3.3250
+\i (00:00:18) pick -3.3250 -3.3250 
+\t (00:00:18) last pick:  -3.3250 -3.3250
+\i (00:00:19) done 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) package_height 
+\i (00:00:19) pick grid 0 0 
+\t (00:00:19) last pick:  0.0000 0.0000
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini height_max 0.8000mm 
+\i (00:00:19) done 
+\e (00:00:19) Form field label not found
+\i (00:00:19) shape add 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass DFA_BOUND_TOP 
+\i (00:00:19) FORM mini dyns_fill_type Static solid 
+\i (00:00:19) FORM mini dyns_grid None 
+\i (00:00:19) FORM mini dyns_lock_mode Line 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) done 
+\i (00:00:19) shape add 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass DFA_BOUND_TOP 
+\i (00:00:19) FORM mini dyns_fill_type Static solid 
+\i (00:00:19) FORM mini dyns_grid None 
+\i (00:00:19) FORM mini dyns_lock_mode Line 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -3.5250 -3.5250 
+\t (00:00:19) last pick:  -3.5250 -3.5250
+\i (00:00:19) pick -3.5250 3.5250 
+\t (00:00:19) last pick:  -3.5250 3.5250
+\i (00:00:19) pick 3.5250 3.5250 
+\t (00:00:19) last pick:  3.5250 3.5250
+\i (00:00:19) pick 3.5250 -3.5250 
+\t (00:00:19) last pick:  3.5250 -3.5250
+\i (00:00:19) pick -3.5250 -3.5250 
+\t (00:00:19) last pick:  -3.5250 -3.5250
+\i (00:00:19) done 
+\i (00:00:19) shape add 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class MANUFACTURING 
+\i (00:00:19) FORM mini subclass NO_PROBE_TOP 
+\i (00:00:19) FORM mini dyns_fill_type Static solid 
+\i (00:00:19) FORM mini dyns_grid None 
+\i (00:00:19) FORM mini dyns_lock_mode Line 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) done 
+\i (00:00:19) shape add 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class MANUFACTURING 
+\i (00:00:19) FORM mini subclass NO_PROBE_TOP 
+\i (00:00:19) FORM mini dyns_fill_type Static solid 
+\i (00:00:19) FORM mini dyns_grid None 
+\i (00:00:19) FORM mini dyns_lock_mode Line 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -3.5250 -3.5250 
+\t (00:00:19) last pick:  -3.5250 -3.5250
+\i (00:00:19) pick -3.5250 3.5250 
+\t (00:00:19) last pick:  -3.5250 3.5250
+\i (00:00:19) pick 3.5250 3.5250 
+\t (00:00:19) last pick:  3.5250 3.5250
+\i (00:00:19) pick 3.5250 -3.5250 
+\t (00:00:19) last pick:  3.5250 -3.5250
+\i (00:00:19) pick -3.5250 -3.5250 
+\t (00:00:19) last pick:  -3.5250 -3.5250
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0.1000 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick 3.0000 3.0000 
+\t (00:00:19) last pick:  3.0000 3.0000
+\i (00:00:19) pick 3.0000 -3.0000 
+\t (00:00:19) last pick:  3.0000 -3.0000
+\i (00:00:19) pick -3.0000 -3.0000 
+\t (00:00:19) last pick:  -3.0000 -3.0000
+\i (00:00:19) pick -3.0000 3.0000 
+\t (00:00:19) last pick:  -3.0000 3.0000
+\i (00:00:19) pick 3.0000 3.0000 
+\t (00:00:19) last pick:  3.0000 3.0000
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0.1000 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -3.0000 2.9000 
+\t (00:00:19) last pick:  -3.0000 2.9000
+\i (00:00:19) pick -2.9000 3.0000 
+\t (00:00:19) last pick:  -2.9000 3.0000
+\i (00:00:19) done 
+\i (00:00:19) add line 
+\i (00:00:19) setwindow Form.mini 
+\i (00:00:19) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:19) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:19) FORM mini line_width 0.1000 
+\i (00:00:19) setwindow pcb 
+\i (00:00:19) pick -3.0000 2.8000 
+\t (00:00:19) last pick:  -3.0000 2.8000
+\i (00:00:19) pick -2.8000 3.0000 
+\t (00:00:19) last pick:  -2.8000 3.0000
+\i (00:00:19) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) FORM mini line_width 0.1000 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -3.0000 2.7000 
+\t (00:00:20) last pick:  -3.0000 2.7000
+\i (00:00:20) pick -2.7000 3.0000 
+\t (00:00:20) last pick:  -2.7000 3.0000
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) FORM mini line_width 0.1000 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -3.0000 2.6000 
+\t (00:00:20) last pick:  -3.0000 2.6000
+\i (00:00:20) pick -2.6000 3.0000 
+\t (00:00:20) last pick:  -2.6000 3.0000
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:20) FORM mini line_width 0.2000 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -3.0000 2.5250 
+\t (00:00:20) last pick:  -3.0000 2.5250
+\i (00:00:20) pick -3.0000 3.0000 
+\t (00:00:20) last pick:  -3.0000 3.0000
+\i (00:00:20) pick -2.5250 3.0000 
+\t (00:00:20) last pick:  -2.5250 3.0000
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:20) FORM mini line_width 0.2000 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick 2.5250 3.0000 
+\t (00:00:20) last pick:  2.5250 3.0000
+\i (00:00:20) pick 3.0000 3.0000 
+\t (00:00:20) last pick:  3.0000 3.0000
+\i (00:00:20) pick 3.0000 2.5250 
+\t (00:00:20) last pick:  3.0000 2.5250
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:20) FORM mini line_width 0.2000 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -3.0000 -2.5250 
+\t (00:00:20) last pick:  -3.0000 -2.5250
+\i (00:00:20) pick -3.0000 -3.0000 
+\t (00:00:20) last pick:  -3.0000 -3.0000
+\i (00:00:20) pick -2.5250 -3.0000 
+\t (00:00:20) last pick:  -2.5250 -3.0000
+\i (00:00:20) done 
+\i (00:00:20) add line 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:20) FORM mini line_width 0.2000 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick 2.5250 -3.0000 
+\t (00:00:20) last pick:  2.5250 -3.0000
+\i (00:00:20) pick 3.0000 -3.0000 
+\t (00:00:20) last pick:  3.0000 -3.0000
+\i (00:00:20) pick 3.0000 -2.5250 
+\t (00:00:20) last pick:  3.0000 -2.5250
+\i (00:00:20) done 
+\i (00:00:20) shape add circle 
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini class PACKAGE GEOMETRY 
+\i (00:00:20) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:20) FORM mini line_width 0.2000 
+\e (00:00:20) Form field label not found
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick -3.8750 1.9500 
+\t (00:00:20) last pick:  -3.8750 1.9500
+\i (00:00:20) pick -3.6750 1.9500 
+\t (00:00:20) last pick:  -3.6750 1.9500
+\i (00:00:20) done 
+\i (00:00:20) Label refdes 
+\t (00:00:20) Pick text location.
+\i (00:00:20) setwindow Form.mini 
+\i (00:00:20) FORM mini text_block 3 
+\i (00:00:20) FORM mini angle 0 
+\i (00:00:20) FORM mini mirror NO 
+\i (00:00:20) FORM mini text_justification Center 
+\i (00:00:20) FORM mini class REF DES 
+\i (00:00:20) FORM mini subclass ASSEMBLY_TOP 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) pick 0.0000 -0.6750 
+\t (00:00:20) last pick:  0.0000 -0.6750
+\t (00:00:20) Enter text string.
+\i (00:00:20) Text Ref 
+\i (00:00:20) done 
+\i (00:00:20) setwindow pcb 
+\i (00:00:20) Label refdes 
+\t (00:00:21) Pick text location.
+\i (00:00:21) setwindow Form.mini 
+\i (00:00:21) FORM mini text_block 3 
+\i (00:00:21) FORM mini angle 0 
+\i (00:00:21) FORM mini mirror NO 
+\i (00:00:21) FORM mini text_justification Center 
+\i (00:00:21) FORM mini class REF DES 
+\i (00:00:21) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick 0.0000 3.2750 
+\t (00:00:21) last pick:  0.0000 3.2750
+\t (00:00:21) Enter text string.
+\i (00:00:21) Text Ref 
+\i (00:00:21) done 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) Label device 
+\t (00:00:21) Pick text location.
+\i (00:00:21) setwindow Form.mini 
+\i (00:00:21) FORM mini text_block 3 
+\i (00:00:21) FORM mini angle 0 
+\i (00:00:21) FORM mini mirror NO 
+\i (00:00:21) FORM mini text_justification Center 
+\i (00:00:21) FORM mini class DEVICE TYPE 
+\i (00:00:21) FORM mini subclass SILKSCREEN_TOP 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) pick 0.0000 2.8250 
+\t (00:00:21) last pick:  0.0000 2.8250
+\t (00:00:21) Enter text string.
+\i (00:00:21) Text Dev 
+\t (00:00:21) Enter text string.
+\i (00:00:21) done 
+\i (00:00:21) setwindow pcb 
+\i (00:00:21) generaledit 
+\i (00:00:21) zoom fit 
+\i (00:00:21) trapsize 538
+\i (00:00:21) save_as 
+\i (00:00:21) fillin ADBS-A320-QFN 
+\t (00:00:21) Symbol 'adbs-a320-qfn.psm' created.
+\i (00:00:21) ema_fix_text 
+   (00:00:22) Loading axlcore.cxt 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) trapsize 538
+\i (00:00:22) generaledit 
+\i (00:00:25) save 
+\i (00:00:28) fillin yes 
+\t (00:00:28) Symbol 'adbs-a320-qfn.psm' created.
+\i (00:00:28) generaledit 
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in -0.0383 -0.3615
+\i (00:00:29) trapsize 269
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out -0.9259 0.1389
+\i (00:00:37) trapsize 538
+\i (00:00:42) exit 
+\t (00:00:43)     Journal end - Fri Jun 03 14:07:25 2016

@@ -1,0 +1,11 @@
+\t (00:00:45) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:45)     Journal start - Sun May 15 17:50:26 2016
+\t (00:00:45)         Host=PSAI-PC User=psai Pid=9288 CPUs=4
+\t (00:00:45) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:45) 
+\i (00:00:47) pse_open 
+\i (00:00:48) fillin "s160h105t155_190_40.pad"
+\i (00:00:50) pse_open 
+\i (00:00:56) fillin "E:\cadence lib\foorprint\H-4\c160h105t155_190_40.pad"
+\i (00:00:56) cd "E:\cadence lib\foorprint\H-4"
+\t (00:00:56)     Journal end - Sun May 15 17:50:38 2016

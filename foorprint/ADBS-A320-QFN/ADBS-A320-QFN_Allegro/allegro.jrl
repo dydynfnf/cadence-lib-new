@@ -1,0 +1,55 @@
+\t (00:00:02) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:02)     Journal start - Fri Jun 03 14:17:32 2016
+\t (00:00:02)         Host=PSAI-PC User=psai Pid=6020 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/cadence lib/foorprint/ADBS-A320-QFN/ADBS-A320-QFN_Allegro/ADBS-A320-QFN.dra
+\i (00:00:05) trapsize 652
+\i (00:00:05) trapsize 633
+\i (00:00:05) trapsize 655
+\i (00:00:05) trapsize 538
+\i (00:00:05) trapsize 538
+\i (00:00:05) generaledit 
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -2.9002 1.8549
+\i (00:00:08) trapsize 269
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -2.9001 1.8549
+\i (00:00:08) trapsize 134
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -2.9001 1.8549
+\i (00:00:08) trapsize 67
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in -2.9001 1.8549
+\i (00:00:08) trapsize 34
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -2.9001 1.8549
+\i (00:00:09) trapsize 67
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -2.9000 1.8549
+\i (00:00:09) trapsize 134
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -2.9000 1.8549
+\i (00:00:09) trapsize 269
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out -2.9377 1.8496
+\i (00:00:09) trapsize 538
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out -2.9809 1.8712
+\i (00:00:10) trapsize 1076
+\i (00:00:12) open 
+\i (00:01:07) fillin "E:\cadence lib\foorprint\BMP280-LGA8\BMP280-LGA8_Allegro\BMP280-LGA8.dra"
+\i (00:01:07) cd "E:\cadence lib\foorprint\BMP280-LGA8\BMP280-LGA8_Allegro"
+\t (00:01:07) Opening existing design...
+\i (00:01:07) trapsize 610
+\t (00:01:08)     Journal end - Fri Jun 03 14:18:38 2016

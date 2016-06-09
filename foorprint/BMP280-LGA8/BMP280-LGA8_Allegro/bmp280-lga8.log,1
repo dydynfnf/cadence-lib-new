@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : BMP280-LGA8.dra                               )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Thu Jun 02 23:51:40 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/BMP280-LGA8/BMP280-LGA8_Allegro
+    Name      = bmp280-lga8.psm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

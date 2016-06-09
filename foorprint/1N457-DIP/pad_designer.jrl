@@ -1,0 +1,51 @@
+\t (00:04:28) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:04:28)     Journal start - Wed Jun 08 12:23:21 2016
+\t (00:04:28)         Host=PSAI-PC User=psai Pid=8448 CPUs=4
+\t (00:04:28) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:04:28) 
+\i (00:04:31) FORM padedit units Millimeter 
+\i (00:04:32) fillin yes 
+\w (00:04:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:04:42) FORM padedit hole_size_x 0.6 
+\i (00:04:45) FORM padedit drill_fig Hexagon X 
+\i (00:04:48) FORM padedit characters A 
+\i (00:04:50) FORM padedit drill_width 0.6 
+\i (00:04:51) FORM padedit drill_height 0.6 
+\i (00:04:53) FORM padedit layers  
+\i (00:04:55) FORM padedit grid row begin_layer 
+\i (00:04:57) FORM padedit geometry Circle 
+\i (00:05:01) FORM padedit width 0.8 
+\i (00:05:09) FORM padedit height 0.8 
+\i (00:05:12) FORM padedit grid rpopup begin_layer Copy 
+\i (00:05:14) FORM padedit parameters  
+\i (00:05:18) FORM padedit layers  
+\i (00:05:21) FORM padedit grid row begin_layer 
+\i (00:05:25) FORM padedit width 0.9000 
+\i (00:05:27) FORM padedit parameters  
+\i (00:05:28) FORM padedit layers  
+\i (00:05:30) FORM padedit grid row default_internal 
+\i (00:05:34) FORM padedit grid rpopup begin_layer Copy 
+\i (00:05:36) FORM padedit grid rpopup default_internal Paste 
+\i (00:05:38) FORM padedit grid rpopup end_layer Paste 
+\i (00:05:41) FORM padedit grid rpopup soldermask_top Paste 
+\i (00:05:43) FORM padedit grid rpopup soldermask_bottom Paste 
+\i (00:06:03) FORM padedit parameters  
+\i (00:06:10) pse_save 
+\i (00:06:12) FORM padedit layers  
+\i (00:06:14) pse_save_as 
+\i (00:06:22) fillin "c80h60.pad"
+\i (00:06:26) pse_save 
+\i (00:06:31) fillin no 
+\i (00:06:32) pse_save_as 
+\i (00:06:38) fillin "c90h60.pad"
+\i (00:06:42) pse_save 
+\i (00:06:44) fillin yes 
+\i (00:06:46) pse_open 
+\i (00:06:52) fillin "c90h60.pad"
+\i (00:06:57) pse_open 
+\i (00:06:58) fillin "c90h60.pad"
+\i (00:07:01) FORM padedit parameters  
+\i (00:07:07) pse_save 
+\i (00:07:08) fillin yes 
+\i (00:07:09) pse_exit
+\t (00:07:09)     Journal end - Wed Jun 08 12:26:01 2016

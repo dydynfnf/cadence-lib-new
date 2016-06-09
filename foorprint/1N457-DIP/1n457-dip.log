@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : 1n457-dip.dra                                 )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Wed Jun 08 12:34:32 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/1N457-DIP
+    Name      = 1n457-dip.psm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

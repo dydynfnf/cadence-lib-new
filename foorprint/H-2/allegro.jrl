@@ -1,0 +1,608 @@
+\t (00:18:41) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:18:41)     Journal start - Thu Jun 09 14:11:07 2016
+\t (00:18:41)         Host=PSAI-PC User=psai Pid=8684 CPUs=4
+\t (00:18:41) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:18:41) 
+\d (00:18:41) Design opened: E:/cadence lib/foorprint/H-2/h-2.dra
+\i (00:18:42) generaledit 
+\i (00:18:43) zoom out 1 
+\i (00:18:43) setwindow pcb
+\i (00:18:43) zoom out 3.0114 0.1138
+\i (00:18:43) trapsize 895
+\i (00:18:43) zoom in 1 
+\i (00:18:43) setwindow pcb
+\i (00:18:43) zoom in 3.4050 -0.5662
+\i (00:18:43) trapsize 447
+\i (00:18:48) pick grid 5.4626 0.5253
+\t (00:18:48) last pick:  5.5880 0.5080
+\i (00:18:49) prepopup 6.1246 1.9745
+\i (00:18:50) pick grid 4.7469 2.6187
+\t (00:18:50) last pick:  4.8260 2.5400
+\i (00:18:52) roam start
+\i (00:18:52) roam x 80
+\i (00:18:52) roam x 16
+\i (00:18:52) roam x 48
+\i (00:18:52) roam y 16
+\i (00:18:52) roam end
+\i (00:18:55) delete 
+\i (00:18:55) delete 
+\i (00:19:00) setwindow form.find
+\i (00:19:00) FORM find all_off  
+\i (00:19:00) FORM find pins YES 
+\i (00:19:01) setwindow pcb
+\i (00:19:01) pick grid 5.6269 0.4112
+\t (00:19:01) last pick:  5.5880 0.5080
+\t (00:19:01) Pin "C160h105t155_190_40, 3"
+\i (00:19:02) prepopup 6.7452 2.2363
+\i (00:19:03) done 
+\i (00:19:03) generaledit 
+\i (00:19:04) delete 
+\i (00:19:11) setwindow form.find
+\i (00:19:11) FORM find shapes YES 
+\i (00:19:14) FORM find shapes NO 
+\i (00:19:16) FORM find cline_segs YES 
+\i (00:19:18) FORM find cline_segs NO 
+\i (00:19:21) FORM find lines YES 
+\i (00:19:22) setwindow pcb
+\i (00:19:22) pick grid 5.5285 0.6528
+\t (00:19:22) last pick:  5.5880 0.7620
+\t (00:19:22) Line "Package Geometry/Assembly_Top"
+\i (00:19:22) prepopup 5.3585 2.1289
+\i (00:19:23) done 
+\i (00:19:23) generaledit 
+\i (00:19:30) roam start
+\i (00:19:30) roam x -48
+\i (00:19:30) roam y -16
+\i (00:19:30) roam x -96
+\i (00:19:30) roam x -16
+\i (00:19:30) roam end
+\i (00:19:32) shape select 
+\i (00:19:34) pick grid 6.2532 1.2075
+\t (00:19:34) last pick:  6.3500 1.2700
+\i (00:19:37) drag_start grid 6.3426 1.2970
+\i (00:19:39) drag_stop grid 6.3247 1.2880
+\t (00:19:39) No DRC errors detected.
+\i (00:19:41) drag_start grid 6.3068 0.8407
+\t (00:19:41) last pick:  6.3500 0.8407
+\i (00:19:46) drag_stop grid 3.5782 0.5813
+\t (00:19:46) No DRC errors detected.
+\i (00:19:52) prmed 
+\i (00:19:54) setwindow form.prmedit
+\i (00:19:54) FORM prmedit view_grids_button  
+\t (00:19:54) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:19:55) setwindow form.grid
+\i (00:19:55) FORM grid done  
+\i (00:19:56) setwindow form.prmedit
+\i (00:19:56) FORM prmedit cancel  
+\i (00:19:56) setwindow pcb
+\i (00:19:56) generaledit 
+\i (00:19:59) g 0.1 
+\i (00:19:59) replay ./grids.scr 
+\i (00:20:00) scriptmode +i +n 
+\i (00:20:00) version 15.5 
+\t (00:20:00) Script version: 15.5
+\i (00:20:00) setwindow pcb 
+\i (00:20:00) trapsize 15382 
+\i (00:20:00) define grid 
+\t (00:20:00) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:20:00) setwindow form.grid 
+\i (00:20:00) FORM grid non_etch non_etch_x_grids 0.100000 
+\i (00:20:00) FORM grid non_etch non_etch_y_grids 0.100000 
+\i (00:20:00) FORM grid all_etch all_etch_x_grids 0.100000 
+\i (00:20:00) FORM grid all_etch all_etch_y_grids 0.100000 
+\i (00:20:00) FORM grid done 
+\i (00:20:00) setwindow pcb 
+\i (00:20:00) trapsize 447
+\i (00:20:00) generaledit 
+\i (00:20:02) shape select 
+\i (00:20:04) pick grid 3.4172 0.7423
+\t (00:20:04) last pick:  3.4000 0.7000
+\i (00:20:05) drag_start grid 3.5514 0.4381
+\t (00:20:05) last pick:  3.5560 0.4381
+\i (00:20:07) drag_stop grid 3.6588 0.4202
+\t (00:20:07) No DRC errors detected.
+\i (00:20:10) pick grid 6.3695 0.5992
+\t (00:20:10) last pick:  6.4000 0.6000
+\w (00:20:10) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:20:18) prepopup 1.2791 2.5405
+\i (00:20:19) done 
+\i (00:20:19) generaledit 
+\i (00:20:26) delete 
+\i (00:20:29) pick grid 5.3049 1.2522
+\t (00:20:29) last pick:  5.3000 1.3000
+\t (00:20:29) Line "Package Geometry/Assembly_Top"
+\i (00:20:29) prepopup 5.0812 2.1827
+\i (00:20:30) done 
+\i (00:20:30) generaledit 
+\i (00:20:36) move 
+\t (00:20:36) Select element(s) to move.
+\i (00:20:42) prepopup 4.5892 2.3795
+\i (00:20:42) done 
+\i (00:20:42) generaledit 
+\i (00:21:00) move 
+\t (00:21:00) Select element(s) to move.
+\i (00:21:05) setwindow form.find
+\i (00:21:05) FORM find all_off  
+\i (00:21:06) FORM find other_segs YES 
+\i (00:21:08) setwindow pcb
+\i (00:21:08) pick grid 6.3784 0.3397
+\t (00:21:08) last pick:  6.4000 0.3000
+\t (00:21:08) last pick:  6.4000 0.3000
+\t (00:21:08) Element has no origin, using pick.
+\t (00:21:08) Pick new location for the element(s).
+\i (00:21:17) pick grid 3.7572 0.3397
+\t (00:21:17) last pick:  3.8000 0.3000
+\i (00:21:19) zoom in 1 
+\i (00:21:19) setwindow pcb
+\i (00:21:19) zoom in 3.9450 0.5902
+\i (00:21:19) trapsize 224
+\i (00:21:25) shape select 
+\i (00:21:26) pick grid 3.5558 1.2567
+\t (00:21:26) last pick:  3.6000 1.3000
+\i (00:21:28) drag_start grid 3.6811 0.3934
+\t (00:21:28) last pick:  3.7000 0.3934
+\i (00:21:31) drag_stop grid 3.7303 0.3934
+\t (00:21:31) No DRC errors detected.
+\i (00:21:32) move 
+\t (00:21:32) Select element(s) to move.
+\i (00:21:32) pick grid 3.7705 0.6573
+\t (00:21:32) last pick:  3.8000 0.7000
+\t (00:21:32) last pick:  3.8000 0.7000
+\t (00:21:32) Element has no origin, using pick.
+\t (00:21:32) Pick new location for the element(s).
+\i (00:21:34) pick grid 3.7526 0.6528
+\t (00:21:34) last pick:  3.8000 0.7000
+\i (00:21:34) zoom out 1 
+\i (00:21:34) setwindow pcb
+\i (00:21:34) zoom out 4.0523 1.7398
+\i (00:21:34) trapsize 447
+\i (00:21:34) zoom out 1 
+\i (00:21:34) setwindow pcb
+\i (00:21:34) zoom out 4.0525 1.7398
+\i (00:21:34) trapsize 895
+\i (00:21:35) roam start
+\i (00:21:35) roam x 64
+\i (00:21:35) roam y -48
+\i (00:21:35) roam x 16
+\i (00:21:35) roam end
+\i (00:21:36) zoom in 1 
+\i (00:21:36) setwindow pcb
+\i (00:21:36) zoom in 4.5086 2.1110
+\i (00:21:36) trapsize 447
+\i (00:21:36) zoom in 1 
+\i (00:21:36) setwindow pcb
+\i (00:21:36) zoom in 4.5087 2.1111
+\i (00:21:36) trapsize 224
+\i (00:21:41) delete 
+\i (00:21:43) pick grid 4.6518 1.2344
+\t (00:21:43) last pick:  4.7000 1.2000
+\t (00:21:43) Line "Package Geometry/Silkscreen_Top"
+\i (00:21:43) zoom out 1 
+\i (00:21:43) setwindow pcb
+\i (00:21:43) zoom out 4.6653 1.2836
+\i (00:21:43) trapsize 447
+\i (00:21:48) setwindow form.find
+\i (00:21:48) FORM find lines NO 
+\i (00:21:49) FORM find other_segs YES 
+\i (00:21:50) setwindow pcb
+\i (00:21:50) pick grid 4.9247 -1.2303
+\t (00:21:50) last pick:  4.9000 -1.2000
+\t (00:21:50) Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\i (00:21:52) add line 
+\i (00:22:00) setwindow form.mini
+\i (00:22:00) FORM mini subclass SILKSCREEN_TOP 
+\i (00:22:07) FORM mini line_width 0.2000 
+\i (00:22:08) setwindow pcb
+\i (00:22:08) pick grid -1.2839 1.2836
+\t (00:22:08) last pick:  -1.3000 1.3000
+\t (00:22:08) last pick:  -1.2700 1.2700
+\i (00:22:09) zoom in 1 
+\i (00:22:09) setwindow pcb
+\i (00:22:09) zoom in 3.7170 1.2836
+\i (00:22:09) trapsize 224
+\i (00:22:10) zoom in 1 
+\i (00:22:10) setwindow pcb
+\i (00:22:10) zoom in 3.7170 1.2836
+\i (00:22:10) trapsize 112
+\i (00:22:13) zoom out 1 
+\i (00:22:13) setwindow pcb
+\i (00:22:13) zoom out 3.7215 1.2233
+\i (00:22:13) trapsize 224
+\i (00:22:13) roam start
+\i (00:22:13) roam x -96
+\i (00:22:13) roam x -96
+\i (00:22:13) roam y -16
+\i (00:22:13) roam x -48
+\i (00:22:13) roam x -48
+\i (00:22:13) roam y -16
+\i (00:22:13) roam x -64
+\i (00:22:13) roam x -64
+\i (00:22:13) roam x -64
+\i (00:22:13) roam x -64
+\i (00:22:13) roam x -32
+\i (00:22:14) roam x -48
+\i (00:22:14) roam x -64
+\i (00:22:14) roam y 16
+\i (00:22:14) roam x -48
+\i (00:22:14) roam end
+\i (00:22:15) roam start
+\i (00:22:15) roam x 64
+\i (00:22:15) roam x 96
+\i (00:22:15) roam y 16
+\i (00:22:15) roam x 96
+\i (00:22:15) roam x 80
+\i (00:22:15) roam y 16
+\i (00:22:15) roam x 96
+\i (00:22:15) roam y 16
+\i (00:22:15) roam x 64
+\i (00:22:15) roam y 16
+\i (00:22:15) roam x 64
+\i (00:22:16) roam x -32
+\i (00:22:16) roam y 16
+\i (00:22:16) roam end
+\i (00:22:17) roam start
+\i (00:22:17) roam y 64
+\i (00:22:17) roam y 80
+\i (00:22:18) roam x 16
+\i (00:22:18) roam y 48
+\i (00:22:18) roam y 48
+\i (00:22:18) roam y 48
+\i (00:22:18) roam end
+\i (00:22:20) zoom in 1 
+\i (00:22:20) setwindow pcb
+\i (00:22:20) zoom in 3.6939 -1.3069
+\i (00:22:20) trapsize 112
+\i (00:22:23) pick grid 3.6872 -1.2509
+\t (00:22:23) last pick:  3.7000 -1.3000
+\t (00:22:23) last pick:  3.7500 -1.2700
+\t (00:22:23) Merged with existing line. Start next line.
+\i (00:22:24) zoom out 1 
+\i (00:22:24) setwindow pcb
+\i (00:22:24) zoom out 3.6470 -1.2956
+\i (00:22:24) trapsize 224
+\i (00:22:24) zoom out 1 
+\i (00:22:24) setwindow pcb
+\i (00:22:24) zoom out 3.6469 -1.2912
+\i (00:22:24) trapsize 447
+\i (00:22:25) roam start
+\i (00:22:25) roam y -48
+\i (00:22:25) roam y -64
+\i (00:22:25) roam end
+\i (00:22:26) zoom in 1 
+\i (00:22:26) setwindow pcb
+\i (00:22:26) zoom in 3.9154 1.0464
+\i (00:22:26) trapsize 224
+\i (00:22:26) zoom in 1 
+\i (00:22:26) setwindow pcb
+\i (00:22:26) zoom in 3.9154 1.0464
+\i (00:22:26) trapsize 112
+\i (00:22:26) zoom in 1 
+\i (00:22:26) setwindow pcb
+\i (00:22:26) zoom in 3.9155 1.0465
+\i (00:22:26) trapsize 56
+\i (00:22:26) zoom out 1 
+\i (00:22:26) setwindow pcb
+\i (00:22:26) zoom out 3.9155 1.0465
+\i (00:22:26) trapsize 112
+\i (00:22:27) prepopup 4.0654 1.4871
+\i (00:22:28) done 
+\i (00:22:28) generaledit 
+\i (00:22:29) zoom out 1 
+\i (00:22:29) setwindow pcb
+\i (00:22:29) zoom out 3.9782 1.4244
+\i (00:22:29) trapsize 224
+\i (00:22:29) zoom out 1 
+\i (00:22:29) setwindow pcb
+\i (00:22:29) zoom out 3.9781 1.4245
+\i (00:22:29) trapsize 447
+\i (00:22:30) delete 
+\i (00:22:31) pick grid 3.7815 0.2526
+\t (00:22:31) last pick:  3.8000 0.3000
+\t (00:22:31) Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\i (00:22:31) add connect 
+\w (00:22:31) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:22:31) Pick first element.
+\i (00:22:32) zoom in 1 
+\i (00:22:32) setwindow pcb
+\i (00:22:32) zoom in 4.0230 1.1561
+\i (00:22:32) trapsize 224
+\i (00:22:33) delete 
+\i (00:22:33) pick grid 3.7949 0.7893
+\t (00:22:33) last pick:  3.8000 0.8000
+\t (00:22:33) Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\i (00:22:36) add line 
+\i (00:22:37) delete 
+\i (00:22:38) pick grid 3.7859 1.2545
+\t (00:22:38) last pick:  3.8000 1.3000
+\t (00:22:38) Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\i (00:22:39) add line 
+\i (00:22:39) zoom out 1 
+\i (00:22:39) setwindow pcb
+\i (00:22:39) zoom out 1.4063 1.4155
+\i (00:22:39) trapsize 447
+\i (00:22:39) zoom out 1 
+\i (00:22:39) setwindow pcb
+\i (00:22:39) zoom out 1.6389 1.4156
+\i (00:22:39) trapsize 895
+\i (00:22:40) roam start
+\i (00:22:40) roam x -48
+\i (00:22:40) roam x -64
+\i (00:22:40) roam y -16
+\i (00:22:40) roam x -64
+\i (00:22:40) roam x -64
+\i (00:22:40) roam end
+\i (00:22:40) zoom in 1 
+\i (00:22:40) setwindow pcb
+\i (00:22:40) zoom in -1.9863 1.6101
+\i (00:22:40) trapsize 447
+\i (00:22:40) zoom in 1 
+\i (00:22:40) setwindow pcb
+\i (00:22:40) zoom in -1.9863 1.6101
+\i (00:22:40) trapsize 224
+\i (00:22:49) setwindow form.mini
+\i (00:22:49) FORM mini class PACKAGE GEOMETRY 
+\i (00:22:51) FORM mini subclass SILKSCREEN_TOP 
+\i (00:22:53) setwindow pcb
+\i (00:22:53) pick grid -1.3019 1.2746
+\t (00:22:53) last pick:  -1.3000 1.3000
+\t (00:22:53) last pick:  -1.2700 1.2700
+\i (00:22:54) roam start
+\i (00:22:54) roam x 96
+\i (00:22:54) roam y 16
+\i (00:22:54) roam x 64
+\i (00:22:54) roam y 16
+\i (00:22:54) roam x 64
+\i (00:22:54) roam x 64
+\i (00:22:54) roam y 16
+\i (00:22:55) roam x 64
+\i (00:22:55) roam y 16
+\i (00:22:55) roam x 48
+\i (00:22:55) roam x 64
+\i (00:22:55) roam y 16
+\i (00:22:55) roam x 48
+\i (00:22:55) roam x 48
+\i (00:22:55) roam x 64
+\i (00:22:55) roam x 64
+\i (00:22:55) roam x 32
+\i (00:22:55) roam x 16
+\i (00:22:55) roam end
+\i (00:22:57) pick grid 3.6537 0.3705
+\t (00:22:57) last pick:  3.7000 0.4000
+\i (00:22:57) roam start
+\i (00:22:57) roam y 96
+\i (00:22:57) roam x 16
+\i (00:22:57) roam y 80
+\i (00:22:57) roam y 80
+\i (00:22:57) roam x 16
+\i (00:22:57) roam y 80
+\i (00:22:57) roam y 48
+\i (00:22:58) roam x 16
+\i (00:22:58) roam y 32
+\i (00:22:58) roam y 32
+\i (00:22:58) roam x -16
+\i (00:22:58) roam y -16
+\i (00:22:58) roam end
+\i (00:23:03) roam start
+\i (00:23:03) roam x -64
+\i (00:23:03) roam x -48
+\i (00:23:03) roam x -16
+\i (00:23:03) roam x -32
+\i (00:23:03) roam x -32
+\i (00:23:03) roam x -48
+\i (00:23:03) roam x -48
+\i (00:23:03) roam x -48
+\i (00:23:03) roam x -32
+\i (00:23:03) roam y 16
+\i (00:23:03) roam x -64
+\i (00:23:03) roam x -64
+\i (00:23:03) roam x -64
+\i (00:23:03) roam x -48
+\i (00:23:03) roam x -64
+\i (00:23:03) roam x -48
+\i (00:23:03) roam y -16
+\i (00:23:03) roam x -32
+\i (00:23:04) roam x -32
+\i (00:23:04) roam x -48
+\i (00:23:04) roam x -32
+\i (00:23:04) roam end
+\i (00:23:07) roam start
+\i (00:23:07) roam x 80
+\i (00:23:07) roam x 64
+\i (00:23:07) roam y 16
+\i (00:23:07) roam x 96
+\i (00:23:07) roam x 96
+\i (00:23:07) roam x 144
+\i (00:23:07) roam x 160
+\i (00:23:07) roam x 96
+\i (00:23:07) roam x 64
+\i (00:23:07) roam y -16
+\i (00:23:07) roam x 64
+\i (00:23:07) roam y -16
+\i (00:23:07) roam x 64
+\i (00:23:07) roam x 128
+\i (00:23:07) roam x 96
+\i (00:23:07) roam x 64
+\i (00:23:07) roam x 48
+\i (00:23:07) roam x 32
+\i (00:23:07) roam x -48
+\i (00:23:08) roam x -64
+\i (00:23:08) roam x -48
+\i (00:23:08) roam x -48
+\i (00:23:08) roam x -96
+\i (00:23:08) roam y 16
+\i (00:23:08) roam x -48
+\i (00:23:08) roam y 16
+\i (00:23:08) roam x 16
+\i (00:23:08) roam x 16
+\i (00:23:08) roam end
+\i (00:23:10) pick grid 3.6939 -1.0474
+\t (00:23:10) last pick:  3.7000 -1.0000
+\i (00:23:12) add line 
+\i (00:23:13) roam start
+\i (00:23:13) roam x -48
+\i (00:23:13) roam x -48
+\i (00:23:13) roam x -64
+\i (00:23:13) roam x -80
+\i (00:23:13) roam x -80
+\i (00:23:13) roam x -128
+\i (00:23:13) roam x -80
+\i (00:23:13) roam y -16
+\i (00:23:13) roam x -80
+\i (00:23:13) roam x -64
+\i (00:23:13) roam y -16
+\i (00:23:13) roam x -32
+\i (00:23:13) roam x -48
+\i (00:23:13) roam x -32
+\i (00:23:13) roam y -16
+\i (00:23:13) roam x -48
+\i (00:23:13) roam x -32
+\i (00:23:13) roam end
+\i (00:23:15) pick grid -1.2756 -1.2532
+\t (00:23:15) last pick:  -1.3000 -1.3000
+\t (00:23:15) last pick:  -1.2700 -1.2700
+\i (00:23:19) roam start
+\i (00:23:19) roam x 64
+\i (00:23:19) roam x 80
+\i (00:23:19) roam x 48
+\i (00:23:19) roam x 64
+\i (00:23:20) roam x 48
+\i (00:23:20) roam y -16
+\i (00:23:20) roam x 32
+\i (00:23:20) roam x 48
+\i (00:23:20) roam y -16
+\i (00:23:20) roam x 32
+\i (00:23:20) roam x 16
+\i (00:23:20) roam x 16
+\i (00:23:20) roam x 32
+\i (00:23:20) roam y -16
+\i (00:23:20) roam x 48
+\i (00:23:20) roam x 48
+\i (00:23:20) roam x 32
+\i (00:23:20) roam end
+\i (00:23:21) pick grid 3.6671 -0.6494
+\t (00:23:21) last pick:  3.7000 -0.6000
+\i (00:23:22) prepopup 3.1617 -0.8462
+\i (00:23:23) done 
+\i (00:23:23) generaledit 
+\i (00:23:23) zoom out 1 
+\i (00:23:23) setwindow pcb
+\i (00:23:23) zoom out 3.1885 -0.8909
+\i (00:23:23) trapsize 447
+\i (00:23:23) zoom out 1 
+\i (00:23:23) setwindow pcb
+\i (00:23:23) zoom out 3.1886 -0.8909
+\i (00:23:23) trapsize 895
+\i (00:23:24) roam start
+\i (00:23:24) roam y -80
+\i (00:23:24) roam x 64
+\i (00:23:24) roam y -48
+\i (00:23:24) roam x 16
+\i (00:23:24) roam y -16
+\i (00:23:24) roam x 32
+\i (00:23:24) roam end
+\i (00:23:24) zoom in 1 
+\i (00:23:24) setwindow pcb
+\i (00:23:24) zoom in 4.9559 -0.0181
+\i (00:23:24) trapsize 447
+\i (00:23:27) save 
+\i (00:23:28) fillin yes 
+\t (00:23:31) Symbol 'h-2.psm' created.
+\i (00:23:31) generaledit 
+\e (00:25:45) Command not found: xhilite
+\i (00:25:45) xname_flush 
+\i (00:25:45) done 
+\i (00:25:45) generaledit 
+\e (00:25:50) Command not found: xdehilite
+\i (00:25:50) xname_flush 
+\i (00:25:50) done 
+\i (00:25:50) generaledit 
+\e (00:25:51) Command not found: xhilite
+\i (00:25:51) xname_flush 
+\i (00:25:51) done 
+\i (00:25:51) generaledit 
+\e (00:26:15) Command not found: xdehilite
+\i (00:26:15) xname_flush 
+\i (00:26:15) done 
+\i (00:26:15) generaledit 
+\e (00:26:18) Command not found: xhilite
+\i (00:26:18) xname_flush 
+\i (00:26:18) done 
+\i (00:26:18) generaledit 
+\e (00:26:20) Command not found: xdehilite
+\i (00:26:20) xname_flush 
+\i (00:26:20) done 
+\i (00:26:20) generaledit 
+\e (00:26:39) Command not found: xhilite
+\i (00:26:39) xname_flush 
+\i (00:26:39) done 
+\i (00:26:39) generaledit 
+\e (00:26:41) Command not found: xdehilite
+\i (00:26:41) xname_flush 
+\i (00:26:41) done 
+\i (00:26:41) generaledit 
+\e (00:26:44) Command not found: xhilite
+\i (00:26:44) xname_flush 
+\i (00:26:44) done 
+\i (00:26:44) generaledit 
+\e (00:26:45) Command not found: xdehilite
+\i (00:26:45) xname_flush 
+\i (00:26:45) done 
+\i (00:26:45) generaledit 
+\e (00:27:02) Command not found: xhilite
+\i (00:27:02) xname_flush 
+\i (00:27:02) done 
+\i (00:27:02) generaledit 
+\e (00:27:17) Command not found: xhilite
+\i (00:27:17) xname_flush 
+\i (00:27:17) done 
+\i (00:27:17) generaledit 
+\e (00:27:26) Command not found: xdehilite
+\i (00:27:26) xname_flush 
+\i (00:27:26) done 
+\i (00:27:26) generaledit 
+\e (00:27:28) Command not found: xhilite
+\i (00:27:28) xname_flush 
+\i (00:27:28) done 
+\i (00:27:28) generaledit 
+\e (00:27:34) Command not found: xdehilite
+\i (00:27:34) xname_flush 
+\i (00:27:34) done 
+\i (00:27:35) generaledit 
+\e (00:27:38) Command not found: xhilite
+\i (00:27:38) xname_flush 
+\i (00:27:38) done 
+\i (00:27:38) generaledit 
+\e (00:27:39) Command not found: xdehilite
+\i (00:27:39) xname_flush 
+\i (00:27:39) done 
+\i (00:27:39) generaledit 
+\e (00:27:42) Command not found: xhilite
+\i (00:27:42) xname_flush 
+\i (00:27:42) done 
+\i (00:27:42) generaledit 
+\e (00:27:47) Command not found: xdehilite
+\i (00:27:47) xname_flush 
+\i (00:27:47) done 
+\i (00:27:47) generaledit 
+\e (00:27:49) Command not found: xhilite
+\i (00:27:49) xname_flush 
+\i (00:27:49) done 
+\i (00:27:49) generaledit 
+\e (00:27:55) Command not found: xdehilite
+\i (00:27:55) xname_flush 
+\i (00:27:55) done 
+\i (00:27:55) generaledit 
+\e (00:27:57) Command not found: xhilite
+\i (00:27:57) xname_flush 
+\i (00:27:57) done 
+\i (00:27:57) generaledit 
+\e (00:28:03) Command not found: xdehilite
+\i (00:28:03) xname_flush 
+\i (00:28:03) done 
+\i (00:28:03) generaledit 
+\i (00:28:53) open 
+\i (00:28:55) fillin "menu_cancel"
+\i (00:28:55) generaledit 
+\i (00:28:56) new 
+\i (00:29:52) newdrawfillin "extend-pcb.brd" "Board"
+\t (00:29:52)     Journal end - Thu Jun 09 14:22:17 2016

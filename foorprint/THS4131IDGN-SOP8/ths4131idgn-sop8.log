@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ths4131idgn-sop8.dra                          )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Mon Jun 06 15:45:39 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/THS4131IDGN-SOP8
+    Name      = ths4131idgn-sop8.psm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
