@@ -1,36 +1,66 @@
-\t (00:01:08) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
-\t (00:01:08)     Journal start - Fri Jun 03 14:18:38 2016
-\t (00:01:08)         Host=PSAI-PC User=psai Pid=6020 CPUs=4
-\t (00:01:08) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:01:08) 
-\d (00:01:08) Design opened: E:/cadence lib/foorprint/BMP280-LGA8/BMP280-LGA8_Allegro/BMP280-LGA8.dra
-\i (00:01:08) generaledit 
-\i (00:01:08) zoom in 1 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) zoom in -0.3554 0.0310
-\i (00:01:08) trapsize 305
-\i (00:01:08) zoom in 1 
-\i (00:01:09) setwindow pcb
-\i (00:01:09) zoom in -0.8388 0.0310
-\i (00:01:09) trapsize 153
-\i (00:01:09) zoom in 1 
-\i (00:01:09) setwindow pcb
-\i (00:01:09) zoom in -0.8388 0.0311
-\i (00:01:09) trapsize 76
-\i (00:01:09) zoom out 1 
-\i (00:01:09) setwindow pcb
-\i (00:01:09) zoom out -0.8388 0.0312
-\i (00:01:09) trapsize 153
-\i (00:01:09) zoom out 1 
-\i (00:01:09) setwindow pcb
-\i (00:01:09) zoom out -0.8388 0.0311
-\i (00:01:09) trapsize 305
-\i (00:01:19) open 
-\i (00:01:59) fillin "E:\material\glass\workspace\hardware\5.glass v1.0\core-pcb\core.brd"
-\i (00:01:59) cd "E:\material\glass\workspace\hardware\5.glass v1.0\core-pcb"
-\t (00:01:59) Opening existing design...
-\i (00:01:59) trapsize 21336
-\i (00:02:00) trapsize 20736
-\i (00:02:00) trapsize 21336
-\i (00:02:00) trapsize 21336
-\t (00:02:00)     Journal end - Fri Jun 03 14:19:30 2016
+\t (00:25:04) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:25:04)     Journal start - Fri Jun 10 17:23:10 2016
+\t (00:25:04)         Host=PSAI-PC User=psai Pid=9152 CPUs=4
+\t (00:25:04) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:25:04) 
+\d (00:25:04) Design opened: E:/cadence lib/foorprint/BMP280-LGA8/BMP280-LGA8_Allegro/BMP280-LGA8.dra
+\i (00:25:04) generaledit 
+\i (00:25:05) zoom out 1 
+\i (00:25:05) setwindow pcb
+\i (00:25:05) zoom out 0.2260 0.6871
+\i (00:25:05) trapsize 305
+\i (00:25:05) zoom out 1 
+\i (00:25:05) setwindow pcb
+\i (00:25:05) zoom out 0.2261 0.6870
+\i (00:25:05) trapsize 610
+\i (00:25:06) zoom in 1 
+\i (00:25:06) setwindow pcb
+\i (00:25:06) zoom in 0.5722 0.2233
+\i (00:25:06) trapsize 305
+\i (00:25:20) color192 
+\i (00:25:20) setwindow cvf.dialog
+\i (00:25:20) cvf layer_mode
+\i (00:25:20) setwindow pcb
+\i (00:25:20) generaledit 
+\i (00:25:22) setwindow cvf.dialog
+\i (00:25:22) cvf layer_tree_item 'Stack-Up'
+\i (00:25:24) cvf layer_tree_item 'Display'
+\i (00:25:25) cvf layer_tree_item 'Stack-Up'
+\i (00:25:32) cvf layers_visible stack-up stack-up/bottom TRUE
+\i (00:25:32) cvf layers_visible stack-up stack-up/bottom FALSE
+\i (00:25:33) cvf apply
+\i (00:25:34) cvf layers_visible stack-up stack-up/top TRUE
+\i (00:25:34) cvf layers_visible stack-up stack-up/top FALSE
+\i (00:25:35) cvf apply
+\i (00:25:38) cvf layers_visible stack-up stack-up/top TRUE
+\i (00:25:40) cvf apply
+\i (00:25:42) cvf layers_visible stack-up stack-up/top FALSE
+\i (00:25:43) cvf apply
+\i (00:25:45) setwindow pcb
+\i (00:25:45) roam start
+\i (00:25:45) roam y 32
+\i (00:25:45) roam y 16
+\i (00:25:45) roam y 64
+\i (00:25:45) roam y 32
+\i (00:25:45) roam y 16
+\i (00:25:46) roam y 16
+\i (00:25:46) roam end
+\i (00:25:46) prepopup 1.9621 1.4196
+\i (00:25:47) pick grid 1.5838 1.5355
+\t (00:25:47) last pick:  1.6000 1.5000
+\i (00:25:55) setwindow cvf.dialog
+\i (00:25:55) cvf layers_visible stack-up stack-up/top TRUE
+\i (00:25:56) cvf apply
+\i (00:26:00) cvf cancel
+\i (00:26:20) setwindow pcb
+\i (00:26:20) open 
+\e (00:26:20) Do you want to save the changes you made to BMP280-LGA8.dra?
+\i (00:26:22) fillin no 
+\i (00:26:40) fillin "E:\material\glass\workspace\hardware\5.glass v1.0\extend-pcb\extend-pcb.brd"
+\i (00:26:40) cd "E:\material\glass\workspace\hardware\5.glass v1.0\extend-pcb"
+\t (00:26:40) Opening existing design...
+\i (00:26:40) trapsize 1260
+\i (00:26:40) trapsize 1224
+\i (00:26:40) trapsize 1260
+\i (00:26:41) trapsize 1260
+\t (00:26:41)     Journal end - Fri Jun 10 17:24:47 2016
