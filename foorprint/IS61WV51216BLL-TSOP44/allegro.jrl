@@ -1,20 +1,159 @@
-\t (00:00:03) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
-\t (00:00:03)     Journal start - Thu Apr 21 14:09:00 2016
-\t (00:00:03)         Host=PSAI-PC User=psai Pid=4132 CPUs=4
-\t (00:00:03) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:00:03) 
-\t (00:00:06) Opening existing design...
-\d (00:00:06) Design opened: E:/cadence lib/foorprint/IS61WV51216BLL-TSOP44/is61wv51216bll-tsop44.dra
-\i (00:00:07) trapsize 3498
-\i (00:00:07) trapsize 3396
-\i (00:00:07) trapsize 3515
-\i (00:00:07) trapsize 3649
-\i (00:00:07) trapsize 2888
-\i (00:00:07) trapsize 2888
-\i (00:00:08) generaledit 
-\i (00:00:11) open 
-\i (00:00:19) fillin "E:\cadence lib\foorprint\STM32F407ZGT6-LQFP144\stm32f407zgt6-lqfp144.dra"
-\i (00:00:19) cd "E:\cadence lib\foorprint\STM32F407ZGT6-LQFP144"
-\t (00:00:19) Opening existing design...
-\i (00:00:19) trapsize 3463
-\t (00:00:19)     Journal end - Thu Apr 21 14:09:16 2016
+\t (02:46:23) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (02:46:23)     Journal start - Mon Jun 13 15:01:54 2016
+\t (02:46:23)         Host=PSAI-PC User=psai Pid=9444 CPUs=4
+\t (02:46:23) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (02:46:23) 
+\d (02:46:23) Design opened: E:/cadence lib/foorprint/IS61WV51216BLL-TSOP44/is61wv51216bll-tsop44.dra
+\i (02:46:23) generaledit 
+\i (02:46:25) zoom in 1 
+\i (02:46:25) setwindow pcb
+\i (02:46:25) zoom in -1.6133 -9.3358
+\i (02:46:25) trapsize 712
+\i (02:46:25) zoom in 1 
+\i (02:46:25) setwindow pcb
+\i (02:46:25) zoom in -1.6133 -9.3358
+\i (02:46:25) trapsize 356
+\i (02:46:28) zoom out 1 
+\i (02:46:28) setwindow pcb
+\i (02:46:28) zoom out -4.1993 -9.2931
+\i (02:46:28) trapsize 712
+\i (02:46:28) zoom out 1 
+\i (02:46:28) setwindow pcb
+\i (02:46:28) zoom out -3.5867 -9.2503
+\i (02:46:28) trapsize 1425
+\i (02:46:28) zoom out 1 
+\i (02:46:28) setwindow pcb
+\i (02:46:28) zoom out -1.8525 -8.1389
+\i (02:46:28) trapsize 2850
+\i (02:46:29) zoom in 1 
+\i (02:46:29) setwindow pcb
+\i (02:46:29) zoom in -1.4818 8.7198
+\i (02:46:29) trapsize 1425
+\i (02:46:29) zoom in 1 
+\i (02:46:29) setwindow pcb
+\i (02:46:29) zoom in -2.8211 8.7198
+\i (02:46:29) trapsize 712
+\i (02:46:29) zoom in 1 
+\i (02:46:29) setwindow pcb
+\i (02:46:29) zoom in -2.8211 8.7198
+\i (02:46:29) trapsize 356
+\i (02:46:30) roam start
+\i (02:46:30) roam x -96
+\i (02:46:30) roam y -16
+\i (02:46:30) roam x -80
+\i (02:46:30) roam y -16
+\i (02:46:30) roam x -64
+\i (02:46:30) roam y -16
+\i (02:46:30) roam x -16
+\i (02:46:30) roam x -32
+\i (02:46:30) roam y -16
+\i (02:46:30) roam x -48
+\i (02:46:30) roam x -80
+\i (02:46:30) roam x -32
+\i (02:46:30) roam end
+\i (02:46:31) zoom in 1 
+\i (02:46:31) setwindow pcb
+\i (02:46:31) zoom in -5.4569 9.5107
+\i (02:46:31) trapsize 178
+\i (02:46:35) shape select 
+\i (02:46:37) zoom in 1 
+\i (02:46:37) setwindow pcb
+\i (02:46:37) zoom in -4.9013 9.2828
+\i (02:46:37) trapsize 89
+\i (02:46:37) zoom in 1 
+\i (02:46:37) setwindow pcb
+\i (02:46:37) zoom in -4.9013 9.2828
+\i (02:46:37) trapsize 45
+\i (02:46:37) zoom in 1 
+\i (02:46:37) setwindow pcb
+\i (02:46:37) zoom in -4.9004 9.2828
+\i (02:46:37) trapsize 22
+\i (02:46:38) shape select 
+\i (02:46:39) pick grid -4.8994 9.2726
+\t (02:46:39) last pick:  -4.9000 9.3000
+\i (02:46:39) pick grid -4.8990 9.2691
+\t (02:46:39) last pick:  -4.9000 9.3000
+\i (02:46:40) zoom out 1 
+\i (02:46:40) setwindow pcb
+\i (02:46:40) zoom out -4.9667 9.2740
+\i (02:46:40) trapsize 45
+\i (02:46:40) zoom out 1 
+\i (02:46:40) setwindow pcb
+\i (02:46:40) zoom out -4.9783 9.2668
+\i (02:46:40) trapsize 89
+\i (02:46:40) zoom out 1 
+\i (02:46:40) setwindow pcb
+\i (02:46:40) zoom out -4.9783 9.2669
+\i (02:46:40) trapsize 178
+\i (02:46:41) zoom in 1 
+\i (02:46:41) setwindow pcb
+\i (02:46:41) zoom in -5.2526 9.0602
+\i (02:46:41) trapsize 89
+\i (02:46:41) zoom in 1 
+\i (02:46:41) setwindow pcb
+\i (02:46:41) zoom in -5.2525 9.0603
+\i (02:46:41) trapsize 45
+\i (02:46:41) zoom in 1 
+\i (02:46:41) setwindow pcb
+\i (02:46:41) zoom in -5.2525 9.0603
+\i (02:46:41) trapsize 22
+\i (02:46:42) zoom out 1 
+\i (02:46:42) setwindow pcb
+\i (02:46:42) zoom out -5.1732 9.1191
+\i (02:46:42) trapsize 45
+\i (02:46:42) roam start
+\i (02:46:42) roam x 32
+\i (02:46:42) roam y -64
+\i (02:46:42) roam y -16
+\i (02:46:43) roam y -16
+\i (02:46:43) roam x 32
+\i (02:46:43) roam y -32
+\i (02:46:43) roam x 16
+\i (02:46:43) roam y -16
+\i (02:46:43) roam end
+\i (02:46:44) zoom in 1 
+\i (02:46:44) setwindow pcb
+\i (02:46:44) zoom in -5.1228 9.2641
+\i (02:46:44) trapsize 22
+\i (02:46:44) zoom in 1 
+\i (02:46:44) setwindow pcb
+\i (02:46:44) zoom in -5.1228 9.2641
+\i (02:46:44) trapsize 11
+\i (02:46:46) zoom out 1 
+\i (02:46:46) setwindow pcb
+\i (02:46:46) zoom out -5.1553 9.2036
+\i (02:46:46) trapsize 22
+\i (02:46:46) zoom out 1 
+\i (02:46:46) setwindow pcb
+\i (02:46:46) zoom out -5.1555 9.2037
+\i (02:46:46) trapsize 45
+\i (02:46:48) zoom out 1 
+\i (02:46:48) setwindow pcb
+\i (02:46:48) zoom out -5.1554 9.2036
+\i (02:46:48) trapsize 89
+\i (02:46:50) prepopup -5.1073 9.7223
+\i (02:46:50) done 
+\i (02:46:50) generaledit 
+\i (02:47:00) zoom out 1 
+\i (02:47:00) setwindow pcb
+\i (02:47:00) zoom out -4.5317 9.2910
+\i (02:47:00) trapsize 178
+\i (02:47:00) zoom out 1 
+\i (02:47:00) setwindow pcb
+\i (02:47:00) zoom out -4.5316 9.2910
+\i (02:47:00) trapsize 356
+\i (02:47:01) zoom out 1 
+\i (02:47:01) setwindow pcb
+\i (02:47:01) zoom out -4.5315 9.2911
+\i (02:47:01) trapsize 713
+\i (02:47:06) open 
+\e (02:47:06) Do you want to save the changes you made to is61wv51216bll-tsop44.dra?
+\i (02:47:08) fillin no 
+\i (02:47:30) fillin "E:\material\lool Inds Vibration\hardware\v2.0\pcb\vibration.brd"
+\i (02:47:30) cd "E:\material\lool Inds Vibration\hardware\v2.0\pcb"
+\t (02:47:30) Opening existing design...
+\i (02:47:30) trapsize 6137
+\i (02:47:30) trapsize 5965
+\i (02:47:30) trapsize 6137
+\i (02:47:31) trapsize 6137
+\t (02:47:31)     Journal end - Mon Jun 13 15:03:02 2016

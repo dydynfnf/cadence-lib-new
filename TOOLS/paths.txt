@@ -1,5 +1,5 @@
 OrCAD设置封装路径:
-在$:\Cadence\SPB_Data\cdssetup\OrCAD_Capture\16.6.0\Capture.ini中,找到[Allegro Footprints]，在后面加入psm和pad路径,Dir1=... ,Dir2= ...;
+在$:\Cadence\SPB_Data\cdssetup\OrCAD_Capture\16.6.0\Capture.ini中,找到[Allegro Footprints]，在"[Allegro Footprints]"后面加入psm和pad路径,Dir1=... ,Dir2= ...;
 
 Allegro设置封装路径:
-Setup->User Preferences->Paths->Library,加入psm和pad路径.
+Setup->User Preferences->Paths->Library,加入psmpath和padpath路径.
