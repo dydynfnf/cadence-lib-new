@@ -1,0 +1,124 @@
+\t (00:25:29) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:25:29)     Journal start - Wed Sep 28 22:52:24 2016
+\t (00:25:29)         Host=DESKTOP-5QD1SMV User=DaQi Pid=3380 CPUs=4
+\t (00:25:29) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:25:29) 
+\d (00:25:29) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/STM32F103_LQFP64/STM32F103_LQFP64/STM32F103_LQFP64_Allegro/s700c50_SM.dra
+\i (00:25:30) generaledit 
+\i (00:25:31) zoom in 1 
+\i (00:25:31) setwindow pcb
+\i (00:25:31) zoom in -0.1647 -1.9469
+\i (00:25:31) trapsize 3017
+\i (00:25:32) zoom in 1 
+\i (00:25:32) setwindow pcb
+\i (00:25:32) zoom in 2.4901 0.4666
+\i (00:25:32) trapsize 1508
+\i (00:25:33) zoom out 1 
+\i (00:25:33) setwindow pcb
+\i (00:25:33) zoom out 2.4902 0.4666
+\i (00:25:33) trapsize 3017
+\i (00:25:36) zoom in 1 
+\i (00:25:36) setwindow pcb
+\i (00:25:36) zoom in -0.6473 0.1046
+\i (00:25:36) trapsize 1508
+\i (00:25:36) zoom in 1 
+\i (00:25:36) setwindow pcb
+\i (00:25:36) zoom in -0.5266 0.0443
+\i (00:25:36) trapsize 754
+\i (00:25:36) zoom in 1 
+\i (00:25:36) setwindow pcb
+\i (00:25:36) zoom in -0.4965 0.0443
+\i (00:25:36) trapsize 377
+\i (00:25:37) zoom out 1 
+\i (00:25:37) setwindow pcb
+\i (00:25:37) zoom out -0.4814 0.0293
+\i (00:25:37) trapsize 754
+\i (00:25:37) zoom out 1 
+\i (00:25:37) setwindow pcb
+\i (00:25:37) zoom out -0.4663 0.0141
+\i (00:25:37) trapsize 1508
+\i (00:25:38) zoom in 1 
+\i (00:25:38) setwindow pcb
+\i (00:25:38) zoom in -0.4664 0.0142
+\i (00:25:38) trapsize 754
+\i (00:25:39) zoom out 1 
+\i (00:25:39) setwindow pcb
+\i (00:25:39) zoom out 0.6348 0.0142
+\i (00:25:39) trapsize 1508
+\i (00:25:54) open 
+\i (00:25:58) fillin "STM32F103_LQFP64.dra"
+\t (00:25:58) Opening existing design...
+\i (00:25:58) trapsize 3017
+\d (00:25:58) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/STM32F103_LQFP64/STM32F103_LQFP64/STM32F103_LQFP64_Allegro/STM32F103_LQFP64.dra
+\i (00:25:58) generaledit 
+\i (00:26:01) zoom in 1 
+\i (00:26:01) setwindow pcb
+\i (00:26:01) zoom in 11.4711 -0.7494
+\i (00:26:01) trapsize 1508
+\i (00:26:01) zoom in 1 
+\i (00:26:01) setwindow pcb
+\i (00:26:01) zoom in 11.4711 -0.7494
+\i (00:26:01) trapsize 754
+\i (00:26:01) zoom in 1 
+\i (00:26:01) setwindow pcb
+\i (00:26:01) zoom in 11.5164 -0.2214
+\i (00:26:01) trapsize 377
+\i (00:26:02) zoom in 1 
+\i (00:26:02) setwindow pcb
+\i (00:26:02) zoom in 11.5164 -0.2213
+\i (00:26:02) trapsize 189
+\i (00:26:05) setwindow form.find
+\i (00:26:05) FORM find all_off  
+\i (00:26:05) FORM find pins YES 
+\i (00:27:28) setwindow pcb
+\i (00:27:28) refresh padstack 
+\i (00:27:29) setwindow form.rf_pad
+\i (00:27:29) FORM rf_pad execute  
+\t (00:27:29) Starting Refreshing padstacks...
+\t (00:27:31) Opening existing design...
+\i (00:27:31) setwindow pcb
+\i (00:27:31) trapsize 189
+\i (00:27:34) zoom out 1 
+\i (00:27:34) setwindow pcb
+\i (00:27:34) zoom out 12.3723 -0.3419
+\i (00:27:34) trapsize 377
+\i (00:27:34) zoom out 1 
+\i (00:27:34) setwindow pcb
+\i (00:27:34) zoom out 12.3724 -0.3571
+\i (00:27:34) trapsize 754
+\i (00:27:34) zoom out 1 
+\i (00:27:34) setwindow pcb
+\i (00:27:34) zoom out 12.3724 -0.3570
+\i (00:27:34) trapsize 1508
+\i (00:27:34) zoom out 1 
+\i (00:27:34) setwindow pcb
+\i (00:27:34) zoom out 12.3725 -0.3570
+\i (00:27:34) trapsize 3017
+\i (00:27:35) zoom in 1 
+\i (00:27:35) setwindow pcb
+\i (00:27:35) zoom in 6.7052 0.0654
+\i (00:27:35) trapsize 1508
+\i (00:27:35) zoom in 1 
+\i (00:27:35) setwindow pcb
+\i (00:27:35) zoom in 6.7053 0.1257
+\i (00:27:35) trapsize 754
+\i (00:27:35) zoom in 1 
+\i (00:27:35) setwindow pcb
+\i (00:27:35) zoom in 8.1835 1.8001
+\i (00:27:35) trapsize 377
+\i (00:27:37) setwindow form.rf_pad
+\i (00:27:37) FORM rf_pad cancel  
+\i (00:27:37) setwindow pcb
+\i (00:27:37) generaledit 
+\i (00:27:39) open 
+\e (00:27:39) Do you want to save the changes you made to F:/CADENCE LIB/cadence-lib-new/foorprint/STM32F103_LQFP64/STM32F103_LQFP64/STM32F103_LQFP64_Allegro/STM32F103_LQFP64.dra?
+\i (00:27:41) fillin yes 
+\t (00:27:42) Symbol 'stm32f103_lqfp64.psm' created.
+\i (00:28:01) fillin "F:\对外项目\激光测距\Hardware\PCB\VL53L0X.brd"
+\i (00:28:01) cd "F:\对外项目\激光测距\Hardware\PCB"
+\t (00:28:01) Opening existing design...
+\i (00:28:02) trapsize 636
+\i (00:28:02) trapsize 620
+\i (00:28:02) trapsize 636
+\i (00:28:04) trapsize 636
+\t (00:28:04)     Journal end - Wed Sep 28 22:54:59 2016

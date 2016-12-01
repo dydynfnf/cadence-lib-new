@@ -1,0 +1,16 @@
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Tue Sep 27 21:33:20 2016
+\t (00:00:03)         Host=DESKTOP-5QD1SMV User=DaQi Pid=11356 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/H-3-2/H-3-2.dra
+\i (00:00:05) trapsize 838
+\i (00:00:05) trapsize 815
+\i (00:00:05) trapsize 842
+\i (00:00:07) trapsize 702
+\i (00:00:07) trapsize 702
+\i (00:00:07) generaledit 
+\i (00:00:10) new 
+\i (00:01:22) newdrawfillin "MTG-450-320.dra" "Package Symbol"
+\t (00:01:22)     Journal end - Tue Sep 27 21:34:40 2016

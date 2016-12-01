@@ -1,0 +1,22 @@
+\t (00:00:02) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:02)     Journal start - Fri Jul 29 20:53:20 2016
+\t (00:00:02)         Host=DESKTOP-5QD1SMV User=DaQi Pid=9292 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/MPU9255-QFN/MPU9255/MPU9255_Allegro/MPU9255.dra
+\i (00:00:04) trapsize 550
+\i (00:00:04) trapsize 535
+\i (00:00:04) trapsize 552
+\i (00:00:05) trapsize 460
+\i (00:00:05) trapsize 460
+\i (00:00:06) generaledit 
+\i (00:00:22) open 
+\i (00:00:43) fillin "F:\FirstTry\pcb\FirstTry.brd"
+\i (00:00:43) cd "F:\FirstTry\pcb"
+\t (00:00:43) Opening existing design...
+\i (00:00:44) trapsize 1253
+\i (00:00:44) trapsize 1220
+\i (00:00:44) trapsize 1253
+\i (00:00:45) trapsize 1253
+\t (00:00:45)     Journal end - Fri Jul 29 20:54:03 2016

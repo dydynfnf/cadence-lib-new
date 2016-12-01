@@ -1,0 +1,266 @@
+\t (00:01:30) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:01:30)     Journal start - Mon Jul 25 20:53:07 2016
+\t (00:01:30)         Host=DAQI-PC User=DaQi Pid=10132 CPUs=4
+\t (00:01:30) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:01:30) 
+\t (00:01:30) Starting new design...
+\i (00:01:31) trapsize 154321
+\i (00:01:31) trapsize 150263
+\i (00:01:31) trapsize 154321
+\i (00:01:32) trapsize 406504
+\i (00:01:32) trapsize 406504
+\i (00:01:33) generaledit 
+\i (00:01:38) prmed 
+\i (00:01:40) setwindow form.prmedit
+\i (00:01:40) FORM prmedit design  
+\i (00:01:52) FORM prmedit x 200.000 
+\i (00:01:58) FORM prmedit y 200.000 
+\i (00:02:01) FORM prmedit x -200.000 
+\i (00:02:03) FORM prmedit y -200.000 
+\i (00:02:06) FORM prmedit width 200.000 
+\i (00:02:11) FORM prmedit height 400.000 
+\i (00:02:15) FORM prmedit width 400.000 
+\i (00:02:15) FORM prmedit done  
+\i (00:02:15) setwindow pcb
+\i (00:02:15) trapsize 4065
+\i (00:02:15) generaledit 
+\i (00:02:17) zoom in 1 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom in -14.634 -9.756
+\i (00:02:17) trapsize 2033
+\i (00:02:18) grid toggle 
+\i (00:02:18) generaledit 
+\i (00:02:19) grid toggle 
+\i (00:02:19) generaledit 
+\i (00:02:20) zoom in 1 
+\i (00:02:20) setwindow pcb
+\i (00:02:20) zoom in -4.472 -12.602
+\i (00:02:20) trapsize 1016
+\i (00:02:21) zoom out 1 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom out -3.252 -8.537
+\i (00:02:21) trapsize 2033
+\i (00:02:26) add pin 
+\i (00:02:30) setwindow form.mini
+\i (00:02:30) FORM mini pad_browse  
+\i (00:03:06) fillin "C150h90"
+\w (00:03:06) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:03:06) Using 'C150H90.pad'.
+\i (00:03:20) setwindow pcb
+\i (00:03:20) pick 0 0 
+\t (00:03:20) last pick:  0.000 0.000
+\t (00:03:20) Using 'C150H90.pad'.
+\i (00:03:28) pick 100 0 
+\t (00:03:28) last pick:  100.000 0.000
+\t (00:03:28) Using 'C150H90.pad'.
+\i (00:03:48) pick 0 -100 
+\t (00:03:48) last pick:  0.000 -100.000
+\t (00:03:48) Using 'C150H90.pad'.
+\i (00:03:56) pick 100 -100 
+\t (00:03:56) last pick:  100.000 -100.000
+\t (00:03:56) Using 'C150H90.pad'.
+\i (00:03:58) prepopup 157.724 15.041
+\i (00:03:59) done 
+\t (00:03:59) Exiting from Add Pin.
+\i (00:03:59) generaledit 
+\i (00:03:59) pick grid 154.472 -5.284
+\t (00:03:59) last pick:  200.000 0.000
+\i (00:04:00) zoom out 1 
+\i (00:04:00) setwindow pcb
+\i (00:04:00) zoom out 94.309 15.041
+\i (00:04:00) trapsize 4065
+\i (00:04:01) zoom in 1 
+\i (00:04:01) setwindow pcb
+\i (00:04:01) zoom in 57.724 -80.488
+\i (00:04:01) trapsize 2033
+\i (00:04:02) zoom in 1 
+\i (00:04:02) setwindow pcb
+\i (00:04:02) zoom in 92.276 -102.033
+\i (00:04:02) trapsize 1016
+\i (00:04:03) zoom out 1 
+\i (00:04:03) setwindow pcb
+\i (00:04:03) zoom out 82.723 -102.032
+\i (00:04:03) trapsize 2033
+\i (00:04:04) zoom out 1 
+\i (00:04:04) setwindow pcb
+\i (00:04:04) zoom out 91.057 -102.439
+\i (00:04:04) trapsize 4065
+\i (00:04:05) zoom in 1 
+\i (00:04:05) setwindow pcb
+\i (00:04:05) zoom in 50.407 -11.382
+\i (00:04:05) trapsize 2033
+\i (00:04:06) zoom out 1 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) zoom out -12.195 -1.626
+\i (00:04:06) trapsize 4065
+\i (00:04:07) zoom in 1 
+\i (00:04:07) setwindow pcb
+\i (00:04:07) zoom in -17.886 -27.642
+\i (00:04:07) trapsize 2033
+\i (00:05:19) color192 
+\i (00:05:20) setwindow cvf.dialog
+\i (00:05:20) cvf layer_mode
+\i (00:05:20) setwindow pcb
+\i (00:05:20) generaledit 
+\i (00:05:25) setwindow cvf.dialog
+\i (00:05:25) cvf layers_visible package_geometry/pin_number FALSE
+\i (00:05:27) cvf okay
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom out 1 
+\i (00:05:28) setwindow pcb
+\i (00:05:28) zoom out 25.610 -23.984
+\i (00:05:28) trapsize 4065
+\i (00:05:29) zoom in 1 
+\i (00:05:29) setwindow pcb
+\i (00:05:29) zoom in -8.943 -47.967
+\i (00:05:29) trapsize 2033
+\i (00:05:32) add line 
+\i (00:05:39) setwindow form.mini
+\i (00:05:39) FORM mini subclass SILKSCREEN_TOP 
+\i (00:05:49) FORM mini line_width 6.000 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) pick -50 0 
+\t (00:05:59) last pick:  -50.000 0.000
+\i (00:06:05) ipick 0 50 
+\t (00:06:05) last pick:  -50.000 50.000
+\i (00:06:11) ipick 200 
+\t (00:06:11) last pick:  150.000 50.000
+\i (00:06:19) ipick 0 -200 
+\t (00:06:19) last pick:  150.000 -150.000
+\i (00:06:36) ipick -200 
+\t (00:06:36) last pick:  -50.000 -150.000
+\i (00:06:51) ipick 0 150 
+\t (00:06:51) last pick:  -50.000 0.000
+\i (00:06:52) prepopup -46.748 -45.121
+\i (00:06:53) done 
+\i (00:06:53) generaledit 
+\i (00:06:54) zoom out 1 
+\i (00:06:54) setwindow pcb
+\i (00:06:54) zoom out -58.537 -30.081
+\i (00:06:54) trapsize 4065
+\i (00:06:55) zoom in 1 
+\i (00:06:55) setwindow pcb
+\i (00:06:55) zoom in 4.065 -47.967
+\i (00:06:55) trapsize 2033
+\i (00:06:57) zoom out 1 
+\i (00:06:57) setwindow pcb
+\i (00:06:57) zoom out -11.789 3.253
+\i (00:06:57) trapsize 4065
+\i (00:06:58) zoom in 1 
+\i (00:06:58) setwindow pcb
+\i (00:06:58) zoom in -19.512 0.813
+\i (00:06:58) trapsize 2033
+\i (00:06:59) zoom out 1 
+\i (00:06:59) setwindow pcb
+\i (00:06:59) zoom out -25.203 17.887
+\i (00:06:59) trapsize 4065
+\i (00:07:15) package bound 
+\i (00:07:23) pick grid -52.032 47.968
+\t (00:07:23) last pick:  -100.000 0.000
+\i (00:07:25) pick grid -49.593 45.529
+\t (00:07:25) last pick:  0.000 0.000
+\i (00:07:29) prepopup -104.878 1.626
+\i (00:07:30) oops 
+\t (00:07:30) last pick:  -100.000 0.000
+\i (00:07:32) prepopup -114.634 17.886
+\i (00:07:33) done 
+\i (00:07:33) generaledit 
+\i (00:07:34) zoom in 1 
+\i (00:07:34) setwindow pcb
+\i (00:07:34) zoom in -20.325 -7.317
+\i (00:07:34) trapsize 2033
+\i (00:07:35) zoom in 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom in -13.821 1.220
+\i (00:07:35) trapsize 1016
+\i (00:07:35) zoom out 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom out -19.308 -2.642
+\i (00:07:35) trapsize 2033
+\i (00:07:44) g 50 
+\i (00:07:44) replay ./grids.scr 
+\i (00:07:44) scriptmode +i +n 
+\i (00:07:44) version 15.5 
+\t (00:07:44) Script version: 15.5
+\i (00:07:44) setwindow pcb 
+\i (00:07:44) trapsize 15382 
+\i (00:07:44) define grid 
+\t (00:07:44) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:07:44) setwindow form.grid 
+\i (00:07:44) FORM grid non_etch non_etch_x_grids 50.000000 
+\i (00:07:44) FORM grid non_etch non_etch_y_grids 50.000000 
+\i (00:07:44) FORM grid all_etch all_etch_x_grids 50.000000 
+\i (00:07:44) FORM grid all_etch all_etch_y_grids 50.000000 
+\i (00:07:44) FORM grid done 
+\i (00:07:44) setwindow pcb 
+\i (00:07:44) trapsize 2033
+\i (00:07:44) generaledit 
+\i (00:07:53) add rect 
+\i (00:07:59) pick grid -49.593 48.985
+\t (00:07:59) last pick:  -50.000 50.000
+\i (00:08:01) pick grid -49.593 48.985
+\t (00:08:01) last pick:  -50.000 50.000
+\i (00:08:03) zoom out 1 
+\i (00:08:03) setwindow pcb
+\i (00:08:03) zoom out 134.960 -74.999
+\i (00:08:03) trapsize 4065
+\i (00:08:03) zoom out 1 
+\i (00:08:03) setwindow pcb
+\i (00:08:03) zoom out 468.293 -150.406
+\i (00:08:03) trapsize 4065
+\i (00:08:05) pick grid 173.171 -141.463
+\t (00:08:05) last pick:  150.000 -150.000
+\i (00:08:06) prepopup 225.203 -91.057
+\i (00:08:07) done 
+\i (00:08:07) generaledit 
+\t (00:08:07) last pick:  200.813 -42.276
+\w (00:08:07) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:08:24) add text 
+\t (00:08:24) Pick text location.
+\i (00:08:32) setwindow form.mini
+\i (00:08:32) FORM mini class REF DES 
+\i (00:08:37) setwindow pcb
+\i (00:08:37) pick grid -10.569 70.732
+\t (00:08:37) last pick:  0.000 50.000
+\t (00:08:37) Enter text string.
+\i (00:08:43) setwindow pcb
+\i (00:08:43) pick 0.000 50.000
+\i (00:08:45) pick grid 21.138 61.789
+\t (00:08:45) last pick:  0.000 50.000
+\t (00:08:45) Refdes of this subclass is already defined, change subclass.
+\i (00:08:47) pick grid 30.081 68.293
+\t (00:08:47) last pick:  50.000 50.000
+\t (00:08:47) Refdes of this subclass is already defined, change subclass.
+\i (00:08:52) g 1 
+\i (00:08:52) replay ./grids.scr 
+\i (00:08:52) scriptmode +i +n 
+\i (00:08:52) version 15.5 
+\t (00:08:52) Script version: 15.5
+\i (00:08:52) setwindow pcb 
+\i (00:08:52) trapsize 15382 
+\i (00:08:52) define grid 
+\t (00:08:52) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:08:53) setwindow form.grid 
+\i (00:08:53) FORM grid non_etch non_etch_x_grids 1.000000 
+\i (00:08:53) FORM grid non_etch non_etch_y_grids 1.000000 
+\i (00:08:53) FORM grid all_etch all_etch_x_grids 1.000000 
+\i (00:08:53) FORM grid all_etch all_etch_y_grids 1.000000 
+\i (00:08:53) FORM grid done 
+\i (00:08:53) setwindow pcb 
+\i (00:08:53) trapsize 4065
+\i (00:08:53) generaledit 
+\i (00:08:55) pick grid 2.439 63.415
+\t (00:08:55) last pick:  2.000 63.000
+\i (00:08:55) move 
+\t (00:08:55) last pick:  0.000 50.000
+\t (00:08:55) Pick new location for the element(s).
+\i (00:08:56) pick grid 21.138 56.911
+\t (00:08:56) last pick:  21.000 57.000
+\i (00:08:56) generaledit 
+\i (00:08:57) prepopup 186.179 4.065
+\i (00:08:58) prepopup 147.155 79.675
+\i (00:09:00) save 
+\t (00:09:02) Symbol 'h-2-2.psm' created.
+\i (00:09:02) generaledit 
+\i (00:09:06) exit 
+\t (00:09:08)     Journal end - Mon Jul 25 21:00:45 2016

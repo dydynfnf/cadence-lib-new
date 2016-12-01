@@ -1,0 +1,142 @@
+\t (00:01:22) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:01:22)     Journal start - Tue Sep 27 21:34:40 2016
+\t (00:01:22)         Host=DESKTOP-5QD1SMV User=DaQi Pid=11356 CPUs=4
+\t (00:01:22) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:01:22) 
+\t (00:01:22) Starting new design...
+\i (00:01:22) trapsize 1403
+\i (00:01:22) trapsize 1403
+\i (00:01:22) generaledit 
+\i (00:01:25) prmed 
+\i (00:01:26) setwindow form.prmedit
+\i (00:01:26) FORM prmedit design  
+\i (00:01:30) FORM prmedit done  
+\i (00:01:30) setwindow pcb
+\i (00:01:30) generaledit 
+\i (00:01:31) grid toggle 
+\i (00:01:31) generaledit 
+\i (00:01:53) add pin 
+\i (00:01:56) setwindow form.mini
+\i (00:01:56) FORM mini pad_browse  
+\i (00:02:04) fillin "Mtg-450-320"
+\w (00:02:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:04) Using 'MTG-450-320.pad'.
+\i (00:02:11) setwindow pcb
+\i (00:02:11) pick 0 0 
+\t (00:02:11) last pick:  0.00 0.00
+\t (00:02:11) Using 'MTG-450-320.pad'.
+\i (00:02:12) prepopup 447.82 248.57
+\i (00:02:12) done 
+\t (00:02:12) Exiting from Add Pin.
+\i (00:02:13) generaledit 
+\i (00:02:20) prepopup 254.18 4.41
+\i (00:02:21) pick grid 231.73 136.31
+\t (00:02:21) last pick:  200.00 100.00
+\i (00:02:23) zoom in 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom in -155.56 -76.98
+\i (00:02:23) trapsize 702
+\i (00:02:24) zoom in 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom in -62.95 -18.04
+\i (00:02:24) trapsize 351
+\i (00:02:24) zoom in 1 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom in -48.22 -11.02
+\i (00:02:24) trapsize 175
+\i (00:02:25) zoom out 1 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom out -48.57 -8.57
+\i (00:02:25) trapsize 351
+\i (00:02:28) zoom out 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom out 145.78 12.48
+\i (00:02:28) trapsize 702
+\i (00:02:38) add rect 
+\i (00:02:44) setwindow form.mini
+\i (00:02:44) FORM mini class PACKAGE GEOMETRY 
+\i (00:02:50) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:02:52) setwindow pcb
+\i (00:02:52) pick grid -109.26 88.26
+\t (00:02:52) last pick:  -100.00 100.00
+\i (00:02:55) pick grid 59.12 -50.66
+\t (00:02:55) last pick:  100.00 -100.00
+\i (00:03:08) prepopup 238.73 -43.64
+\i (00:03:09) done 
+\i (00:03:09) generaledit 
+\i (00:03:12) zoom in 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom in -25.07 -38.03
+\i (00:03:12) trapsize 351
+\i (00:03:20) add text 
+\t (00:03:20) Pick text location.
+\i (00:03:24) setwindow form.mini
+\i (00:03:24) FORM mini class ETCH 
+\i (00:03:26) FORM mini class REF DES 
+\i (00:03:30) FORM mini subclass SILKSCREEN_TOP 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom in 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom in 151.03 -0.84
+\i (00:03:31) trapsize 175
+\i (00:03:31) zoom in 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom in 151.03 -0.84
+\i (00:03:31) trapsize 88
+\i (00:03:31) zoom in 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom in 150.85 -0.84
+\i (00:03:31) trapsize 44
+\i (00:03:32) zoom out 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 152.17 -4.25
+\i (00:03:32) trapsize 88
+\i (00:03:32) zoom out 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 153.06 -5.66
+\i (00:03:32) trapsize 175
+\i (00:03:32) zoom out 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 149.54 -6.37
+\i (00:03:32) trapsize 351
+\i (00:03:34) pick grid -42.70 119.23
+\t (00:03:34) last pick:  0.00 100.00
+\t (00:03:34) Enter text string.
+\i (00:03:40) setwindow pcb
+\i (00:03:40) prepopup 104.64 79.23
+\i (00:03:41) done 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) pick 0.00 100.00
+\i (00:03:41) setwindow pcb
+\i (00:03:41) generaledit 
+\i (00:03:42) drag_start grid 37.98 112.91
+\i (00:03:42) move 
+\t (00:03:42) last pick:  0.00 100.00
+\t (00:03:42) Pick new location for the element(s).
+\i (00:03:42) drag_stop grid -4.11 116.42
+\i (00:03:42) generaledit 
+\i (00:03:45) pick grid 14.83 117.82
+\t (00:03:45) last pick:  0.00 100.00
+\i (00:03:51) move 
+\t (00:03:51) last pick:  0.00 100.00
+\t (00:03:51) Pick new location for the element(s).
+\i (00:03:52) pick grid 22.55 117.82
+\t (00:03:52) last pick:  0.00 100.00
+\i (00:03:52) generaledit 
+\i (00:03:53) move 
+\t (00:03:53) last pick:  0.00 100.00
+\t (00:03:53) Pick new location for the element(s).
+\i (00:03:54) move 
+\t (00:03:55) last pick:  0.00 100.00
+\t (00:03:55) Pick new location for the element(s).
+\i (00:03:57) pick grid 48.51 110.10
+\t (00:03:57) last pick:  0.00 100.00
+\i (00:03:57) generaledit 
+\i (00:03:58) prepopup 216.19 58.19
+\i (00:03:59) pick grid 124.98 90.46
+\t (00:03:59) last pick:  100.00 100.00
+\i (00:04:02) save 
+\t (00:04:03) Symbol 'mtg-450-320.psm' created.
+\i (00:04:03) generaledit 
+\i (00:04:07) exit 
+\t (00:04:08)     Journal end - Tue Sep 27 21:37:26 2016

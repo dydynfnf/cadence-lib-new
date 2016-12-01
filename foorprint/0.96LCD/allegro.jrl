@@ -1,0 +1,27 @@
+\t (00:00:31) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:31)     Journal start - Tue Jul 05 16:44:37 2016
+\t (00:00:31)         Host=DAQI-PC User=DaQi Pid=10760 CPUs=4
+\t (00:00:31) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:31) 
+\d (00:00:31) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/0.96LCD/OLED.dra
+\i (00:00:31) generaledit 
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 12.5102 2.5254
+\i (00:00:32) trapsize 5081
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 35.0203 -1.4634
+\i (00:00:32) trapsize 5081
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 0.6707 -12.6423
+\i (00:00:32) trapsize 2541
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 10.3252 -10.6605
+\i (00:00:33) trapsize 5081
+\i (00:00:34) pick grid 29.7358 3.4146
+\t (00:00:34) last pick:  29.7000 3.4000
+\i (00:00:59) exit 
+\t (00:01:00)     Journal end - Tue Jul 05 16:45:06 2016

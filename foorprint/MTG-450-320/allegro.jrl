@@ -1,0 +1,16 @@
+\t (00:00:02) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:02)     Journal start - Tue Sep 27 21:57:32 2016
+\t (00:00:02)         Host=DESKTOP-5QD1SMV User=DaQi Pid=13700 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/MTG-450-320/MTG-450-320.dra
+\i (00:00:05) trapsize 419
+\i (00:00:05) trapsize 408
+\i (00:00:05) trapsize 421
+\i (00:00:07) trapsize 351
+\i (00:00:07) trapsize 351
+\i (00:00:07) generaledit 
+\i (00:00:29) new 
+\i (00:01:13) newdrawfillin "VL53L0X.brd" "Board"
+\t (00:01:13)     Journal end - Tue Sep 27 21:58:43 2016

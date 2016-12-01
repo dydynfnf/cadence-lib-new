@@ -1,0 +1,19 @@
+\t (00:00:02) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:02)     Journal start - Wed Aug 17 16:06:27 2016
+\t (00:00:02)         Host=DESKTOP-5QD1SMV User=DaQi Pid=5568 CPUs=4
+\t (00:00:02) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/SOIC-8N/SOIC-8N_Allegro/SOIC-8N.dra
+\i (00:00:05) trapsize 1717
+\i (00:00:05) trapsize 1671
+\i (00:00:05) trapsize 1725
+\i (00:00:06) trapsize 1438
+\i (00:00:06) trapsize 1438
+\i (00:00:06) generaledit 
+\i (00:00:09) open 
+\i (00:00:13) fillin "menu_cancel"
+\i (00:00:13) generaledit 
+\i (00:00:14) exit 
+\t (00:00:15)     Journal end - Wed Aug 17 16:06:40 2016

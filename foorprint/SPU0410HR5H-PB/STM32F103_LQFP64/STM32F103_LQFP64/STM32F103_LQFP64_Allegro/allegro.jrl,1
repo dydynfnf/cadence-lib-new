@@ -1,0 +1,125 @@
+\t (00:00:28) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:28)     Journal start - Sat Sep 24 22:29:51 2016
+\t (00:00:28)         Host=DESKTOP-5QD1SMV User=DaQi Pid=10988 CPUs=4
+\t (00:00:28) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:28) 
+   (00:00:28) Loading axlcore.cxt 
+\t (00:00:29) Opening existing design...
+\d (00:00:30) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/STM32F103_LQFP64/STM32F103_LQFP64/STM32F103_LQFP64_Allegro/STM32F103_LQFP64.dra
+\i (00:00:30) trapsize 3603
+\i (00:00:30) trapsize 3507
+\i (00:00:30) trapsize 3620
+\i (00:00:32) trapsize 3017
+\i (00:00:32) trapsize 3017
+\i (00:00:32) generaledit 
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 0.1883 -8.8948
+\i (00:00:43) trapsize 1508
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 0.1883 -8.8948
+\i (00:00:43) trapsize 754
+\i (00:00:44) zoom out 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom out -0.0832 -9.3322
+\i (00:00:44) trapsize 1508
+\i (00:00:58) grid toggle 
+\i (00:00:58) generaledit 
+\i (00:00:59) grid toggle 
+\i (00:00:59) generaledit 
+\i (00:01:00) color192 
+\i (00:01:00) setwindow cvf.dialog
+\i (00:01:00) cvf layer_mode
+\i (00:01:00) setwindow pcb
+\i (00:01:00) generaledit 
+\i (00:01:03) setwindow cvf.dialog
+\i (00:01:03) cvf layer_tree_item 'Package Geometry'
+\i (00:01:04) cvf layer_tree_item 'Board Geometry'
+\i (00:01:09) cvf layer_tree_item 'Package Geometry'
+\i (00:01:14) cvf okay
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 11.1695 0.5328
+\i (00:01:15) trapsize 754
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 11.1695 0.5328
+\i (00:01:15) trapsize 377
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out 13.2134 -1.9636
+\i (00:01:16) trapsize 754
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out 13.2134 -1.9786
+\i (00:01:16) trapsize 1508
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in 2.5339 2.1544
+\i (00:01:16) trapsize 754
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 2.5490 2.1091
+\i (00:01:17) trapsize 377
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 2.2776 1.8979
+\i (00:01:17) trapsize 189
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 2.2662 1.8980
+\i (00:01:17) trapsize 94
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 1.8477 1.9527
+\i (00:01:17) trapsize 189
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 1.8628 1.9603
+\i (00:01:18) trapsize 377
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 1.8627 1.9603
+\i (00:01:18) trapsize 754
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 1.8778 1.9754
+\i (00:01:18) trapsize 1508
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 1.8777 1.9754
+\i (00:01:18) trapsize 3017
+\i (00:01:20) zoom in 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom in 3.3270 -1.6449
+\i (00:01:20) trapsize 1508
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 3.3271 -1.6750
+\i (00:01:20) trapsize 3017
+\i (00:01:22) exit 
+\e (00:01:22) Do you want to save the changes you made to STM32F103_LQFP64.dra?
+\i (00:01:24) fillin menu_cancel 
+\i (00:01:24) generaledit 
+\i (00:06:09) zoom out 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom out 7.0077 -1.7354
+\i (00:06:09) trapsize 6034
+\i (00:06:09) zoom out 1 
+\i (00:06:09) setwindow pcb
+\i (00:06:09) zoom out 38.2000 -14.3853
+\i (00:06:09) trapsize 6034
+\i (00:06:10) zoom in 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) zoom in -0.1738 -7.9897
+\i (00:06:10) trapsize 3017
+\i (00:20:16) open 
+\e (00:20:16) Do you want to save the changes you made to STM32F103_LQFP64.dra?
+\i (00:20:18) fillin no 
+\i (00:20:28) fillin "F:\CADENCE LIB\cadence-lib-new\foorprint\SOT-25\SOT-25_Allegro\SOT-25.dra"
+\i (00:20:28) cd "F:\CADENCE LIB\cadence-lib-new\foorprint\SOT-25\SOT-25_Allegro"
+\t (00:20:28) Opening existing design...
+\i (00:20:28) trapsize 1523
+\t (00:20:28)     Journal end - Sat Sep 24 22:49:51 2016

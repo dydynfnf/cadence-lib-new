@@ -1,0 +1,23 @@
+\t (00:00:04) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:04)     Journal start - Wed Aug 17 16:32:07 2016
+\t (00:00:04)         Host=DESKTOP-5QD1SMV User=DaQi Pid=18708 CPUs=4
+\t (00:00:04) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/SOIC-8N/SOIC-8N_Allegro/SOIC-8N.dra
+\i (00:00:06) trapsize 1717
+\i (00:00:06) trapsize 1671
+\i (00:00:06) trapsize 1725
+\i (00:00:07) trapsize 1438
+\i (00:00:07) trapsize 1438
+\i (00:00:08) generaledit 
+\i (00:00:11) open 
+\i (00:00:42) fillin "F:\Vibration\hardware\v2.0\pcb\vibration.brd"
+\i (00:00:42) cd "F:\Vibration\hardware\v2.0\pcb"
+\t (00:00:42) Opening existing design...
+\i (00:00:43) trapsize 25458
+\i (00:00:43) trapsize 24789
+\i (00:00:43) trapsize 25458
+\i (00:00:44) trapsize 25458
+\t (00:00:44)     Journal end - Wed Aug 17 16:32:47 2016

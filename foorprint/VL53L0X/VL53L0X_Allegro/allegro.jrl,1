@@ -1,0 +1,245 @@
+\t (00:02:56) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:02:56)     Journal start - Thu Sep 22 21:20:16 2016
+\t (00:02:56)         Host=DESKTOP-5QD1SMV User=DaQi Pid=11076 CPUs=4
+\t (00:02:56) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:02:56) 
+\d (00:02:56) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/VL53L0X/VL53L0X_Allegro/VL53L0X.dra
+\i (00:02:56) shapeedit 
+\i (00:02:57) zoom out 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom out -0.4987 -2.2768
+\i (00:02:57) trapsize 1013
+\i (00:02:58) zoom in 1 
+\i (00:02:58) setwindow pcb
+\i (00:02:58) zoom in -0.2353 1.0062
+\i (00:02:58) trapsize 507
+\i (00:02:59) zoom in 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom in 0.8939 1.5331
+\i (00:02:59) trapsize 253
+\i (00:03:00) zoom in 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom in 0.9141 1.5331
+\i (00:03:00) trapsize 127
+\i (00:03:00) zoom out 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out 0.9015 1.5154
+\i (00:03:00) trapsize 253
+\i (00:03:01) color192 
+\i (00:03:01) setwindow cvf.dialog
+\i (00:03:01) cvf layer_mode
+\i (00:03:02) setwindow pcb
+\i (00:03:02) shapeedit 
+\i (00:03:03) setwindow cvf.dialog
+\i (00:03:03) cvf layer_tree_item 'Package Geometry'
+\i (00:03:05) cvf layers_visible package_geometry/pin_number TRUE
+\i (00:03:06) cvf okay
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom out 0.4505 0.8670
+\i (00:03:07) trapsize 507
+\i (00:03:07) zoom in 1 
+\i (00:03:07) setwindow pcb
+\i (00:03:07) zoom in 1.2080 1.6675
+\i (00:03:07) trapsize 253
+\i (00:03:08) zoom out 1 
+\i (00:03:08) setwindow pcb
+\i (00:03:08) zoom out 1.0003 1.6726
+\i (00:03:08) trapsize 507
+\i (00:03:10) zoom in 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom in -0.6564 1.6827
+\i (00:03:10) trapsize 253
+\i (00:03:10) zoom out 1 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom out -0.6564 1.6828
+\i (00:03:10) trapsize 507
+\i (00:03:11) zoom out 1 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom out 0.3974 1.8043
+\i (00:03:11) trapsize 1013
+\i (00:03:12) zoom in 1 
+\i (00:03:12) setwindow pcb
+\i (00:03:12) zoom in -0.1137 -2.1677
+\i (00:03:12) trapsize 507
+\i (00:03:13) zoom in 1 
+\i (00:03:13) setwindow pcb
+\i (00:03:13) zoom in 0.5798 -1.4381
+\i (00:03:13) trapsize 253
+\i (00:03:18) pick grid 1.7755 -1.6610
+\t (00:03:18) last pick:  1.8000 -1.7000
+\i (00:03:18) zoom out 1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom out 0.8889 -1.8181
+\i (00:03:18) trapsize 507
+\i (00:03:19) zoom out 1 
+\i (00:03:19) setwindow pcb
+\i (00:03:19) zoom out 0.3119 -1.3519
+\i (00:03:19) trapsize 1013
+\i (00:03:20) zoom in 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom in 1.0820 2.9850
+\i (00:03:20) trapsize 507
+\i (00:03:20) zoom in 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom in -0.5449 2.1947
+\i (00:03:20) trapsize 253
+\i (00:03:20) zoom in 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom in -0.5449 2.1947
+\i (00:03:20) trapsize 127
+\i (00:03:23) setwindow form.find
+\i (00:03:23) FORM find all_off  
+\i (00:03:25) FORM find other_segs YES 
+\i (00:03:37) setwindow form.mini
+\i (00:03:37) FORM mini class PACKAGE GEOMETRY 
+\i (00:03:41) FORM mini subclass SILKSCREEN_TOP 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom out 1 
+\i (00:03:47) setwindow pcb
+\i (00:03:47) zoom out -0.4436 2.2276
+\i (00:03:47) trapsize 253
+\i (00:03:55) zoom out 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom out 0.0529 1.8578
+\i (00:03:55) trapsize 507
+\i (00:03:55) zoom out 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom out 0.5855 1.8579
+\i (00:03:55) trapsize 1013
+\i (00:03:55) zoom in 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom in 1.0415 -1.2022
+\i (00:03:55) trapsize 507
+\i (00:03:56) zoom in 1 
+\i (00:03:56) setwindow pcb
+\i (00:03:56) zoom in -2.6019 -1.1616
+\i (00:03:56) trapsize 253
+\i (00:04:04) setwindow form.find
+\i (00:04:04) FORM find all_off  
+\i (00:04:08) setwindow pcb
+\i (00:04:08) generaledit 
+\i (00:04:12) zoom out 1 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) zoom out -0.2562 -0.2699
+\i (00:04:12) trapsize 507
+\i (00:04:19) zoom out 1 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) zoom out -0.9344 -2.1344
+\i (00:04:19) trapsize 1013
+\i (00:04:19) zoom out 1 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) zoom out 4.8514 -2.2154
+\i (00:04:19) trapsize 2026
+\i (00:04:20) zoom in 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom in 0.6764 2.9509
+\i (00:04:20) trapsize 1013
+\i (00:04:20) zoom in 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom in -0.8232 1.7147
+\i (00:04:20) trapsize 507
+\i (00:04:20) zoom in 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom in -3.4932 1.7249
+\i (00:04:20) trapsize 253
+\i (00:04:31) zoom in 1 
+\i (00:04:31) setwindow pcb
+\i (00:04:31) zoom in -0.8537 1.8363
+\i (00:04:31) trapsize 127
+\i (00:04:31) zoom out 1 
+\i (00:04:31) setwindow pcb
+\i (00:04:31) zoom out -1.2970 1.8896
+\i (00:04:31) trapsize 253
+\i (00:04:32) zoom out 1 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) zoom out -1.1399 1.8997
+\i (00:04:32) trapsize 507
+\i (00:04:37) zoom in 1 
+\i (00:04:37) setwindow pcb
+\i (00:04:37) zoom in 0.8287 1.5046
+\i (00:04:37) trapsize 253
+\i (00:04:39) zoom out 1 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) zoom out 0.0941 1.1449
+\i (00:04:39) trapsize 507
+\i (00:04:40) zoom out 1 
+\i (00:04:40) setwindow pcb
+\i (00:04:40) zoom out -0.1599 1.5604
+\i (00:04:40) trapsize 1013
+\i (00:04:40) zoom in 1 
+\i (00:04:40) setwindow pcb
+\i (00:04:40) zoom in 0.0282 1.3577
+\i (00:04:40) trapsize 507
+\i (00:04:42) zoom out 1 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom out 1.4309 0.4863
+\i (00:04:42) trapsize 1013
+\i (00:04:43) zoom in 1 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom in -0.0124 -2.2292
+\i (00:04:43) trapsize 507
+\i (00:04:48) zoom in 1 
+\i (00:04:48) setwindow pcb
+\i (00:04:48) zoom in -0.1903 1.2869
+\i (00:04:48) trapsize 253
+\i (00:04:48) zoom in 1 
+\i (00:04:48) setwindow pcb
+\i (00:04:48) zoom in -0.1903 1.2869
+\i (00:04:48) trapsize 127
+\i (00:04:48) zoom out 1 
+\i (00:04:48) setwindow pcb
+\i (00:04:48) zoom out -0.1903 1.2869
+\i (00:04:48) trapsize 253
+\i (00:04:48) zoom out 1 
+\i (00:04:48) setwindow pcb
+\i (00:04:48) zoom out -0.1902 1.2870
+\i (00:04:48) trapsize 507
+\i (00:04:55) zoom in 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom in 1.6032 1.8646
+\i (00:04:55) trapsize 253
+\i (00:04:55) zoom in 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom in 1.6032 1.8646
+\i (00:04:55) trapsize 127
+\i (00:04:55) zoom out 1 
+\i (00:04:55) setwindow pcb
+\i (00:04:55) zoom out 1.5880 1.8418
+\i (00:04:55) trapsize 253
+\i (00:04:56) zoom out 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom out 1.5880 1.8419
+\i (00:04:56) trapsize 507
+\i (00:04:56) zoom out 1 
+\i (00:04:56) setwindow pcb
+\i (00:04:56) zoom out 1.4512 1.7912
+\i (00:04:56) trapsize 1013
+\i (00:07:11) zoom in 1 
+\i (00:07:11) setwindow pcb
+\i (00:07:11) zoom in 0.6159 -0.0327
+\i (00:07:11) trapsize 507
+\i (00:07:11) zoom in 1 
+\i (00:07:11) setwindow pcb
+\i (00:07:11) zoom in -2.8147 -0.0732
+\i (00:07:11) trapsize 253
+\i (00:07:12) zoom out 1 
+\i (00:07:12) setwindow pcb
+\i (00:07:12) zoom out -1.7710 -0.5494
+\i (00:07:12) trapsize 507
+\i (00:12:29) show measure 
+\i (00:12:30) pick grid 0.8692 1.5784
+\t (00:12:30) last pick:  0.9000 1.6000
+\i (00:12:31) pick grid 0.7881 -1.6134
+\t (00:12:31) last pick:  0.8000 -1.6000
+\i (00:12:48) pick grid -0.8331 -1.6539
+\t (00:12:48) last pick:  -0.8000 -1.7000
+\i (00:15:14) setwindow text
+\i (00:15:14) close 
+\i (00:16:00) setwindow pcb
+\i (00:16:00) exit 
+\e (00:16:00) Do you want to save the changes you made to VL53L0X.dra?
+\i (00:16:03) fillin yes 
+\t (00:16:05) Symbol 'vl53l0x.psm' created.
+\t (00:16:06)     Journal end - Thu Sep 22 21:33:27 2016

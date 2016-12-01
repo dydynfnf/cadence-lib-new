@@ -2,18 +2,18 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : as1117-12-sot223.dra                          )
+(    Drawing          : STM32F103_LQFP64.dra                          )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Thu Dec 01 17:00:37 2016                      )
+(    Date/Time        : Mon Sep 19 15:10:03 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = F:/Allegeo_Library/foorprint/AS1117-SOT223
-    Name      = as1117-12-sot223.psm
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/STM32F103_LQFP64/STM32F103_LQFP64/STM32F103_LQFP64_Allegro
+    Name      = stm32f103_lqfp64.psm
     User      = DaQi
-    Machine   = DESKTOP-OD3GMBR
+    Machine   = DESKTOP-5QD1SMV
 
 
 Create symbol started.

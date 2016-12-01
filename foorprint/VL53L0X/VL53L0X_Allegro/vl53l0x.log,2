@@ -2,18 +2,18 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : as1117-12-sot223.dra                          )
+(    Drawing          : VL53L0X.dra                                   )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Thu Dec 01 17:00:37 2016                      )
+(    Date/Time        : Mon Sep 19 15:58:05 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = F:/Allegeo_Library/foorprint/AS1117-SOT223
-    Name      = as1117-12-sot223.psm
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/VL53L0X/VL53L0X_Allegro
+    Name      = vl53l0x.psm
     User      = DaQi
-    Machine   = DESKTOP-OD3GMBR
+    Machine   = DESKTOP-5QD1SMV
 
 
 Create symbol started.

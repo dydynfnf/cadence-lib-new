@@ -1,0 +1,20 @@
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Thu Sep 22 22:47:28 2016
+\t (00:00:03)         Host=DESKTOP-5QD1SMV User=DaQi Pid=13076 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/VL53L0X/VL53L0X_Allegro/VL53L0X.dra
+\i (00:00:06) trapsize 605
+\i (00:00:06) trapsize 589
+\i (00:00:06) trapsize 608
+\i (00:00:08) trapsize 507
+\i (00:00:08) trapsize 507
+\i (00:00:08) generaledit 
+\i (00:00:10) open 
+\i (00:00:20) fillin "F:\CADENCE LIB\cadence-lib-new\foorprint\STM32F103_LQFP64\STM32F103_LQFP64\STM32F103_LQFP64_Allegro\STM32F103_LQFP64.dra"
+\i (00:00:20) cd "F:\CADENCE LIB\cadence-lib-new\foorprint\STM32F103_LQFP64\STM32F103_LQFP64\STM32F103_LQFP64_Allegro"
+\t (00:00:20) Opening existing design...
+\i (00:00:20) trapsize 3017
+\t (00:00:20)     Journal end - Thu Sep 22 22:47:44 2016

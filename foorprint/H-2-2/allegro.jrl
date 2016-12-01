@@ -1,0 +1,22 @@
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Mon Jul 25 21:59:37 2016
+\t (00:00:03)         Host=DAQI-PC User=DaQi Pid=9988 CPUs=4
+\t (00:00:03) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:03) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: F:/CADENCE LIB/cadence-lib-new/foorprint/H-2-2/H-2-2.dra
+\i (00:00:06) trapsize 4856
+\i (00:00:06) trapsize 4725
+\i (00:00:06) trapsize 4878
+\i (00:00:08) trapsize 4065
+\i (00:00:08) trapsize 4065
+\i (00:00:09) generaledit 
+\i (00:00:11) open 
+\i (00:00:28) fillin "F:\Vibration\hardware\v2.0\pcb\vibration.brd"
+\i (00:00:28) cd "F:\Vibration\hardware\v2.0\pcb"
+\t (00:00:28) Opening existing design...
+\i (00:00:29) trapsize 61586
+\i (00:00:29) trapsize 59966
+\i (00:00:29) trapsize 61586
+\i (00:00:31) trapsize 101626
+\t (00:00:31)     Journal end - Mon Jul 25 22:00:05 2016

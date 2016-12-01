@@ -2,18 +2,18 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : as1117-12-sot223.dra                          )
+(    Drawing          : MPU9255.dra                                   )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Thu Dec 01 17:00:37 2016                      )
+(    Date/Time        : Tue Jul 05 10:32:36 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
-    Directory = F:/Allegeo_Library/foorprint/AS1117-SOT223
-    Name      = as1117-12-sot223.psm
+    Directory = F:/CADENCE LIB/cadence-lib-new/foorprint/MPU9255-QFN/MPU9255/MPU9255_Allegro
+    Name      = mpu9255.psm
     User      = DaQi
-    Machine   = DESKTOP-OD3GMBR
+    Machine   = DAQI-PC
 
 
 Create symbol started.
