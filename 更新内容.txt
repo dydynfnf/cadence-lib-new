@@ -1,0 +1,5 @@
+git时间			修改内容
+
+2018-3-27		1.PSM中添加H-1封装
+				2.PSM中添加FPC-4封装
+				3.TOOLS中删除paths.txt设置说明，修改为setting.txt

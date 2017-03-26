@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : h-1.dra                                       )
+(    Software Version : 16.6-2015S065                                 )
+(    Date/Time        : Sun Dec 11 22:54:38 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/cadence lib/foorprint/H-1
+    Name      = h-1.psm
+    User      = psai
+    Machine   = PSAI-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

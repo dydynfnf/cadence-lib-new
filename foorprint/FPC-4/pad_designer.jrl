@@ -1,0 +1,21 @@
+\t (00:00:24) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:24)     Journal start - Fri Dec 02 22:37:45 2016
+\t (00:00:24)         Host=PSAI-PC User=psai Pid=8040 CPUs=4
+\t (00:00:24) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:24) 
+\i (00:00:29) FORM padedit layers  
+\i (00:00:35) FORM padedit parameters  
+\i (00:00:37) FORM padedit units Millimeter 
+\i (00:00:40) fillin no 
+\i (00:00:41) FORM padedit layers  
+\i (00:01:15) FORM padedit parameters  
+\i (00:01:16) FORM padedit layers  
+\i (00:01:18) FORM padedit parameters  
+\i (00:01:22) FORM padedit layers  
+\i (00:01:39) FORM padedit parameters  
+\i (00:01:55) FORM padedit antipad_keepouts YES 
+\i (00:01:57) FORM padedit layers  
+\i (00:02:05) pse_open 
+\i (00:02:19) fillin "E:\cadence lib\foorprint\H-2\c160h105t155_190_40.pad"
+\i (00:02:19) cd "E:\cadence lib\foorprint\H-2"
+\t (00:02:19)     Journal end - Fri Dec 02 22:39:40 2016

@@ -1,0 +1,22 @@
+\t (00:00:01) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:00:01)     Journal start - Sun Dec 11 22:56:26 2016
+\t (00:00:01)         Host=PSAI-PC User=psai Pid=2092 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: E:/cadence lib/foorprint/H-1/h-1.dra
+\i (00:00:03) trapsize 620
+\i (00:00:03) trapsize 607
+\i (00:00:03) trapsize 623
+\i (00:00:04) trapsize 535
+\i (00:00:04) trapsize 535
+\i (00:00:04) generaledit 
+\i (00:00:05) open 
+\i (00:00:24) fillin "E:\material\glass\workspace\hardware\6.glass v1.1\core-pcb\core.brd"
+\i (00:00:24) cd "E:\material\glass\workspace\hardware\6.glass v1.1\core-pcb"
+\t (00:00:24) Opening existing design...
+\i (00:00:25) trapsize 10461
+\i (00:00:25) trapsize 10227
+\i (00:00:25) trapsize 10461
+\i (00:00:25) trapsize 10461
+\t (00:00:25)     Journal end - Sun Dec 11 22:56:50 2016

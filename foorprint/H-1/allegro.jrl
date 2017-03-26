@@ -1,0 +1,44 @@
+\t (00:04:26) allegro 16.6-2015 S065 (v16-6-112FH) Windows 32
+\t (00:04:26)     Journal start - Sun Dec 11 23:02:14 2016
+\t (00:04:26)         Host=PSAI-PC User=psai Pid=8960 CPUs=4
+\t (00:04:26) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:04:26) 
+\d (00:04:26) Design opened: E:/cadence lib/foorprint/H-1/h-1.dra
+\i (00:04:27) generaledit 
+\i (00:04:27) zoom in 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in -0.6954 0.5454
+\i (00:04:27) trapsize 267
+\i (00:04:27) delete 
+\i (00:04:28) pick grid -1.3051 0.6952
+\t (00:04:28) last pick:  -1.3000 0.7000
+\t (00:04:28) Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\i (00:04:29) pick grid -0.9307 1.2674
+\t (00:04:29) last pick:  -0.9000 1.3000
+\t (00:04:29) Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\i (00:04:30) pick grid 1.2566 0.6310
+\t (00:04:30) last pick:  1.3000 0.6000
+\t (00:04:30) Vertical Line Segment "Package Geometry/Silkscreen_Top"
+\i (00:04:31) zoom out 1 
+\i (00:04:31) setwindow pcb
+\i (00:04:31) zoom out 0.8876 0.5294
+\i (00:04:31) trapsize 535
+\i (00:04:32) pick grid 0.3849 -1.3209
+\t (00:04:32) last pick:  0.4000 -1.3000
+\t (00:04:32) Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\i (00:04:32) prepopup -2.0217 1.6739
+\i (00:04:33) done 
+\i (00:04:33) generaledit 
+\i (00:04:48) save 
+\i (00:04:49) fillin yes 
+\t (00:04:49) Symbol 'h-1.psm' created.
+\i (00:04:50) generaledit 
+\i (00:04:53) open 
+\i (00:05:10) fillin "E:\material\glass\workspace\hardware\6.glass v1.1\core-pcb\core.brd"
+\i (00:05:10) cd "E:\material\glass\workspace\hardware\6.glass v1.1\core-pcb"
+\t (00:05:10) Opening existing design...
+\i (00:05:10) trapsize 5230
+\i (00:05:10) trapsize 5113
+\i (00:05:10) trapsize 5230
+\i (00:05:11) trapsize 5230
+\t (00:05:11)     Journal end - Sun Dec 11 23:02:59 2016

@@ -1,0 +1,37 @@
+\t (00:00:11) pad_designer 16.6 S032 (v16-6-112CK) Windows 32
+\t (00:00:11)     Journal start - Wed Oct 07 09:24:28 2015
+\t (00:00:11)         Host=HFP-20120615TNE User=Administrator Pid=3856 CPUs=4
+\t (00:00:11) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:11) 
+\i (00:00:20) FORM padedit layers  
+\i (00:00:27) FORM padedit geometry Rectangle 
+\i (00:00:32) FORM padedit height 600.0 
+\i (00:00:32) FORM padedit grid row soldermask_top 
+\i (00:00:38) FORM padedit height 60.0 
+\i (00:00:38) FORM padedit grid row soldermask_bottom 
+\i (00:00:40) FORM padedit grid row soldermask_top 
+\i (00:00:43) FORM padedit grid row pastemask_top 
+\i (00:00:49) FORM padedit height 60.0 
+\i (00:00:49) FORM padedit grid row soldermask_bottom 
+\i (00:00:50) FORM padedit grid row soldermask_top 
+\i (00:00:53) FORM padedit geometry Rectangle 
+\i (00:00:57) FORM padedit width 120.0 
+\i (00:00:57) FORM padedit grid row pastemask_top 
+\i (00:00:59) FORM padedit geometry Rectangle 
+\i (00:01:02) FORM padedit width 120.0 
+\i (00:01:04) FORM padedit grid row begin_layer 
+\i (00:01:05) FORM padedit grid row soldermask_top 
+\i (00:01:06) FORM padedit grid row begin_layer 
+\i (00:01:10) FORM padedit height 60.0 
+\i (00:01:10) FORM padedit grid row soldermask_top 
+\i (00:01:11) FORM padedit grid row begin_layer 
+\i (00:01:12) FORM padedit grid row soldermask_top 
+\i (00:01:13) FORM padedit grid row begin_layer 
+\i (00:01:13) FORM padedit grid row soldermask_top 
+\i (00:01:15) FORM padedit grid row pastemask_top 
+\i (00:01:16) FORM padedit parameters  
+\i (00:01:18) FORM padedit layers  
+\i (00:01:21) pse_save 
+\i (00:01:25) fillin yes 
+\i (00:01:30) pse_exit
+\t (00:01:30)     Journal end - Wed Oct 07 09:25:47 2015
